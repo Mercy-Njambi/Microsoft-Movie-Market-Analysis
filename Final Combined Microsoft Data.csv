@@ -1,0 +1,1571 @@
+,release_date,movie,production_budget_millions,domestic_gross_millions,worldwide_gross_millions,vote_average,vote_count,start_year,genres,directors_name,movie_profits_millions
+0,18-Dec-09,Avatar,425.0,760.507625,2776.345279,7.4,18676,2009,"Action, Sci-Fi",James Cameron,2351.345279
+1,20-May-11,Pirates of the Caribbean: On Stranger Tides,410.6,241.063875,1045.663875,6.4,8571,2011,"Action,Adventure,Fantasy",Rob Marshall,635.0638749999999
+2,1-May-15,Avengers: Age of Ultron,330.6,459.005868,1403.013963,7.3,13457,2015,"Action,Adventure,Sci-Fi",Joss Whedon,1072.413963
+3,17-Nov-17,Justice League,300.0,229.024295,655.945209,6.2,7510,2017,"Action,Adventure,Fantasy",Zack Snyder,355.945209
+4,6-Nov-15,Spectre,300.0,200.074175,879.620923,6.4,6719,2015,"Action,Adventure,Thriller",Sam Mendes,579.620923
+5,20-Jul-12,The Dark Knight Rises,275.0,448.139099,1084.439099,7.7,13933,2012,"Action,Thriller",Christopher Nolan,809.4390989999999
+6,25-May-18,Solo: A Star Wars Story,275.0,213.767512,393.151347,6.6,3838,2018,"Action,Adventure,Fantasy",Ron Howard,118.15134699999999
+7,2-Jul-13,The Lone Ranger,275.0,89.302115,260.002115,6.0,3789,2013,"Action,Adventure,Western",Gore Verbinski,-14.997884999999997
+8,9-Mar-12,John Carter,275.0,73.058679,282.7781,6.1,3338,2012,"Action,Adventure,Sci-Fi",Andrew Stanton,7.778099999999995
+9,25-Mar-16,Batman v Superman: Dawn of Justice,250.0,330.360194,867.500281,5.8,11991,2016,"Action,Adventure,Fantasy",Zack Snyder,617.500281
+10,14-Dec-12,The Hobbit: An Unexpected Journey,250.0,303.003568,1017.003568,7.2,12076,2012,"Adventure,Family,Fantasy",Peter Jackson,767.003568
+11,13-Dec-13,The Hobbit: The Desolation of Smaug,250.0,258.366855,960.366855,7.6,7739,2013,"Adventure,Fantasy",Peter Jackson,710.366855
+12,17-Dec-14,The Hobbit: The Battle of the Five Armies,250.0,255.119788,945.577621,7.3,8392,2014,"Adventure,Fantasy",Peter Jackson,695.577621
+13,14-Apr-17,The Fate of the Furious,250.0,225.764765,1234.846267,6.9,6335,2017,"Action,Crime,Thriller",F. Gary Gray,984.8462669999999
+14,4-May-12,The Avengers,225.0,623.279547,1517.935897,7.6,19673,2012,"Action,Adventure,Sci-Fi",Joss Whedon,1292.935897
+15,14-Jun-13,Man of Steel,225.0,291.045518,667.999518,6.5,9758,2013,"Action,Adventure,Sci-Fi",Zack Snyder,442.99951799999997
+16,3-Jul-12,The Amazing Spider-Man,220.0,262.030663,757.890267,6.5,10411,2012,"Action,Adventure,Sci-Fi",Marc Webb,537.890267
+17,18-May-12,Battleship,220.0,65.2334,313.477717,5.6,3240,2012,"Action,Adventure,Sci-Fi",Peter Berg,93.47771699999998
+18,21-Jun-17,Transformers: The Last Knight,217.0,130.168683,602.89334,6.0,3255,2017,"Action,Adventure,Sci-Fi",Michael Bay,385.89333999999997
+19,12-Jun-15,Jurassic World,215.0,652.270625,1648.854864,6.6,14056,2015,"Action,Adventure,Sci-Fi",Colin Trevorrow,1433.854864
+20,25-May-12,Men in Black 3,215.0,179.020854,654.213485,6.4,6398,2012,"Action,Adventure,Comedy",Barry Sonnenfeld,439.213485
+21,27-Jun-14,Transformers: Age of Extinction,210.0,245.439076,1104.039076,5.8,4805,2014,"Action,Adventure,Sci-Fi",Michael Bay,894.039076
+22,14-May-10,Robin Hood,210.0,105.487148,322.459006,6.3,2569,2010,"Action,Adventure,Drama",Ridley Scott,112.45900599999999
+25,21-Nov-18,Robin Hood,99.0,30.824628,84.747441,6.3,2569,2010,"Action,Adventure,Drama",Ridley Scott,-14.252559000000005
+46,16-Feb-18,Black Panther,200.0,700.059566,1348.258224,5.1,11,2018,"Action,Adventure,Sci-Fi",Ryan Coogler,1148.258224
+48,15-Jun-18,Incredibles 2,200.0,608.581744,1242.520711,7.6,6354,2018,"Action,Adventure,Animation",Brad Bird,1042.520711
+49,16-Dec-16,Rogue One: A Star Wars Story,200.0,532.177324,1049.102856,7.5,9296,2016,"Action,Adventure,Sci-Fi",Gareth Edwards,849.102856
+50,18-Jun-10,Toy Story 3,200.0,415.00488,1068.879522,7.7,8340,2010,"Adventure,Animation,Comedy",Lee Unkrich,868.879522
+51,3-May-13,Iron Man 3,200.0,408.992272,1215.392272,6.9,14155,2013,"Action,Adventure,Sci-Fi",Shane Black,1015.392272
+52,5-Mar-10,Alice in Wonderland,200.0,334.19111,1025.49111,6.6,8713,2010,"Adventure,Family,Fantasy",Tim Burton,825.4911099999999
+54,8-Nov-12,Skyfall,200.0,304.360277,1110.526981,7.1,10441,2012,"Action,Adventure,Thriller",Sam Mendes,910.526981
+55,21-Jun-13,Monsters University,200.0,268.488329,743.588329,7.0,6362,2013,"Adventure,Animation,Comedy",Dan Scanlon,543.588329
+56,8-Mar-13,Oz the Great and Powerful,200.0,234.770996,490.359051,5.8,4829,2013,"Adventure,Family,Fantasy",Sam Raimi,290.359051
+57,23-May-14,X-Men: Days of Future Past,200.0,233.921534,747.862775,7.5,10062,2014,"Action,Adventure,Sci-Fi",Bryan Singer,547.862775
+58,2-May-14,The Amazing Spider-Man 2,200.0,202.853933,708.996336,6.4,7220,2014,"Action,Adventure,Sci-Fi",Marc Webb,508.99633600000004
+59,16-Nov-18,Fantastic Beasts: The Crimes of Grindelwald,200.0,159.555901,652.220086,6.9,4870,2018,"Adventure,Family,Fantasy",David Yates,452.22008600000004
+60,17-Jun-11,Green Lantern,200.0,116.601172,219.535492,5.1,4290,2011,"Action,Adventure,Sci-Fi",Martin Campbell,19.535492000000005
+61,29-Jun-11,Transformers: Dark of the Moon,195.0,352.390543,1123.790543,6.1,4961,2011,"Action,Adventure,Sci-Fi",Michael Bay,928.7905430000001
+62,9-Jun-17,The Mummy,195.0,80.101125,409.953905,5.5,4391,2017,"Action,Adventure,Fantasy",Alex Kurtzman,214.95390500000002
+63,7-May-99,The Mummy,80.0,155.385488,416.385488,5.5,4391,2017,"Action,Adventure,Fantasy",Alex Kurtzman,336.385488
+64,1-Mar-13,Jack the Giant Slayer,195.0,65.187603,197.687603,5.6,3403,2013,"Adventure,Fantasy",Bryan Singer,2.6876029999999957
+65,3-Apr-15,Furious 7,190.0,353.00702,1518.722794,7.3,6538,2015,"Action,Crime,Thriller",James Wan,1328.722794
+66,16-May-13,Star Trek Into Darkness,190.0,228.778661,467.381584,7.4,6182,2013,"Action,Adventure,Sci-Fi",J.J. Abrams,277.381584
+67,21-Jun-13,World War Z,190.0,202.359711,531.51465,6.7,9132,2013,"Action,Adventure,Horror",Marc Forster,341.51464999999996
+68,10-May-13,The Great Gatsby,190.0,144.840419,351.040419,7.4,7120,2013,"Drama,Romance",Baz Luhrmann,161.04041899999999
+69,29-Mar-74,The Great Gatsby,7.0,26.5332,26.5332,7.4,7120,2013,"Drama,Romance",Baz Luhrmann,19.5332
+70,12-Jul-13,Pacific Rim,190.0,101.802906,411.002906,6.8,7632,2013,"Action,Adventure,Sci-Fi",Guillermo del Toro,221.002906
+71,25-Nov-15,The Good Dinosaur,187.5,123.08712,333.771037,6.7,3135,2015,"Adventure,Animation,Comedy",Peter Sohn,146.27103699999998
+72,22-Jun-12,Brave,185.0,237.282182,554.606532,5.0,1,2014,Drama,Lowladee Omolola Adeleke,369.606532
+74,10-Mar-17,Kong: Skull Island,185.0,168.052812,561.072059,6.3,6054,2017,"Action,Adventure,Fantasy",Jordan Vogt-Roberts,376.07205899999997
+75,22-Jul-16,Star Trek Beyond,185.0,158.84834,335.802233,6.7,4275,2016,"Action,Adventure,Sci-Fi",Justin Lin,150.802233
+76,6-Oct-17,Blade Runner 2049,185.0,92.054159,259.357408,7.4,6679,2017,"Drama,Mystery,Sci-Fi",Denis Villeneuve,74.35740800000002
+77,3-Nov-17,Thor: Ragnarok,180.0,315.058289,846.980024,7.5,11380,2017,"Action,Adventure,Comedy",Taika Waititi,666.980024
+78,30-May-14,Maleficent,180.0,241.407328,758.536735,7.0,8143,2014,"Action,Adventure,Family",Robert Stromberg,578.536735
+79,18-Nov-16,Fantastic Beasts and Where to Find Them,180.0,234.037575,802.402853,7.4,12152,2016,"Adventure,Family,Fantasy",David Yates,622.402853
+80,1-Jul-16,The Legend of Tarzan,180.0,126.643061,348.902025,5.8,4102,2016,"Action,Adventure,Drama",David Yates,168.90202499999998
+81,23-Nov-11,Hugo,180.0,73.864507,180.047784,7.1,4124,2011,"Adventure,Drama,Family",Martin Scorsese,0.047784000000007154
+83,21-Jul-17,Valerian and the City of a Thousand Planets,180.0,40.47937,215.098356,6.6,4149,2017,"Action,Adventure,Fantasy",Luc Besson,35.098355999999995
+84,27-May-16,X-Men: Apocalypse,178.0,155.442489,542.537546,6.5,8348,2016,"Action,Adventure,Sci-Fi",Bryan Singer,364.537546
+85,10-Aug-18,The Meg,178.0,145.443742,529.530715,5.9,2896,2018,"Action,Horror,Sci-Fi",Jon Turteltaub,351.530715
+86,6-Jun-14,Edge of Tomorrow,178.0,100.206256,370.541256,7.6,8047,2014,"Action,Sci-Fi",Doug Liman,192.54125599999998
+87,15-Apr-16,The Jungle Book,175.0,364.001123,962.854547,6.8,5257,2016,"Adventure,Drama,Family",Jon Favreau,787.854547
+88,25-Dec-94,The Jungle Book,27.0,44.342956,44.342956,6.8,5257,2016,"Adventure,Drama,Family",Jon Favreau,17.342956
+89,19-Jun-15,Inside Out,175.0,356.461711,854.235992,4.4,18,2011,"Crime,Drama",Artie Mandelberg,679.235992
+93,7-Jul-17,Spider-Man: Homecoming,175.0,334.20114,880.16635,7.4,11585,2017,"Action,Adventure,Sci-Fi",Jon Watts,705.16635
+94,5-Aug-16,Suicide Squad,175.0,325.100054,746.059887,5.9,13533,2016,"Action,Adventure,Fantasy",David Ayer,571.059887
+95,16-Jun-17,Cars 3,175.0,152.901115,383.541369,6.7,2596,2017,"Adventure,Animation,Comedy",Brian Fee,208.54136899999997
+96,12-May-17,King Arthur: Legend of the Sword,175.0,39.175066,139.630336,6.5,3305,2017,"Action,Adventure,Drama",Guy Ritchie,-35.369664
+97,25-Dec-13,47 Ronin,175.0,38.362475,151.716815,6.0,2080,2013,"Action,Adventure,Drama",Carl Rinsch,-23.283185000000003
+98,22-Jun-18,Jurassic World: Fallen Kingdom,170.0,417.71976,1305.772799,6.5,5995,2018,"Action,Adventure,Sci-Fi",J.A. Bayona,1135.772799
+99,1-Aug-14,Guardians of the Galaxy,170.0,333.172112,770.867516,7.9,17958,2014,"Action,Adventure,Comedy",James Gunn,600.867516
+100,7-May-10,Iron Man 2,170.0,312.433331,621.156389,6.8,12368,2010,"Action,Adventure,Sci-Fi",Jon Favreau,451.156389
+101,11-Jul-14,Dawn of the Planet of the Apes,170.0,208.545589,710.644566,7.3,7080,2014,"Action,Adventure,Drama",Matt Reeves,540.644566
+102,1-Jun-12,Snow White and the Huntsman,170.0,155.136755,401.021746,5.9,5258,2012,"Action,Adventure,Drama",Rupert Sanders,231.021746
+103,22-May-15,Tomorrowland,170.0,93.436322,206.627518,6.2,4610,2015,"Action,Adventure,Family",Brad Bird,36.62751800000001
+105,27-May-16,Alice Through the Looking Glass,170.0,77.042381,276.928112,6.5,3803,2016,"Adventure,Family,Fantasy",James Bobin,106.928112
+106,21-May-10,Shrek Forever After,165.0,238.736787,756.244673,6.1,3843,2010,"Adventure,Animation,Comedy",Mike Mitchell,591.244673
+107,4-Nov-16,Doctor Strange,165.0,232.64192,676.404566,7.3,12582,2016,"Action,Adventure,Fantasy",Scott Derrickson,511.40456600000005
+108,2-Nov-12,Wreck-It Ralph,165.0,189.412677,496.511521,7.3,7780,2012,"Adventure,Animation,Comedy",Rich Moore,331.511521
+109,5-Nov-14,Interstellar,165.0,188.017894,666.379375,8.2,18597,2014,"Adventure,Drama,Sci-Fi",Christopher Nolan,501.379375
+110,24-Jun-16,Independence Day: Resurgence,165.0,103.144286,384.169424,5.1,3911,2016,"Action,Adventure,Sci-Fi",Roland Emmerich,219.169424
+111,17-Mar-17,Beauty and the Beast,160.0,504.014165,1259.199706,7.7,5730,2014,"Drama,Fantasy,Romance",Christophe Gans,1099.199706
+114,13-Nov-91,Beauty and the Beast,20.0,376.057266,608.431132,7.7,5730,2014,"Drama,Fantasy,Romance",Christophe Gans,588.431132
+123,21-Dec-18,Aquaman,160.0,335.061807,1146.89464,6.8,6155,2018,"Action,Adventure,Fantasy",James Wan,986.89464
+124,16-Jul-10,Inception,160.0,292.576195,835.524642,8.3,22186,2010,"Action,Adventure,Sci-Fi",Christopher Nolan,675.524642
+125,20-Nov-15,The Hunger Games: Mockingjay - Part 2,160.0,281.723902,648.986787,6.8,7609,2015,"Action,Adventure,Sci-Fi",Francis Lawrence,488.98678700000005
+126,16-May-14,Godzilla,160.0,200.676069,529.076069,6.1,5053,2014,"Action,Adventure,Sci-Fi",Gareth Edwards,369.07606899999996
+127,19-May-98,Godzilla,125.0,136.314294,376.0,6.1,5053,2014,"Action,Adventure,Sci-Fi",Gareth Edwards,251.0
+128,3-Jun-11,X-Men: First Class,160.0,146.408305,355.408305,7.2,8211,2011,"Action,Adventure,Sci-Fi",Matthew Vaughn,195.40830499999998
+129,14-Jul-10,The Sorcerer's Apprentice,160.0,63.150991,217.98632,5.9,2879,2010,"Action,Adventure,Family",Jon Turteltaub,57.986320000000006
+130,10-Jun-16,Warcraft,160.0,47.225655,425.522281,6.3,4071,2016,"Action,Adventure,Fantasy",Duncan Jones,265.522281
+131,30-Sep-16,Deepwater Horizon,156.0,61.433527,122.603824,6.7,2606,2016,"Action,Drama,History",Peter Berg,-33.396176
+132,10-Dec-10,The Chronicles of Narnia: The Voyage of the Dawn Treader,155.0,104.38695,418.18695,6.3,3196,2010,"Adventure,Family,Fantasy",Michael Apted,263.18695
+133,23-Mar-18,Pacific Rim: Uprising,155.0,59.874525,290.930148,5.9,2213,2018,"Action,Adventure,Sci-Fi",Steven S. DeKnight,135.93014799999997
+134,14-Jul-17,War for the Planet of the Apes,152.0,146.880162,489.592267,7.0,5235,2017,"Action,Adventure,Drama",Matt Reeves,337.592267
+135,2-Jun-17,Wonder Woman,150.0,412.563408,821.133378,5.9,34,2017,"Action,Adventure,Fantasy",Patty Jenkins,671.133378
+137,22-Nov-13,Frozen,150.0,400.738009,1272.46991,5.8,987,2010,"Adventure,Drama,Sport",Adam Green,1122.46991
+139,8-Nov-13,Thor: The Dark World,150.0,206.36214,644.602516,6.7,10171,2013,"Action,Adventure,Fantasy",Alan Taylor,494.60251600000004
+140,21-Jul-17,Dunkirk,150.0,190.06828,499.837368,7.4,9156,2017,"Action,Drama,History",Christopher Nolan,349.837368
+141,6-May-11,Thor,150.0,181.030624,449.326618,6.7,12764,2011,"Action,Adventure,Fantasy",Kenneth Branagh,299.326618
+142,26-May-11,Kung Fu Panda 2,150.0,165.249063,664.837547,6.7,3628,2011,"Action,Adventure,Animation",Jennifer Yuh Nelson,514.837547
+143,15-May-15,Mad Max: Fury Road,150.0,153.636354,370.09802,7.4,14454,2015,"Action,Adventure,Sci-Fi",George Miller,220.09802000000002
+144,29-Mar-18,Ready Player One,150.0,137.690172,579.290136,7.6,7021,2018,"Action,Adventure,Sci-Fi",Steven Spielberg,429.29013599999996
+145,1-Jul-10,The Last Airbender,150.0,131.772187,319.713881,4.6,2143,2010,"Action,Adventure,Family",M. Night Shyamalan,169.71388100000001
+146,30-Mar-12,Wrath of the Titans,150.0,83.670083,305.270083,5.6,2442,2012,"Action,Adventure,Fantasy",Jonathan Liebesman,155.270083
+147,11-May-12,Dark Shadows,150.0,79.727149,238.202668,5.9,4197,2012,"Comedy,Fantasy,Horror",Tim Burton,88.20266799999999
+148,28-Jun-13,White House Down,150.0,73.103784,205.440387,6.4,2817,2013,"Action,Drama,Thriller",Roland Emmerich,55.44038699999999
+149,12-Feb-10,The Wolfman,150.0,62.189884,142.634358,5.7,1009,2010,"Drama,Fantasy,Horror",Joe Johnston,-7.365642000000008
+150,17-Feb-17,The Great Wall,150.0,45.157105,334.486852,5.8,2775,2016,"Action,Adventure,Fantasy",Yimou Zhang,184.486852
+152,9-Oct-15,Pan,150.0,35.08832,151.525973,5.9,1701,2015,"Adventure,Comedy,Family",Joe Wright,1.5259729999999934
+153,11-Mar-11,Mars Needs Moms,150.0,21.392758,39.549758,5.7,299,2011,"Adventure,Animation,Family",Simon Wells,-110.450242
+154,13-Jun-14,How to Train Your Dragon 2,145.0,177.002924,614.58627,7.7,5589,2014,"Action,Adventure,Animation",Dean DeBlois,469.58627
+155,16-Jun-99,Tarzan,145.0,171.091819,448.191819,5.5,348,2013,"Adventure,Animation,Drama",Reinhard Klooss,303.191819
+156,7-Mar-14,Mr. Peabody & Sherman,145.0,111.50643,269.80643,6.6,1357,2014,"Adventure,Animation,Comedy",Rob Minkoff,124.80642999999998
+157,21-Nov-12,Rise of the Guardians,145.0,103.412758,306.900902,7.3,3697,2012,"Action,Adventure,Animation",Peter Ramsey,161.90090199999997
+158,15-Jul-16,Ghostbusters,144.0,128.350574,229.008658,5.4,3780,2016,"Action,Comedy,Fantasy",Paul Feig,85.008658
+159,8-Jun-84,Ghostbusters,30.0,242.212467,295.212467,5.4,3780,2016,"Action,Comedy,Fantasy",Paul Feig,265.212467
+160,22-Jul-11,Captain America: The First Avenger,140.0,176.654505,370.569776,6.9,12810,2011,"Action,Adventure,Sci-Fi",Joe Johnston,230.569776
+161,27-Mar-13,G.I. Joe: Retaliation,140.0,122.52306,375.740705,5.5,3883,2013,"Action,Adventure,Sci-Fi",Jon M. Chu,235.740705
+162,12-Dec-14,Exodus: Gods and Kings,140.0,65.014513,268.314513,5.7,2909,2014,"Action,Adventure,Drama",Ridley Scott,128.31451299999998
+163,1-Jul-16,The BFG,140.0,55.48377,199.64668,6.2,1916,2016,"Adventure,Family,Fantasy",Steven Spielberg,59.64668
+164,26-Feb-16,Gods of Egypt,140.0,31.153464,138.836756,5.4,2353,2016,"Action,Adventure,Fantasy",Alex Proyas,-1.1632439999999917
+165,25-Dec-15,The Revenant,135.0,183.637894,532.938302,7.4,11064,2015,"Action,Adventure,Biography",Alejandro G. Iñárritu,397.938302
+167,4-Mar-11,Rango,135.0,123.477607,245.7246,6.6,3412,2011,"Adventure,Animation,Comedy",Gore Verbinski,110.72460000000001
+168,17-Jul-13,Turbo,135.0,83.02813,286.896578,6.1,1758,2013,"Adventure,Animation,Comedy",David Soren,151.89657799999998
+169,3-Jun-16,Teenage Mutant Ninja Turtles: Out of the Shadows,135.0,82.051601,245.328374,5.9,1860,2016,"Action,Adventure,Comedy",Dave Green,110.328374
+170,29-Jun-05,War of the Worlds,132.0,234.280354,606.836535,7.1,5,2013,Sci-Fi,Christopher H. Baum,474.836535
+172,22-Nov-13,The Hunger Games: Catching Fire,130.0,424.668047,864.868047,7.4,11170,2013,"Action,Adventure,Sci-Fi",Francis Lawrence,734.868047
+173,6-Jul-18,Ant-Man and the Wasp,130.0,216.64874,623.14466,7.0,6290,2018,"Action,Adventure,Comedy",Peyton Reed,493.14466000000004
+174,17-Jul-15,Ant-Man,130.0,180.202163,518.858449,7.1,11949,2015,"Action,Adventure,Comedy",Peyton Reed,388.85844899999995
+175,27-Mar-15,Home,130.0,177.39751,385.997896,5.4,11,2011,Drama,Muzaffer Özdemir,255.99789600000003
+182,23-Apr-09,Home,0.5,0.015433,44.793168,5.4,11,2011,Drama,Muzaffer Özdemir,44.293168
+273,19-Dec-18,Mary Poppins Returns,130.0,171.958438,341.528518,6.6,1457,2018,"Comedy,Family,Fantasy",Rob Marshall,211.52851800000002
+274,28-Oct-11,Puss in Boots,130.0,149.260504,554.987477,6.3,1422,2011,"Action,Adventure,Animation",Chris Miller,424.987477
+275,5-Nov-10,Megamind,130.0,148.415853,321.887208,6.8,3635,2010,"Action,Animation,Comedy",Tom McGrath,191.887208
+276,11-Apr-14,Rio 2,130.0,131.538435,492.846291,6.3,1803,2014,"Adventure,Animation,Comedy",Carlos Saldanha,362.846291
+277,23-Jul-10,Salt,130.0,118.311368,290.650494,6.3,3240,2010,"Action,Mystery,Thriller",Phillip Noyce,160.65049399999998
+279,28-Mar-14,Noah,130.0,101.200044,352.831065,7.6,11,2014,"Action,Adventure,Drama",Darren Aronofsky,222.83106500000002
+285,21-Dec-11,The Adventures of Tintin,130.0,77.591831,373.993951,6.8,3251,2011,"Action,Adventure,Animation",Steven Spielberg,243.99395099999998
+286,31-May-13,After Earth,130.0,60.522097,251.499665,5.1,4154,2013,"Action,Adventure,Drama",M. Night Shyamalan,121.499665
+287,19-Jul-13,R.I.P.D.,130.0,33.618855,79.076678,5.6,2047,2013,"Action,Adventure,Comedy",Robert Schwentke,-50.923322
+288,3-Mar-17,Logan,127.0,226.277068,615.461394,6.1,4,2017,"Action,Drama,Sci-Fi",James Mangold,488.46139400000004
+290,19-Dec-14,Night at the Museum: Secret of the Tomb,127.0,113.746621,353.756621,6.1,3536,2014,"Adventure,Comedy,Family",Shawn Levy,226.756621
+291,21-Nov-14,The Hunger Games: Mockingjay - Part 1,125.0,337.135885,766.575131,6.8,10087,2014,"Action,Adventure,Sci-Fi",Francis Lawrence,641.575131
+292,29-Apr-11,Fast Five,125.0,210.031325,630.163454,7.2,4294,2011,"Action,Crime,Thriller",Justin Lin,505.163454
+293,8-Aug-14,Teenage Mutant Ninja Turtles,125.0,191.204754,485.004754,5.8,4259,2014,"Action,Adventure,Comedy",Jonathan Liebesman,360.004754
+294,30-Mar-90,Teenage Mutant Ninja Turtles,13.5,135.265915,202.0,5.8,4259,2014,"Action,Adventure,Comedy",Jonathan Liebesman,188.5
+295,16-Dec-11,Sherlock Holmes: A Game of Shadows,125.0,186.848418,535.663443,7.1,6380,2011,"Action,Adventure,Crime",Guy Ritchie,410.66344300000003
+296,31-Mar-17,The Boss Baby,125.0,175.003033,510.878762,6.4,4314,2017,"Adventure,Animation,Comedy",Tom McGrath,385.878762
+297,1-Apr-10,Clash of the Titans,125.0,163.214888,493.214888,5.7,3714,2010,"Action,Adventure,Fantasy",Louis Leterrier,368.214888
+298,12-Jun-81,Clash of the Titans,15.0,30.0,44.4,5.7,3714,2010,"Action,Adventure,Fantasy",Louis Leterrier,29.4
+299,8-Jun-12,Prometheus,125.0,126.477084,402.448265,6.4,7384,2012,"Adventure,Mystery,Sci-Fi",Ridley Scott,277.448265
+300,10-Aug-12,The Bourne Legacy,125.0,113.20387,280.35592,6.1,3630,2012,"Action,Adventure,Thriller",Tony Gilroy,155.35592000000003
+301,13-Jul-18,Skyscraper,125.0,68.42012,304.115534,6.1,2177,2018,"Action,Adventure,Thriller",Rawson Marshall Thurber,179.11553400000003
+302,3-Aug-12,Total Recall,125.0,58.877969,211.856088,5.9,3486,2012,"Action,Adventure,Mystery",Len Wiseman,86.856088
+303,1-Jun-90,Total Recall,65.0,119.394839,261.4,5.9,3486,2012,"Action,Adventure,Mystery",Len Wiseman,196.39999999999998
+306,13-Jan-17,Monster Trucks,125.0,33.370166,61.642798,5.9,414,2016,"Action,Adventure,Comedy",Chris Wedge,-63.357202
+307,29-Jul-16,Jason Bourne,120.0,162.19292,416.168316,6.1,3611,2016,"Action,Thriller",Paul Greengrass,296.168316
+308,21-Nov-12,Life of Pi,120.0,124.987022,620.912003,7.3,8723,2012,"Adventure,Drama,Fantasy",Ang Lee,500.912003
+309,13-Apr-18,Rampage,120.0,101.028233,428.05628,6.2,3176,2018,"Action,Adventure,Sci-Fi",Brad Peyton,308.05628
+310,9-Aug-13,Elysium,120.0,93.050117,286.192091,6.4,5406,2013,"Action,Drama,Sci-Fi",Neill Blomkamp,166.192091
+312,19-Apr-13,Oblivion,120.0,89.107235,287.916633,6.5,6850,2013,"Action,Adventure,Sci-Fi",Joseph Kosinski,167.916633
+314,24-Mar-17,Power Rangers,120.0,85.36445,142.531552,6.2,2667,2017,"Action,Adventure,Sci-Fi",Dean Israelite,22.531552000000005
+315,12-Feb-14,RoboCop,120.0,58.607007,242.981799,5.8,3390,2014,"Action,Crime,Sci-Fi",José Padilha,122.981799
+316,17-Jul-87,RoboCop,13.0,53.424681,53.424681,5.8,3390,2014,"Action,Crime,Sci-Fi",José Padilha,40.424681
+317,7-Aug-15,Fantastic Four,120.0,56.117548,167.849187,4.4,3837,2015,"Action,Adventure,Drama",Josh Trank,47.849187
+318,8-Jul-05,Fantastic Four,87.5,154.69608,333.13275,4.4,3837,2015,"Action,Adventure,Drama",Josh Trank,245.63275
+319,23-Jun-10,Knight and Day,117.0,76.423035,258.75137,6.0,2494,2010,"Action,Adventure,Comedy",James Mangold,141.75137
+320,5-Oct-18,Venom,116.0,213.511408,853.628605,4.3,6,2018,"Action,Sci-Fi,Thriller",Ruben Fleischer,737.628605
+322,16-Sep-05,Venom,25.0,0.881745,0.881745,4.3,6,2018,"Action,Sci-Fi,Thriller",Ruben Fleischer,-24.118255
+328,26-Jul-13,The Wolverine,115.0,132.556852,416.456852,6.3,6176,2013,"Action,Adventure,Sci-Fi",James Mangold,301.456852
+329,25-Dec-10,Gulliver's Travels,112.0,42.779261,232.017848,5.1,1282,2010,"Adventure,Comedy,Family",Rob Letterman,120.01784799999999
+330,15-Dec-17,Ferdinand,111.0,84.41038,289.84793,7.1,1425,2017,"Adventure,Animation,Comedy",Carlos Saldanha,178.84793000000002
+331,18-May-18,Deadpool 2,110.0,324.591735,786.680557,7.5,8773,2018,"Action,Adventure,Comedy",David Leitch,676.680557
+332,4-Oct-13,Gravity,110.0,274.092705,693.698673,7.2,9586,2013,"Drama,Sci-Fi,Thriller",Alfonso Cuarón,583.698673
+333,29-May-15,San Andreas,110.0,155.190832,456.258539,6.1,5125,2015,"Action,Adventure,Drama",Brad Peyton,346.258539
+334,29-Jul-11,The Smurfs,110.0,142.614158,563.749323,5.6,2112,2011,"Adventure,Animation,Comedy",Raja Gosnell,453.749323
+335,7-Mar-14,300: Rise of an Empire,110.0,106.580051,330.780051,6.0,3870,2014,"Action,Fantasy,War",Noam Murro,220.78005100000001
+336,21-Dec-16,Passengers,110.0,100.014699,302.239672,6.8,7869,2016,"Drama,Romance,Sci-Fi",Morten Tyldum,192.23967199999998
+337,14-Jan-11,The Green Hornet,110.0,98.780042,229.155503,5.5,1897,2011,"Action,Comedy,Crime",Michel Gondry,119.15550300000001
+338,7-Oct-11,Real Steel,110.0,85.463309,263.880341,6.8,4566,2011,"Action,Drama,Family",Shawn Levy,153.880341
+339,11-Jun-10,The A-Team,110.0,77.222099,177.241171,6.3,2703,2010,"Action,Adventure,Thriller",Joe Carnahan,67.24117100000001
+340,31-Jul-13,The Smurfs 2,110.0,71.017784,348.547523,5.7,1200,2013,"Adventure,Animation,Comedy",Raja Gosnell,238.547523
+341,1-Nov-13,Ender's Game,110.0,61.737191,127.983283,6.6,3558,2013,"Action,Adventure,Fantasy",Gavin Hood,17.983283
+342,31-Mar-17,Ghost in the Shell,110.0,40.563557,167.91069,6.0,5128,2017,"Action,Drama,Sci-Fi",Rupert Sanders,57.91068999999999
+343,2-Oct-15,The Martian,108.0,228.433663,655.271443,7.7,12172,2015,"Adventure,Drama,Sci-Fi",Ridley Scott,547.271443
+344,23-Nov-16,Allied,106.0,40.098064,119.266661,6.7,2765,2016,"Action,Drama,Romance",Robert Zemeckis,13.266661
+345,22-Sep-17,Kingsman: The Golden Circle,104.0,100.234838,408.803696,7.0,5531,2017,"Action,Adventure,Comedy",Matthew Vaughn,304.803696
+346,9-Mar-18,A Wrinkle in Time,103.0,100.478608,133.401882,5.0,1073,2018,"Adventure,Family,Fantasy",Ava DuVernay,30.401882
+347,21-Dec-18,Bumblebee,102.0,127.195589,465.195589,6.5,2425,2018,"Action,Adventure,Sci-Fi",Travis Knight,363.195589
+348,25-Dec-12,Django Unchained,100.0,162.805434,449.948323,8.0,15725,2012,"Drama,Western",Quentin Tarantino,349.948323
+349,22-Dec-10,Little Fockers,100.0,148.4386,310.650574,5.6,1883,2010,"Comedy,Romance",Paul Weitz,210.650574
+350,6-Aug-10,The Other Guys,100.0,119.219978,170.93647,6.2,2187,2010,"Action,Comedy,Crime",Adam McKay,70.93647000000001
+351,25-Dec-13,The Wolf of Wall Street,100.0,116.900694,389.870414,7.9,12411,2013,"Biography,Crime,Drama",Martin Scorsese,289.870414
+352,24-May-13,Epic,100.0,107.518682,262.794441,6.4,1670,2013,"Adventure,Animation,Family",Chris Wedge,162.794441
+353,17-Aug-12,The Expendables 2,100.0,85.028192,311.979256,6.2,4219,2012,"Action,Adventure,Thriller",Simon West,211.97925600000002
+354,25-Jul-14,Hercules,100.0,72.688614,243.388614,5.6,2606,2014,"Action,Adventure,Fantasy",Brett Ratner,143.388614
+355,13-Jun-97,Hercules,70.0,99.112101,250.7,5.6,2606,2014,"Action,Adventure,Fantasy",Brett Ratner,180.7
+356,10-Dec-10,The Tourist,100.0,67.631157,278.731369,6.1,3133,2010,"Action,Adventure,Thriller",Florian Henckel von Donnersmarck,178.73136899999997
+357,24-Sep-10,Legend of the Guardians: The Owls of Ga'Hoole,100.0,55.675313,139.716717,6.6,1223,2010,"Action,Adventure,Animation",Zack Snyder,39.71671699999999
+358,15-Aug-14,The Expendables 3,100.0,39.322544,209.461378,6.1,2876,2014,"Action,Adventure,Thriller",Patrick Hughes,109.461378
+359,12-Mar-10,Green Zone,100.0,35.497337,97.52302,6.4,1176,2010,"Action,Drama,Thriller",Paul Greengrass,-2.4769799999999975
+360,20-Oct-17,Geostorm,100.0,33.70016,220.796009,5.8,2246,2017,"Action,Sci-Fi,Thriller",Dean Devlin,120.796009
+361,25-Dec-15,Point Break,100.0,28.782481,126.704591,5.6,1260,2015,"Action,Crime,Sport",Ericson Core,26.704590999999994
+362,12-Jul-91,Point Break,24.0,43.218387,83.531958,5.6,1260,2015,"Action,Crime,Sport",Ericson Core,59.531958
+363,11-Dec-15,In the Heart of the Sea,100.0,25.020758,89.693309,6.6,2137,2015,"Action,Adventure,Biography",Ron Howard,-10.306691
+364,18-Apr-14,Transcendence,100.0,23.022309,103.039258,5.5,2,2012,Drama,Nicholas P. Richards,3.039258000000004
+368,14-Dec-18,Mortal Engines,100.0,15.95104,85.287417,6.0,1751,2018,"Action,Adventure,Fantasy",Christian Rivers,-14.712582999999995
+369,6-Nov-15,The Peanuts Movie,99.0,130.178411,250.09161,6.6,894,2015,"Adventure,Animation,Comedy",Steve Martino,151.09161
+370,19-May-17,Alien: Covenant,97.0,74.262031,238.521247,5.9,4971,2017,"Horror,Sci-Fi,Thriller",Ridley Scott,141.521247
+371,13-Mar-15,Cinderella,95.0,201.151353,534.551353,4.6,8,2018,Musical,Brad Dalton,439.55135299999995
+373,15-Feb-50,Cinderella,2.9,85.0,263.591415,4.6,8,2018,Musical,Brad Dalton,260.691415
+387,27-May-10,Sex and the City 2,95.0,95.347692,294.680778,5.9,809,2010,"Comedy,Drama,Romance",Michael Patrick King,199.68077799999998
+388,12-Feb-10,Percy Jackson & the Olympians: The Lightning Thief,95.0,88.768303,223.050874,6.1,4229,2010,"Adventure,Family,Fantasy",Chris Columbus,128.050874
+389,10-Aug-12,The Campaign,95.0,86.907746,104.907746,5.7,982,2012,Comedy,Jay Roach,9.907746000000003
+391,12-Nov-10,Unstoppable,95.0,81.562942,165.720921,6.4,1913,2010,"Action,Thriller",Tony Scott,70.720921
+401,19-Aug-16,Ben-Hur,95.0,26.410477,91.669648,5.6,1068,2016,"Action,Adventure,Drama",Timur Bekmambetov,-3.330352000000005
+402,18-Nov-59,Ben-Hur,15.0,73.0,73.259017,5.6,1068,2016,"Action,Adventure,Drama",Timur Bekmambetov,58.259017
+403,6-Feb-15,Seventh Son,95.0,17.725785,108.874967,5.3,1549,2014,"Action,Adventure,Fantasy",Sergei Bodrov,13.874966999999998
+404,13-Feb-15,Kingsman: The Secret Service,94.0,128.261724,404.561724,7.6,10287,2014,"Action,Adventure,Comedy",Matthew Vaughn,310.561724
+405,5-Aug-11,Rise of the Planet of the Apes,93.0,176.760185,470.9862,7.2,7259,2011,"Action,Drama,Sci-Fi",Rupert Wyatt,377.9862
+406,14-Feb-13,A Good Day to Die Hard,92.0,67.349198,304.249198,5.2,4437,2013,"Action,Thriller",John Moore,212.24919799999998
+407,25-Dec-13,The Secret Life of Walter Mitty,91.0,58.236838,187.861183,7.1,4859,2013,"Adventure,Comedy,Drama",Ben Stiller,96.86118300000001
+408,20-Dec-17,Jumanji: Welcome to the Jungle,90.0,404.508916,964.496193,6.7,7213,2017,"Action,Adventure,Comedy",Jake Kasdan,874.496193
+409,25-Dec-09,Sherlock Holmes,90.0,209.028679,498.438212,5.6,53,2011,Adventure,George Anton,408.438212
+410,15-Apr-11,Rio,90.0,143.619809,487.519809,6.6,3730,2011,"Adventure,Animation,Comedy",Carlos Saldanha,397.519809
+412,20-Dec-11,The Girl with the Dragon Tattoo,90.0,102.515793,239.37397,7.3,3971,2011,"Crime,Drama,Mystery",David Fincher,149.37397
+413,23-Sep-16,The Magnificent Seven,90.0,93.432655,162.525156,6.2,3647,2016,"Action,Adventure,Western",Antoine Fuqua,72.52515600000001
+414,18-Dec-15,Alvin and the Chipmunks: The Road Chip,90.0,85.886987,249.517956,5.8,852,2015,"Adventure,Animation,Comedy",Walt Becker,159.517956
+415,24-Jul-15,Pixels,90.0,78.765986,244.041804,7.1,35,2010,"Action,Comedy",Jacek Lusinski,154.041804
+419,7-Aug-13,Percy Jackson: Sea of Monsters,90.0,68.559554,200.859554,5.9,3109,2013,"Adventure,Family,Fantasy",Thor Freudenthal,110.859554
+420,10-Jun-16,Now You See Me 2,90.0,65.07554,328.325007,6.8,6744,2016,"Action,Adventure,Comedy",Jon M. Chu,238.32500700000003
+421,4-Apr-97,The Saint,90.0,61.363304,169.4,5.1,133,2016,Drama,Andrius Blazevicius,79.4
+422,16-Mar-18,Tomb Raider,90.0,58.250803,273.477501,6.3,4310,2018,"Action,Adventure,Fantasy",Roar Uthaug,183.47750100000002
+423,19-Aug-11,Conan the Barbarian,90.0,21.295021,63.356133,5.2,1024,2011,"Action,Adventure,Fantasy",Marcus Nispel,-26.643867
+424,14-May-82,Conan the Barbarian,20.0,38.264085,79.114085,5.2,1024,2011,"Action,Adventure,Fantasy",Marcus Nispel,59.114085
+425,21-Oct-11,The Three Musketeers,90.0,20.377913,139.877913,5.7,1596,2011,"Action,Adventure,Romance",Paul W.S. Anderson,49.87791300000001
+427,21-Apr-17,The Promise,90.0,8.224288,10.551417,9.0,1,2017,Drama,Edwine Dorival,-79.448583
+433,24-Nov-10,The Nutcracker in 3D,90.0,0.195459,20.466016,5.5,97,2010,"Action,Family,Fantasy",Andrey Konchalovskiy,-69.533984
+434,14-Sep-18,The Predator,88.0,51.024708,159.487563,5.2,2018,2018,"Action,Adventure,Sci-Fi",Shane Black,71.487563
+435,21-Mar-14,Divergent,85.0,150.947895,276.014965,6.9,8279,2014,"Action,Adventure,Mystery",Neil Burger,191.01496500000002
+436,28-Sep-12,Hotel Transylvania,85.0,148.313048,378.505812,6.9,5013,2012,"Animation,Comedy,Family",Genndy Tartakovsky,293.505812
+437,10-Feb-12,Safe House,85.0,126.18163,208.542162,6.4,1997,2012,"Action,Adventure,Crime",Daniel Espinosa,123.54216199999999
+438,4-Nov-11,Tower Heist,85.0,78.04657,150.422946,6.0,1592,2011,"Action,Comedy,Crime",Brett Ratner,65.422946
+439,30-Mar-12,Mirror Mirror,85.0,64.935167,173.613482,5.8,2099,2012,"Adventure,Comedy,Drama",Tarsem Singh,88.613482
+440,20-Jan-17,xXx: Return of Xander Cage,85.0,44.898413,345.033359,5.6,2452,2017,"Action,Adventure,Thriller",D.J. Caruso,260.033359
+441,30-Jul-10,Cats & Dogs: The Revenge of Kitty Galore,85.0,43.585753,113.026383,4.9,273,2010,"Action,Comedy,Family",Brad Peyton,28.026382999999996
+442,9-May-97,Father's Day,85.0,28.68108,35.68108,5.9,37,2020,Action,Quentin Lee,-49.31892
+445,20-Dec-17,The Greatest Showman,84.0,174.340174,386.66555,8.0,5197,2017,"Biography,Drama,Musical",Michael Gracey,302.66555
+446,19-Jul-13,RED 2,84.0,53.26256,141.507355,6.5,2368,2013,"Action,Comedy,Crime",Dean Parisot,57.50735499999999
+447,13-Aug-10,The Expendables,82.0,103.068524,268.268174,6.1,4647,2010,"Action,Adventure,Thriller",Sylvester Stallone,186.268174
+448,23-Mar-12,The Hunger Games,80.0,408.010692,677.923379,7.1,14587,2012,"Action,Adventure,Sci-Fi",Gary Ross,597.923379
+449,26-May-11,The Hangover Part II,80.0,254.464305,586.464305,6.4,6231,2011,"Comedy,Mystery",Todd Phillips,506.46430499999997
+450,10-Feb-17,The Lego Batman Movie,80.0,175.750384,310.660018,7.2,2882,2017,"Action,Animation,Comedy",Chris McKay,230.66001799999998
+451,25-Sep-15,Hotel Transylvania 2,80.0,169.70011,469.500298,6.7,3184,2015,"Animation,Comedy,Family",Genndy Tartakovsky,389.500298
+452,12-Jul-13,Grown Ups 2,80.0,133.668525,247.023808,5.9,2090,2013,Comedy,Dennis Dugan,167.023808
+453,16-Dec-11,Alvin and the Chipmunks: Chipwrecked,80.0,133.107389,349.088523,5.5,1055,2011,"Adventure,Animation,Comedy",Mike Mitchell,269.088523
+454,19-Feb-10,Shutter Island,80.0,128.012934,299.461782,8.1,12625,2010,"Mystery,Thriller",Martin Scorsese,219.46178200000003
+455,17-Dec-10,Yogi Bear,80.0,100.246011,204.77469,5.3,387,2010,"Adventure,Animation,Comedy",Eric Brevig,124.77468999999999
+456,17-Oct-14,Fury,80.0,85.817906,210.315681,7.4,6653,2014,"Action,Drama,War",David Ayer,130.315681
+457,8-Jul-11,Zookeeper,80.0,80.360866,170.805525,5.3,886,2011,"Comedy,Family,Romance",Frank Coraci,90.80552499999999
+458,8-Aug-97,Conspiracy Theory,80.0,76.11899,142.783718,6.5,707,2016,"Horror,Thriller",Jake Myers,62.78371799999999
+460,8-Jun-01,Evolution,80.0,38.311134,98.341932,6.3,73,2015,"Drama,Mystery,Sci-Fi",Lucile Hadzihalilovic,18.341932
+461,6-Dec-96,Daylight,80.0,32.90829,158.90829,4.2,3,2010,"Crime,Horror,Thriller",David Barker,78.90829
+463,23-Oct-15,The Last Witch Hunter,80.0,27.36766,130.818912,5.8,2193,2015,"Action,Adventure,Fantasy",Breck Eisner,50.81891200000001
+464,21-Feb-14,Pompeii,80.0,23.169033,108.469033,5.4,2078,2014,"Action,Adventure,Drama",Paul W.S. Anderson,28.469032999999996
+465,18-Dec-09,Nine,80.0,19.676965,53.508858,9.0,1,2016,Horror,Darren Lynch,-26.491142000000004
+466,15-Jun-94,The Lion King,79.3,421.785283,986.214868,8.2,10160,2019,"Adventure,Animation,Drama",Jon Favreau,906.9148680000001
+467,10-Feb-12,Journey 2: The Mysterious Island,79.0,103.86029,318.146162,5.9,2152,2012,"Action,Adventure,Comedy",Brad Peyton,239.146162
+468,11-Nov-11,Jack and Jill,79.0,74.158157,150.519217,4.1,1124,2011,Comedy,Dennis Dugan,71.519217
+469,12-Feb-16,The Little Prince,77.5,1.311213,102.028919,7.6,1493,2019,Action,Zhang Lei,24.528919000000002
+471,20-Jul-18,The Equalizer 2,77.0,102.084362,190.453132,6.4,2089,2018,"Action,Crime,Thriller",Antoine Fuqua,113.45313200000001
+472,25-Jun-10,Grown Ups,75.0,162.001186,272.22343,6.1,3171,2010,Comedy,Dennis Dugan,197.22343
+473,31-May-13,Now You See Me,75.0,117.723989,342.7692,7.4,9871,2013,"Crime,Mystery,Thriller",Louis Leterrier,267.7692
+475,3-Aug-18,Christopher Robin,75.0,99.215042,197.504758,7.4,1280,2018,"Adventure,Animation,Comedy",Marc Forster,122.50475800000001
+476,11-Nov-11,Immortals,75.0,83.504017,211.562435,5.8,1431,2011,"Action,Drama,Fantasy",Tarsem Singh,136.562435
+477,16-Apr-99,Life,75.0,64.062587,73.521587,6.1,210,2010,Documentary,Patrick Epape,-1.4784130000000033
+479,24-Mar-17,Life,58.0,30.234022,100.929666,6.1,210,2010,Documentary,Patrick Epape,42.929666
+497,4-Jun-10,Killers,75.0,47.059963,95.572749,5.8,1314,2010,"Action,Comedy,Romance",Robert Luketic,20.572749
+498,25-Mar-11,Sucker Punch,75.0,36.392502,89.758389,6.0,2716,2011,"Action,Adventure,Fantasy",Zack Snyder,14.758388999999994
+499,11-Mar-05,Hostage,75.0,34.636443,77.636443,3.8,3,2012,Thriller,Tony Glazer,2.636443
+501,28-Oct-16,Inferno,75.0,34.343574,219.519367,5.9,3877,2018,Documentary,Patrick Fileti,144.519367
+506,22-Mar-13,Olympus Has Fallen,70.0,98.927592,172.878928,6.2,4086,2013,"Action,Thriller",Antoine Fuqua,102.878928
+507,25-Dec-11,War Horse,70.0,79.883359,156.815529,7.2,1849,2011,"Drama,History,War",Steven Spielberg,86.815529
+508,7-Feb-14,The Monuments Men,70.0,78.03162,158.702748,5.9,2229,2014,"Comedy,Drama,History",George Clooney,88.70274800000001
+509,17-Jun-94,Wolf,70.0,65.011757,131.011757,7.0,2,2010,"Action,Crime,Drama",Stef Desmyter,61.01175699999999
+521,10-Oct-14,Dracula Untold,70.0,55.99188,220.241723,6.2,3719,2014,"Action,Drama,Fantasy",Gary Shore,150.241723
+522,29-Sep-06,The Guardian,70.0,55.011732,94.97354,5.3,2,2011,Drama,Mark Tuff,24.97354
+532,14-Jan-11,The Dilemma,70.0,48.47529,70.546865,5.3,448,2011,"Comedy,Drama",Ron Howard,0.5468649999999968
+533,15-Jun-12,Rock of Ages,70.0,38.518613,61.031932,6.1,686,2012,"Comedy,Drama,Musical",Adam Shankman,-8.968068000000002
+534,7-Jun-02,Bad Company,70.0,30.157016,69.157016,10.0,1,2010,Thriller,Jason King,-0.8429840000000013
+536,29-Jan-16,The Finest Hours,70.0,27.569558,49.252761,6.4,943,2016,"Action,Drama,History",Craig Gillespie,-20.747239
+537,18-Oct-13,Escape Plan,70.0,25.135965,103.735965,6.7,2799,2013,"Action,Crime,Mystery",Mikael Håfström,33.73596499999999
+538,23-Sep-11,Killer Elite,70.0,25.124986,65.409046,6.2,1093,2011,"Action,Crime,Thriller",Gary McKendry,-4.590953999999996
+539,10-Jan-14,The Legend of Hercules,70.0,18.848538,58.953319,4.5,805,2014,"Action,Adventure,Fantasy",Renny Harlin,-11.046681
+540,16-Jan-15,Blackhat,70.0,8.00598,19.665004,5.3,1165,2015,"Action,Crime,Thriller",Michael Mann,-50.334996000000004
+541,30-Jul-10,Dinner for Schmucks,69.0,73.026337,86.796502,5.6,920,2010,Comedy,Jay Roach,17.796502000000004
+542,2-Mar-18,Red Sparrow,69.0,46.874505,145.951861,6.5,3406,2018,"Action,Drama,Thriller",Francis Lawrence,76.95186100000001
+543,30-Jun-10,The Twilight Saga: Eclipse,68.0,300.531751,706.102828,6.0,4909,2010,"Adventure,Drama,Fantasy",David Slade,638.102828
+544,26-Jun-15,Ted 2,68.0,81.476385,217.214143,6.1,4227,2015,Comedy,Seth MacFarlane,149.214143
+545,21-Mar-03,Dreamcatcher,68.0,33.685268,75.685268,5.2,5,2015,"Crime,Documentary,Drama",Kim Longinotto,7.6852679999999935
+547,22-Dec-17,Downsizing,68.0,24.449754,54.462971,5.1,1887,2017,"Drama,Sci-Fi",Alexander Payne,-13.537028999999997
+548,22-Jun-12,Abraham Lincoln: Vampire Hunter,67.5,37.519139,137.48973,5.6,2009,2012,"Action,Fantasy,Horror",Timur Bekmambetov,69.98973000000001
+549,20-Sep-96,Last Man Standing,67.0,18.115927,18.115927,4.4,11,2010,"Biography,Crime,Documentary",Emilio Roso,-48.884073
+551,14-Mar-14,Need for Speed,66.0,43.568507,194.169619,6.1,2389,2014,"Action,Crime,Thriller",Scott Waugh,128.169619
+552,15-Dec-00,What Women Want,65.0,182.805123,374.105123,6.6,13,2011,"Comedy,Romance,Sci-Fi",Daming Chen,309.105123
+553,9-Nov-12,Lincoln,65.0,182.207973,273.346281,6.8,2261,2012,"Biography,Drama,History",Steven Spielberg,208.34628099999998
+555,13-Jul-18,Hotel Transylvania 3: Summer Vacation,65.0,167.500092,527.079962,6.8,1673,2018,"Adventure,Animation,Comedy",Genndy Tartakovsky,462.079962
+556,25-Dec-14,Unbroken,65.0,115.637895,163.527824,7.4,2240,2018,Drama,Tayo Osasona,98.52782400000001
+558,5-Nov-10,Due Date,65.0,100.539043,211.739043,6.3,2973,2010,"Adventure,Comedy",Todd Phillips,146.739043
+559,19-Dec-14,Annie,65.0,85.911262,139.829625,6.1,770,2014,"Comedy,Drama,Family",Will Gluck,74.829625
+563,7-Jul-00,The Kid,65.0,69.688384,69.688384,6.9,12,2010,Drama,Nick Moran,4.688383999999999
+566,16-May-12,The Dictator,65.0,59.650222,180.148897,6.0,3042,2012,Comedy,Larry Charles,115.148897
+567,17-Feb-12,This Means War,65.0,54.760791,156.974557,6.0,2096,2012,"Action,Comedy,Romance",McG,91.974557
+568,27-Feb-15,Focus,65.0,53.862963,168.0657,6.8,4173,2014,Comedy,Christopher Young,103.06569999999999
+569,21-Nov-12,Red Dawn,65.0,44.806783,48.16415,5.4,849,2012,"Action,Sci-Fi,Thriller",Dan Bradley,-16.83585
+570,18-Sep-15,Everest,65.0,43.48227,221.297061,6.7,2874,2015,"Action,Adventure,Biography",Baltasar Kormákur,156.297061
+571,14-Sep-12,Resident Evil: Retribution,65.0,42.345531,240.647629,5.7,2321,2012,"Action,Horror,Sci-Fi",Paul W.S. Anderson,175.647629
+572,14-Jan-05,Elektra,65.0,24.409722,56.824633,8.0,1,2010,"Drama,Thriller",Shyamaprasad,-8.175367000000001
+573,24-Jan-14,"I, Frankenstein",65.0,19.07529,74.57529,5.2,1090,2014,"Action,Fantasy,Horror",Stuart Beattie,9.575289999999995
+574,25-Dec-16,Live by Night,65.0,10.378555,21.774432,6.2,759,2016,"Action,Crime,Drama",Ben Affleck,-43.225567999999996
+575,26-Oct-18,Air Strike,65.0,0.0,0.516279,3.9,56,2018,"Action,Adventure,Drama",Xiao Feng,-64.483721
+576,1-Apr-11,Hop,63.0,108.085305,188.657593,5.6,611,2011,"Adventure,Animation,Comedy",Tim Hill,125.65759299999999
+577,15-Sep-17,American Assassin,63.0,36.249674,68.31014,6.3,1596,2017,"Action,Thriller",Michael Cuesta,5.310140000000004
+578,25-Dec-15,The Hateful Eight,62.0,54.117416,147.864886,7.7,8065,2015,"Crime,Drama,Mystery",Quentin Tarantino,85.86488600000001
+579,3-Oct-14,Gone Girl,61.0,167.767189,368.567189,7.9,10459,2014,"Drama,Mystery,Thriller",David Fincher,307.567189
+580,18-Sep-15,Maze Runner: The Scorch Trials,61.0,81.697192,310.566162,6.6,6365,2015,"Action,Sci-Fi,Thriller",Wes Ball,249.56616200000002
+581,2-Aug-13,2 Guns,61.0,75.61246,132.493015,6.5,2368,2013,"Action,Comedy,Crime",Baltasar Kormákur,71.49301500000001
+582,9-Sep-16,Sully,60.0,125.070033,238.524556,7.1,3924,2016,"Biography,Drama",Clint Eastwood,178.524556
+583,15-Oct-10,Red,60.0,90.380162,196.439693,5.0,1,2014,Thriller,Danielle Colman,136.439693
+586,13-Aug-10,Eat Pray Love,60.0,80.57401,206.598789,6.0,1208,2010,"Drama,Romance",Ryan Murphy,146.598789
+587,21-Dec-12,Jack Reacher,60.0,80.070736,217.370736,6.4,4155,2012,"Action,Crime,Thriller",Christopher McQuarrie,157.370736
+588,9-Sep-11,Contagion,60.0,75.658097,137.551594,6.3,2128,2011,"Action,Drama,Thriller",Steven Soderbergh,77.551594
+589,4-Mar-16,London Has Fallen,60.0,62.52426,195.194085,5.9,2591,2016,"Action,Thriller",Babak Najafi,135.194085
+590,21-Oct-16,Jack Reacher: Never Go Back,60.0,58.697076,159.946489,5.6,2831,2016,"Action,Thriller",Edward Zwick,99.94648900000001
+591,25-May-17,Baywatch,60.0,58.060186,175.863783,6.1,4748,2017,"Action,Comedy,Crime",Seth Gordon,115.86378300000001
+592,25-Dec-15,Joy,60.0,56.451232,101.134059,6.5,2723,2010,Drama,Mijke de Jong,41.13405899999999
+597,4-Aug-17,The Dark Tower,60.0,50.701325,113.461527,5.6,2842,2017,"Action,Adventure,Fantasy",Nikolaj Arcel,53.461527000000004
+598,17-Jan-14,Jack Ryan: Shadow Recruit,60.0,50.577412,131.377412,6.1,1687,2014,"Action,Drama,Thriller",Kenneth Branagh,71.37741199999999
+599,25-Dec-18,Vice,60.0,47.836282,70.883171,4.3,312,2015,"Action,Adventure,Sci-Fi",Brian A. Miller,10.883171000000004
+603,11-Jan-13,Gangster Squad,60.0,46.000903,104.100903,6.3,2527,2013,"Action,Crime,Drama",Ruben Fleischer,44.100903
+604,7-Apr-17,Smurfs: The Lost Village,60.0,45.020282,197.578586,6.2,736,2017,"Adventure,Animation,Comedy",Kelly Asbury,137.578586
+605,12-Oct-18,First Man,60.0,44.936545,105.203825,7.1,2304,2018,"Biography,Drama,History",Damien Chazelle,45.203824999999995
+606,29-Jan-10,Edge of Darkness,60.0,43.31389,82.812456,6.3,794,2010,"Crime,Drama,Mystery",Martin Campbell,22.812455999999997
+608,17-Apr-09,State of Play,60.0,37.017955,88.83221,6.0,3,2013,"Documentary,Drama,Sport",Steven Dhoedt,28.832210000000003
+609,21-Sep-12,Trouble with the Curve,60.0,35.763137,47.818913,6.7,613,2012,"Drama,Sport",Robert Lorenz,-12.181086999999998
+610,15-Sep-00,Almost Famous,60.0,32.522352,47.371191,7.5,1339,2017,"Comedy,Drama,Family",Marco Carmel,-12.628808999999997
+611,21-Aug-13,The Mortal Instruments: City of Bones,60.0,31.165421,75.965567,6.3,2915,2013,"Action,Fantasy,Horror",Harald Zwart,15.965566999999993
+612,22-Feb-02,Dragonfly,60.0,30.063805,30.063805,3.0,2,2015,"Crime,Drama,Thriller",Andrew Tiernan,-29.936195
+614,13-May-11,Priest,60.0,29.136626,84.154026,5.5,1157,2011,"Action,Adventure,Fantasy",Scott Stewart,24.154026
+615,24-Feb-17,Rock Dog,60.0,9.420546,24.148488,5.7,123,2016,"Adventure,Animation,Comedy",Ash Brannon,-35.851512
+616,23-Jan-15,Mortdecai,60.0,7.696134,30.396134,5.4,1666,2015,"Action,Comedy,Crime",David Koepp,-29.603866
+617,23-Mar-18,Sherlock Gnomes,59.0,43.242871,87.527651,5.4,343,2018,"Adventure,Animation,Comedy",John Stevenson,28.527651000000006
+618,12-Feb-16,Deadpool,58.0,363.070709,801.025593,7.6,20175,2016,"Action,Adventure,Comedy",Tim Miller,743.025593
+619,25-Dec-14,American Sniper,58.0,350.126372,547.326372,7.4,7658,2014,"Action,Biography,Drama",Clint Eastwood,489.326372
+620,16-Oct-15,Goosebumps,58.0,80.069458,158.905324,6.2,2147,2015,"Adventure,Comedy,Family",Rob Letterman,100.90532400000001
+621,20-Jan-12,Red Tails,58.0,49.876377,50.365498,6.0,256,2012,"Action,Adventure,Drama",Anthony Hemingway,-7.634501999999998
+622,7-Jun-13,The Internship,58.0,44.672764,93.672764,6.2,2631,2013,Comedy,Shawn Levy,35.672764
+623,10-Sep-10,Resident Evil: Afterlife,57.5,60.128566,295.87419,5.9,2119,2010,"Action,Adventure,Horror",Paul W.S. Anderson,238.37419
+624,15-Jun-12,That's My Boy,57.5,36.931089,58.085235,5.5,831,2012,Comedy,Sean Anders,0.5852349999999973
+625,25-Dec-14,Into the Woods,56.2,128.002372,213.116401,5.7,2880,2014,"Adventure,Comedy,Drama",Rob Marshall,156.916401
+629,2-Nov-18,Bohemian Rhapsody,55.0,216.303339,894.985342,8.1,7629,2018,"Biography,Drama,Music",Bryan Singer,839.985342
+630,10-Feb-17,Fifty Shades Darker,55.0,114.43401,381.398492,6.1,4489,2017,"Drama,Romance",James Foley,326.398492
+631,11-Oct-13,Captain Phillips,55.0,107.136417,220.648184,7.6,3909,2013,"Biography,Drama,Thriller",Paul Greengrass,165.648184
+632,10-Nov-17,Murder on the Orient Express,55.0,102.826543,345.92273,6.7,5406,2017,"Crime,Drama,Mystery",Kenneth Branagh,290.92273
+633,26-Sep-14,The Equalizer,55.0,101.530738,192.903624,7.2,4989,2014,"Action,Crime,Thriller",Antoine Fuqua,137.903624
+634,9-Feb-18,Fifty Shades Freed,55.0,100.40776,371.350619,6.1,3535,2018,"Drama,Romance,Thriller",James Foley,316.350619
+635,9-Apr-10,Date Night,55.0,98.711404,152.269033,6.0,1743,2010,"Comedy,Crime,Romance",Shawn Levy,97.26903300000001
+636,16-Jan-15,Paddington,55.0,76.223578,258.789097,7.0,1904,2014,"Adventure,Comedy,Family",Paul King,203.78909700000003
+637,1-Nov-13,Free Birds,55.0,55.75048,110.387072,5.8,410,2013,"Adventure,Animation,Comedy",Jimmy Hayward,55.387072
+638,21-Mar-14,Muppets Most Wanted,55.0,51.178893,79.312301,6.2,473,2014,"Adventure,Comedy,Crime",James Bobin,24.312301000000005
+639,19-Aug-16,Kubo and the Two Strings,55.0,48.023088,77.548122,7.7,2029,2016,"Action,Adventure,Animation",Travis Knight,22.548122000000006
+640,24-Nov-10,Burlesque,55.0,39.440655,90.552675,7.1,1195,2010,"Drama,Music,Musical",Steve Antin,35.552674999999994
+641,27-Jul-12,The Watch,55.0,34.353,67.130045,5.4,1356,2012,"Action,Comedy,Horror",Akiva Schaffer,12.130044999999996
+642,14-Mar-03,The Hunted,55.0,34.234008,47.213095,5.2,10,2015,"Action,Comedy,Horror",Robert Chapin,-7.786904999999997
+646,23-Feb-18,Annihilation,55.0,32.732301,43.070915,6.3,4465,2018,"Adventure,Drama,Horror",Alex Garland,-11.929085
+647,16-Oct-15,Crimson Peak,55.0,31.09032,74.966854,6.5,2986,2015,"Drama,Fantasy,Horror",Guillermo del Toro,19.966853999999998
+648,10-Jan-97,Turbulence,55.0,11.532774,11.532774,5.6,5,2011,Comedy,Michael B. Clifford,-43.467226
+652,1-Feb-13,Bullet to the Head,55.0,9.489829,22.597969,5.4,681,2012,"Action,Crime,Thriller",Walter Hill,-32.402031
+653,18-Sep-15,Black Mass,53.0,62.575678,98.837872,6.4,2020,2015,"Biography,Crime,Drama",Scott Cooper,45.837872000000004
+655,16-Oct-98,Beloved,53.0,22.852487,22.852487,6.7,31,2010,Comedy,Guel Arraes,-30.147513
+659,19-Dec-12,Zero Dark Thirty,52.5,95.720716,134.612435,6.9,2553,2012,"Drama,Thriller",Kathryn Bigelow,82.112435
+660,12-Feb-10,Valentine's Day,52.0,110.485654,217.569328,5.8,1907,2010,"Comedy,Romance",Garry Marshall,165.569328
+661,5-Aug-11,The Change-Up,52.0,37.243418,75.997067,6.0,1406,2011,"Comedy,Fantasy",David Dobkin,23.997067
+662,17-Aug-18,Alpha,51.0,35.851379,99.624873,7.0,1,2013,Crime,Joan Cutrina,48.624872999999994
+670,4-Mar-11,The Adjustment Bureau,50.2,62.495645,126.931325,6.6,2615,2011,"Romance,Sci-Fi,Thriller",George Nolfi,76.731325
+671,29-Jun-12,Ted,50.0,218.66574,556.016627,6.3,7727,2012,"Comedy,Fantasy",Seth MacFarlane,506.01662699999997
+672,17-Jun-16,Central Intelligence,50.0,127.440871,217.194805,6.3,3133,2016,"Action,Comedy,Crime",Rawson Marshall Thurber,167.194805
+673,18-Dec-13,Anchorman 2: The Legend Continues,50.0,127.352707,172.185754,6.1,1408,2013,Comedy,Adam McKay,122.185754
+674,10-Jun-11,Super 8,50.0,127.004179,257.972745,6.7,3934,2011,"Mystery,Sci-Fi,Thriller",J.J. Abrams,207.97274499999997
+675,21-Nov-18,Creed II,50.0,115.715889,213.591522,6.7,2236,2018,"Drama,Sport",Steven Caple Jr.,163.591522
+676,9-Feb-18,Peter Rabbit,50.0,115.234093,347.136477,6.5,650,2018,"Adventure,Animation,Comedy",Will Gluck,297.136477
+677,14-Dec-18,The Mule,50.0,103.804407,170.857676,6.4,77,2018,"Crime,Drama,Thriller",Clint Eastwood,120.857676
+679,28-Feb-14,Non-Stop,50.0,91.74216,222.383055,5.6,23,2014,"Action,Mystery,Thriller",Jaume Collet-Serra,172.383055
+681,28-Jul-17,The Emoji Movie,50.0,86.089513,216.562312,5.4,1447,2017,"Adventure,Animation,Comedy",Tony Leondis,166.562312
+682,22-Dec-17,The Post,50.0,81.903458,179.74888,7.0,2506,2017,"Biography,Drama,History",Steven Spielberg,129.74888
+683,5-Feb-99,Payback,50.0,81.526121,161.626121,5.0,1,2012,Documentary,Jennifer Baichwal,111.62612100000001
+687,23-Dec-11,We Bought a Zoo,50.0,75.62455,118.729073,6.7,1523,2011,"Comedy,Drama,Family",Cameron Crowe,68.729073
+688,23-Sep-11,Moneyball,50.0,75.605492,111.300835,7.1,2255,2011,"Biography,Drama,Sport",Bennett Miller,61.300835000000006
+689,25-Jan-13,Hansel & Gretel: Witch Hunters,50.0,55.703475,214.949716,5.9,4548,2013,"Action,Fantasy,Horror",Tommy Wirkola,164.949716
+690,29-Sep-17,American Made,50.0,51.342,135.569212,6.7,2188,2017,"Action,Biography,Comedy",Doug Liman,85.569212
+691,17-Oct-14,The Book of Life,50.0,50.151543,97.651543,7.4,1228,2014,"Adventure,Animation,Comedy",Jorge R. Gutiérrez,47.651543000000004
+694,8-Aug-14,Into the Storm,50.0,47.602194,150.429371,5.8,1169,2019,Documentary,Carol Fauls,100.429371
+696,10-Oct-14,The Judge,50.0,47.119388,76.119388,7.3,2356,2014,"Crime,Drama",David Dobkin,26.119388
+700,19-Aug-16,War Dogs,50.0,43.034523,86.234503,6.8,2387,2016,"Comedy,Crime,Drama",Todd Phillips,36.234503000000004
+701,20-May-16,The Nice Guys,50.0,36.261763,59.596747,7.1,4272,2016,"Action,Comedy,Crime",Shane Black,9.596747
+702,4-Jun-10,Marmaduke,50.0,33.644788,89.89593,5.1,367,2010,"Comedy,Family",Tom Dey,39.89593000000001
+703,15-Oct-10,Hereafter,50.0,32.746941,108.66027,5.9,848,2010,"Drama,Fantasy,Romance",Clint Eastwood,58.66027
+704,6-Oct-95,Assassins,50.0,30.306268,83.306268,6.2,666,2014,"Action,Drama,Thriller",Michael Bonomo,33.306268
+706,12-Feb-16,Zoolander 2,50.0,28.848693,55.348693,4.7,1374,2016,Comedy,Ben Stiller,5.348692999999997
+707,29-Mar-13,The Host,50.0,26.623701,64.477051,6.2,2788,2013,"Action,Adventure,Drama",Andrew Niccol,14.477051000000003
+709,13-Mar-15,Run All Night,50.0,26.461644,66.961644,6.4,1684,2015,"Action,Drama,Thriller",Jaume Collet-Serra,16.961644000000007
+710,8-Apr-11,Your Highness,50.0,21.596445,26.121638,3.0,4,2011,"Adventure,Comedy,Fantasy",David Gordon Green,-23.878362
+712,16-Sep-16,Snowden,50.0,21.587519,35.380918,7.1,2427,2016,"Biography,Drama,Thriller",Oliver Stone,-14.619081999999999
+713,30-Sep-11,Dream House,50.0,21.30234,41.642166,6.0,670,2019,"Comedy,Drama,Romance",Jeff Bemiss,-8.357833999999997
+715,24-Jun-16,Free State of Jones,50.0,20.810036,23.237252,6.6,787,2016,"Action,Biography,Drama",Gary Ross,-26.762748
+716,14-Feb-13,Beautiful Creatures,50.0,19.452138,60.282876,5.7,1826,2013,"Drama,Fantasy,Romance",Richard LaGravenese,10.282876000000002
+717,3-Nov-95,Fair Game,50.0,11.497497,26.097497,6.6,384,2010,"Biography,Drama,Thriller",Doug Liman,-23.902503
+719,25-Feb-11,Drive Angry,50.0,10.721033,41.042583,5.3,959,2011,"Action,Fantasy,Thriller",Patrick Lussier,-8.957417
+720,16-Feb-18,Early Man,50.0,8.267544,45.28589,5.9,338,2018,"Adventure,Animation,Comedy",Nick Park,-4.714109999999998
+721,17-Apr-15,Child 44,50.0,1.22433,8.004221,6.2,903,2015,"Crime,Drama,History",Daniel Espinosa,-41.995779
+722,15-Mar-13,Upside Down,50.0,0.102118,26.387039,6.2,1645,2012,"Drama,Fantasy,Romance",Juan Solanas,-23.612961
+726,2-Oct-15,Shanghai,50.0,0.046425,15.505922,6.1,80,2010,"Crime,Drama,Mystery",Mikael Håfström,-34.494078
+728,2-Nov-01,The One,49.0,43.905746,72.689126,5.5,5,2020,Horror,Sarah Martin,23.689126
+734,6-Mar-15,Chappie,49.0,31.569268,105.002056,6.7,4995,2015,"Action,Crime,Drama",Neill Blomkamp,56.002055999999996
+735,16-Nov-12,Anna Karenina,49.0,12.816367,71.004627,6.7,1265,2012,"Drama,Romance",Joe Wright,22.004627
+736,9-Jan-15,Taken 3,48.0,89.256424,327.656424,6.1,3406,2014,"Action,Thriller",Olivier Megaton,279.656424
+737,16-Nov-18,Instant Family,48.0,67.363237,119.736188,7.6,782,2018,"Comedy,Drama",Sean Anders,71.736188
+738,22-Jan-10,Tooth Fairy,48.0,60.022256,112.610386,5.3,1058,2010,"Comedy,Family,Fantasy",Michael Lembeck,64.610386
+740,13-Jul-16,The Infiltrator,47.5,15.436808,20.718104,6.6,943,2016,"Biography,Crime,Drama",Brad Furman,-26.781896
+741,11-Nov-16,Arrival,47.0,100.546139,203.127894,7.4,10387,2016,"Drama,Mystery,Sci-Fi",Denis Villeneuve,156.127894
+743,18-Jun-10,Jonah Hex,47.0,10.547117,11.022696,4.6,708,2010,"Action,Drama,Fantasy",Jimmy Hayward,-35.977304000000004
+744,23-Dec-16,Silence,46.5,7.100177,23.726626,7.1,1560,2016,"Adventure,Drama,History",Martin Scorsese,-22.773374
+751,20-Jun-97,My Best Friend's Wedding,46.0,126.813153,298.923419,7.0,2,2016,"Comedy,Romance",Feihong Chen,252.92341900000002
+752,24-May-02,Insomnia,46.0,67.263182,113.622499,10.0,1,2015,Drama,Milena Partheniou,67.622499
+753,20-Sep-13,Prisoners,46.0,61.002302,113.402302,8.0,5785,2013,"Crime,Drama,Mystery",Denis Villeneuve,67.402302
+754,5-Oct-12,Taken 2,45.0,139.854287,377.807404,6.2,4035,2012,"Action,Thriller",Olivier Megaton,332.807404
+755,22-Dec-17,Pitch Perfect 3,45.0,104.89753,185.736412,6.5,1884,2017,"Comedy,Music",Trish Sie,140.736412
+756,23-Nov-11,The Muppets,45.0,88.625922,160.971922,6.6,831,2011,"Adventure,Comedy,Family",James Bobin,115.971922
+757,7-Oct-16,The Girl on the Train,45.0,75.395035,174.278214,5.9,25,2013,Thriller,Larry Brand,129.278214
+763,19-Mar-10,The Bounty Hunter,45.0,67.061228,135.808837,5.7,1627,2010,"Action,Comedy,Romance",Andy Tennant,90.80883700000001
+764,6-Jul-12,Savages,45.0,47.3231,82.51349,6.3,1246,2012,"Crime,Drama,Thriller",Oliver Stone,37.513490000000004
+765,23-May-14,Blended,45.0,46.290741,127.990741,6.7,1709,2014,"Comedy,Romance",Frank Coraci,82.990741
+766,16-Jun-17,All Eyez on Me,45.0,44.922302,54.876855,6.4,695,2017,"Biography,Drama,Music",Benny Boom,9.876854999999999
+767,4-Nov-94,Frankenstein,45.0,22.006296,112.006296,5.8,51,2011,Drama,Danny Boyle,67.006296
+769,19-Jan-01,The Pledge,45.0,19.71993,29.406132,6.0,1,2011,"Drama,Family",J.W. Myers,-15.593868
+770,1-Jul-05,Rebound,45.0,16.809014,17.492014,3.4,7,2014,"Horror,Mystery,Thriller",Megan Freels Johnston,-27.507986
+771,19-Feb-10,The Ghost Writer,45.0,15.541549,65.532491,6.8,1135,2010,"Drama,Mystery,Thriller",Roman Polanski,20.532490999999993
+772,21-Sep-12,Dredd,45.0,13.414714,41.467606,6.7,2788,2012,"Action,Crime,Sci-Fi",Pete Travis,-3.5323939999999965
+773,28-Oct-11,The Rum Diary,45.0,13.109815,21.544732,5.7,652,2011,"Comedy,Drama",Bruce Robinson,-23.455268
+774,21-Dec-18,Welcome to Marwen,45.0,10.76352,12.874922,6.6,286,2018,"Biography,Comedy,Drama",Robert Zemeckis,-32.125078
+775,21-Oct-11,Johnny English Reborn,45.0,8.406711,164.640401,6.1,1810,2011,"Action,Adventure,Comedy",Oliver Parker,119.640401
+776,31-Dec-12,Foodfight!,45.0,0.0,0.073706,2.1,46,2012,"Action,Animation,Comedy",Lawrence Kasanoff,-44.926294
+777,12-Oct-12,Argo,44.5,136.025503,227.140757,7.2,5127,2012,"Biography,Drama,Thriller",Ben Affleck,182.640757
+778,30-Jul-10,Charlie St. Cloud,44.0,31.206263,48.478084,6.9,1398,2010,"Drama,Fantasy,Romance",Burr Steers,4.478084000000003
+779,6-Feb-14,The Interview,44.0,6.105175,12.342632,6.2,3579,2011,Drama,Cathal Feeney,-31.657367999999998
+781,28-Jun-13,The Heat,43.0,159.581587,229.727774,6.6,2441,2013,"Action,Comedy,Crime",Paul Feig,186.727774
+782,6-Jan-17,A Monster Calls,43.0,3.740823,46.41453,7.1,1918,2016,"Animation,Drama,Fantasy",J.A. Bayona,3.414529999999999
+783,28-Jan-11,The Mechanic,42.5,29.121498,76.347393,6.3,1676,2011,"Action,Crime,Thriller",Simon West,33.847393
+784,12-May-17,Snatched,42.0,45.852178,57.852177,3.5,2,2016,Drama,Kevin Crouch,15.852176999999998
+790,12-Oct-12,Here Comes the Boom,42.0,45.290318,73.239258,6.0,812,2012,"Action,Comedy,Sport",Frank Coraci,31.239258000000007
+791,11-Mar-11,Red Riding Hood,42.0,37.662162,91.678442,5.9,1884,2011,"Fantasy,Horror,Mystery",Catherine Hardwicke,49.678442000000004
+792,25-Dec-18,Holmes & Watson,42.0,30.568743,41.926605,4.1,217,2018,"Adventure,Comedy,Crime",Etan Cohen,-0.07339499999999788
+793,27-Jan-12,One for the Money,42.0,26.414527,36.197221,5.5,615,2012,"Action,Comedy,Crime",Julie Anne Robinson,-5.802779000000001
+794,2-Oct-92,Hero,42.0,19.487173,66.787173,9.0,1,2019,Action,Anand Annamalai,24.787172999999996
+806,27-Jan-12,Man on a Ledge,42.0,18.62,49.62144,6.3,1460,2012,"Action,Adventure,Crime",Asger Leth,7.62144
+807,3-Dec-10,The Warrior's Way,42.0,5.66634,8.514325,6.1,203,2010,"Action,Fantasy,Western",Sngmoo Lee,-33.485675
+808,14-Oct-11,The Big Year,41.0,7.204138,7.684524,5.8,393,2011,Comedy,David Frankel,-33.315476000000004
+809,11-Jun-10,The Karate Kid,40.0,176.591618,351.774938,6.3,3140,2010,"Action,Drama,Family",Harald Zwart,311.774938
+810,22-Jun-84,The Karate Kid,8.0,90.815558,90.815558,6.3,3140,2010,"Action,Drama,Family",Harald Zwart,82.815558
+811,13-Feb-15,Fifty Shades of Grey,40.0,166.16723,570.998101,5.4,6451,2015,"Drama,Romance,Thriller",Sam Taylor-Johnson,530.998101
+812,13-Dec-13,American Hustle,40.0,150.117807,257.878294,6.8,4443,2013,"Crime,Drama",David O. Russell,217.87829399999998
+813,25-Jul-14,Lucy,40.0,126.57396,457.507776,6.3,10019,2014,"Action,Sci-Fi,Thriller",Luc Besson,417.507776
+815,25-Dec-13,Lone Survivor,40.0,125.095601,149.804632,7.4,2289,2013,"Action,Biography,Drama",Peter Berg,109.804632
+816,1-Oct-10,The Social Network,40.0,96.962694,224.922135,7.2,6116,2010,"Biography,Drama",David Fincher,184.922135
+817,15-Jan-16,Ride Along 2,40.0,90.862685,124.827316,6.2,939,2016,"Action,Comedy,Crime",Tim Story,84.827316
+818,27-Mar-15,Get Hard,40.0,90.411453,106.511453,6.0,1469,2015,"Comedy,Crime",Etan Cohen,66.511453
+820,14-Oct-16,The Accountant,40.0,86.260045,152.962083,6.9,3407,2016,"Action,Crime,Drama",Gavin O'Connor,112.962083
+821,25-Apr-14,The Other Woman,40.0,83.911193,195.111193,6.2,220,2014,"Comedy,Romance",Nick Cassavetes,155.111193
+824,25-Sep-15,The Intern,40.0,75.764672,197.11571,7.1,3373,2015,"Comedy,Drama",Nancy Meyers,157.11571
+825,16-Oct-15,Bridge of Spies,40.0,72.313754,162.498338,7.2,4313,2015,"Drama,History,Thriller",Steven Spielberg,122.49833799999999
+826,4-Nov-16,Hacksaw Ridge,40.0,67.209615,168.904682,8.1,6608,2016,"Biography,Drama,History",Mel Gibson,128.904682
+827,18-Feb-11,Unknown,40.0,63.686397,136.123083,6.6,2043,2011,"Action,Mystery,Thriller",Jaume Collet-Serra,96.12308300000001
+828,3-Nov-06,Unknown,3.7,0.026403,3.355048,6.6,2043,2011,"Action,Mystery,Thriller",Jaume Collet-Serra,-0.34495200000000015
+831,4-Jun-10,Get Him to the Greek,40.0,61.153526,91.455875,5.9,980,2010,"Adventure,Comedy,Music",Nicholas Stoller,51.455875000000006
+832,18-Mar-11,The Lincoln Lawyer,40.0,58.0092,87.145086,7.1,1525,2011,"Crime,Drama,Thriller",Brad Furman,47.145086000000006
+833,26-Nov-14,Horrible Bosses 2,40.0,54.445357,105.945357,6.2,2581,2014,"Comedy,Crime",Sean Anders,65.945357
+834,9-Jul-10,Predators,40.0,52.000688,127.234389,6.1,1979,2010,"Action,Adventure,Sci-Fi",Nimród Antal,87.234389
+835,15-Aug-12,The Odd Life of Timothy Green,40.0,51.85345,55.249159,6.7,605,2012,"Comedy,Drama,Family",Peter Hedges,15.249158999999999
+836,20-Jun-14,Jersey Boys,40.0,47.047013,65.282732,6.9,380,2014,"Biography,Drama,Music",Clint Eastwood,25.282731999999996
+837,12-Aug-11,Final Destination 5,40.0,42.587643,155.011165,6.0,1701,2011,Horror,Steven Quale,115.011165
+838,16-Nov-18,Widows,40.0,42.402632,73.866088,6.5,941,2011,"Comedy,Drama",Marcos Carnevale,33.866088000000005
+840,18-Jul-14,Sex Tape,40.0,38.543473,126.069509,5.3,2684,2014,"Comedy,Romance",Jake Kasdan,86.069509
+841,15-Apr-11,Scream 4,40.0,38.180928,95.98959,6.2,1610,2011,"Horror,Mystery",Wes Craven,55.98959000000001
+842,18-Mar-11,Paul,40.0,37.412945,101.162106,6.5,3017,2011,"Adventure,Comedy,Sci-Fi",Greg Mottola,61.162105999999994
+844,19-Dec-12,The Guilt Trip,40.0,37.134215,41.294674,5.4,403,2012,"Comedy,Drama",Anne Fletcher,1.2946740000000005
+845,26-Aug-11,Colombiana,40.0,36.665854,72.295262,6.5,1371,2011,"Action,Drama,Thriller",Olivier Megaton,32.295261999999994
+846,12-Jan-18,The Commuter,40.0,36.343858,101.985431,6.2,2394,2018,"Action,Mystery,Thriller",Jaume Collet-Serra,61.985431000000005
+847,8-Apr-11,Arthur,40.0,33.035397,47.787943,5.5,399,2011,"Comedy,Romance",Jason Winer,7.7879429999999985
+848,21-Dec-16,Patriots Day,40.0,31.886361,52.837989,6.9,1337,2016,"Action,Crime,Drama",Peter Berg,12.837989
+849,10-Nov-10,Morning Glory,40.0,31.011732,59.79507,6.3,717,2010,"Comedy,Drama,Romance",Roger Michell,19.795070000000003
+850,3-May-19,Long Shot,40.0,30.20286,43.711031,7.2,39,2019,"Comedy,Romance",Jonathan Levine,3.7110309999999984
+851,25-Dec-13,Grudge Match,40.0,29.80726,69.80726,6.0,711,2013,"Comedy,Drama,Sport",Peter Segal,29.80726
+852,11-Aug-17,The Nut Job 2: Nutty by Nature,40.0,28.370522,57.438389,5.7,227,2017,"Adventure,Animation,Comedy",Cal Brunker,17.438389
+853,27-Jan-17,Resident Evil: The Final Chapter,40.0,26.844692,314.10119,5.9,1859,2016,"Action,Horror,Sci-Fi",Paul W.S. Anderson,274.10119
+854,30-Jun-17,The House,40.0,25.584504,31.192425,5.7,474,2011,"Drama,Mystery,Thriller",Desiree Lim,-8.807575
+859,7-Jan-11,Season of the Witch,40.0,24.827228,91.1266,5.3,1352,2011,"Action,Adventure,Fantasy",Dominic Sena,51.126599999999996
+860,26-Aug-16,Mechanic: Resurrection,40.0,21.218403,109.73884,5.6,1929,2016,"Action,Adventure,Thriller",Dennis Gansel,69.73884
+861,3-Feb-12,Big Miracle,40.0,20.1573,25.26868,6.6,250,2012,"Biography,Drama,Family",Ken Kwapis,-14.73132
+862,21-Dec-12,The Impossible,40.0,19.019882,169.590606,7.2,3614,2012,"Drama,History,Thriller",J.A. Bayona,129.590606
+863,9-Mar-12,A Thousand Words,40.0,18.450127,20.790486,6.1,685,2012,"Comedy,Drama",Brian Robbins,-19.209514
+864,20-Mar-15,The Gunman,40.0,10.664749,18.594227,5.7,583,2015,"Action,Crime,Drama",Pierre Morel,-21.405773
+866,16-Aug-13,Paranoia,40.0,7.388654,16.340767,4.5,2,2013,"Drama,Thriller",Robert Luketic,-23.659233
+884,9-Mar-18,The Hurricane Heist,40.0,6.115824,30.963684,5.4,476,2018,"Action,Adventure,Crime",Rob Cohen,-9.036316
+885,25-Nov-15,Victor Frankenstein,40.0,5.775076,31.124367,5.8,1200,2015,"Drama,Horror,Sci-Fi",Paul McGuigan,-8.875633
+886,27-Jun-14,Snowpiercer,40.0,4.563029,88.06988,6.8,4748,2013,"Action,Drama,Sci-Fi",Joon-ho Bong,48.06988
+887,11-Nov-16,USS Indianapolis: Men of Courage,40.0,0.0,1.663785,5.9,328,2016,"Action,Drama,History",Mario Van Peebles,-38.336215
+888,5-Oct-12,Frankenweenie,39.0,35.287788,81.150788,6.8,1685,2012,"Animation,Comedy,Family",Tim Burton,42.150788000000006
+889,2-Jun-17,Captain Underpants: The First Epic Movie,38.0,73.921,126.577874,6.0,587,2017,"Action,Animation,Comedy",David Soren,88.577874
+890,17-Apr-15,Paul Blart: Mall Cop 2,38.0,71.091594,107.650646,5.0,900,2015,"Action,Comedy,Crime",Andy Fickman,69.650646
+891,23-Dec-16,Why Him?,38.0,60.323786,117.425156,6.2,2494,2016,Comedy,John Hamburg,79.425156
+892,22-Apr-11,Water for Elephants,38.0,58.709717,116.809717,6.9,1627,2011,"Drama,Romance",Francis Lawrence,78.809717
+893,6-Sep-13,Riddick,38.0,42.025135,94.763758,6.2,2852,2013,"Action,Adventure,Sci-Fi",David Twohy,56.763757999999996
+894,24-May-02,Enough,38.0,39.177215,50.97066,8.7,3,2013,"Drama,History",Ockert Potgieter,12.970660000000002
+896,22-Jan-16,The 5th Wave,38.0,34.912982,111.336398,5.8,3657,2016,"Action,Adventure,Drama",J Blakeson,73.336398
+897,20-Sep-13,Rush,38.0,26.947624,98.230839,7.7,3877,2013,"Action,Biography,Drama",Ron Howard,60.230839
+901,20-Oct-17,Only the Brave,38.0,18.340051,24.555177,7.0,603,2017,"Action,Biography,Drama",Joseph Kosinski,-13.444823
+902,14-Oct-11,The Thing,38.0,16.999934,27.573078,6.1,1404,2011,"Horror,Mystery,Sci-Fi",Matthijs van Heijningen Jr.,-10.426922000000001
+904,21-Sep-18,The Sisters Brothers,38.0,3.143056,13.143056,7.0,590,2018,"Adventure,Comedy,Crime",Jacques Audiard,-24.856944
+905,11-Jan-19,The Upside,37.5,108.235497,119.024536,7.3,274,2017,"Comedy,Drama",Neil Burger,81.524536
+906,18-May-12,What to Expect When You're Expecting,37.5,41.152203,88.473016,5.9,1130,2012,"Comedy,Drama,Romance",Kirk Jones,50.973016
+907,14-Sep-12,The Master,37.5,16.247159,50.647416,7.1,1323,2012,Drama,Paul Thomas Anderson,13.147416
+911,7-Aug-13,We're the Millers,37.0,150.394119,267.816276,6.8,5231,2013,"Comedy,Crime",Rawson Marshall Thurber,230.81627600000002
+912,25-Nov-15,Creed,37.0,109.767581,173.567581,7.3,4010,2015,"Drama,Sport",Ryan Coogler,136.567581
+914,17-Sep-10,The Town,37.0,92.186262,152.566881,7.1,2386,2010,"Crime,Drama,Thriller",Ben Affleck,115.566881
+916,23-Sep-11,Dolphin Tale,37.0,72.286779,96.068724,6.8,327,2011,"Drama,Family",Charles Martin Smith,59.068724
+917,26-Feb-10,Cop Out,37.0,44.875481,55.90991,5.4,796,2010,"Action,Comedy,Crime",Kevin Smith,18.909910000000004
+918,28-Jan-11,The Rite,37.0,33.047633,97.143987,5.9,994,2011,"Drama,Horror,Mystery",Mikael Håfström,60.143986999999996
+919,29-May-15,Aloha,37.0,21.05203,25.387091,5.3,1226,2015,"Comedy,Drama,Romance",Cameron Crowe,-11.612908999999998
+920,26-Mar-10,Hot Tub Time Machine,36.0,50.269859,65.96775,6.0,1383,2010,"Comedy,Sci-Fi",Steve Pink,29.967749999999995
+921,12-Sep-14,Dolphin Tale 2,36.0,42.024533,57.824533,6.7,173,2014,"Drama,Family",Charles Martin Smith,21.824533000000002
+922,16-Dec-16,Collateral Beauty,36.0,31.016021,85.309093,7.2,3270,2016,"Drama,Romance",David Frankel,49.309093000000004
+923,6-May-11,There Be Dragons,36.0,1.069334,4.02099,5.1,93,2011,"Biography,Drama,War",Roland Joffé,-31.97901
+924,14-Apr-17,Queen of the Desert,36.0,0.0,1.578543,6.0,136,2015,"Adventure,Biography,Drama",Werner Herzog,-34.421457
+925,8-Sep-17,It,35.0,327.481748,697.457969,7.2,10931,2017,"Horror,Thriller",Andy Muschietti,662.457969
+926,8-Feb-13,Identity Thief,35.0,134.50692,175.361578,5.8,2230,2013,"Adventure,Comedy,Crime",Seth Gordon,140.361578
+927,8-Jul-11,Horrible Bosses,35.0,117.538559,212.417601,6.5,3842,2011,"Comedy,Crime",Seth Gordon,177.417601
+928,17-Jul-15,Trainwreck,35.0,110.2127,141.123897,5.8,1731,2015,"Comedy,Drama,Romance",Judd Apatow,106.123897
+929,13-Dec-13,Saving Mr. Banks,35.0,83.299761,114.962525,7.4,2050,2013,"Biography,Comedy,Drama",John Lee Hancock,79.962525
+930,30-Apr-10,A Nightmare on Elm Street,35.0,63.075011,117.729621,5.5,1408,2010,"Crime,Drama,Horror",Samuel Bayer,82.729621
+931,9-Nov-84,A Nightmare on Elm Street,1.8,25.504513,25.504513,5.5,1408,2010,"Crime,Drama,Horror",Samuel Bayer,23.704513
+932,8-Oct-10,Secretariat,35.0,59.699513,60.376247,7.0,200,2010,"Biography,Drama,Family",Randall Wallace,25.376247
+933,22-Jul-11,Friends with Benefits,35.0,55.802754,146.595891,6.6,4637,2011,"Comedy,Romance",Will Gluck,111.595891
+934,20-May-16,Neighbors 2: Sorority Rising,35.0,55.34073,108.757621,5.7,2829,2016,Comedy,Nicholas Stoller,73.757621
+935,29-Jun-18,Sicario: Day of the Soldado,35.0,50.06585,75.885196,6.7,1317,2018,"Action,Crime,Drama",Stefano Sollima,40.88519599999999
+936,22-May-15,Poltergeist,35.0,47.425125,95.713069,5.1,1438,2015,"Horror,Thriller",Gil Kenan,60.713069000000004
+937,4-Jun-82,Poltergeist,10.7,74.706019,121.706019,5.1,1438,2015,"Horror,Thriller",Gil Kenan,111.006019
+938,12-Oct-18,Goosebumps 2: Haunted Halloween,35.0,46.697321,93.291478,5.6,428,2018,"Adventure,Comedy,Family",Ari Sandel,58.291478
+939,19-Jan-18,12 Strong,35.0,45.819713,71.118378,5.6,1312,2018,"Action,Drama,History",Nicolai Fuglsig,36.11837800000001
+940,6-May-11,Something Borrowed,35.0,39.046489,65.084116,6.1,591,2011,"Comedy,Drama,Romance",Luke Greenfield,30.084115999999995
+941,28-Oct-11,In Time,35.0,37.553932,165.103952,6.8,6245,2011,"Action,Crime,Drama",Andrew Niccol,130.103952
+942,9-Nov-11,J. Edgar,35.0,37.30603,84.60603,6.2,1303,2011,"Biography,Crime,Drama",Clint Eastwood,49.606030000000004
+943,17-Aug-18,Mile 22,35.0,36.108758,66.295121,6.0,920,2018,"Action,Adventure,Thriller",Peter Berg,31.295120999999995
+944,8-May-15,Hot Pursuit,35.0,34.580201,45.671512,5.6,1000,2015,"Action,Comedy,Crime",Anne Fletcher,10.671512
+945,25-Dec-15,Concussion,35.0,34.531832,50.36379,5.5,55,2013,Drama,Stacie Passon,15.363790000000002
+951,13-Oct-17,The Foreigner,35.0,34.393507,140.78336,6.7,1086,2017,"Action,Thriller",Martin Campbell,105.78335999999999
+954,1-Jun-18,Adrift,35.0,31.445011,57.897191,7.0,1,2015,Drama,Barbara Sundstrom,22.897191
+960,6-Jan-17,Underworld: Blood Wars,35.0,30.353973,81.209222,5.5,2318,2016,"Action,Adventure,Fantasy",Anna Foerster,46.209222
+961,23-Sep-11,Abduction,35.0,28.087155,86.648359,5.8,1791,2011,"Action,Mystery,Thriller",John Singleton,51.648359
+963,19-Oct-12,Alex Cross,35.0,25.888412,35.426759,5.1,424,2012,"Action,Crime,Mystery",Rob Cohen,0.426758999999997
+964,9-Nov-01,Heist,35.0,23.483357,28.906817,5.0,1,2015,"Action,Crime,Thriller",Scott Mann,-6.093183
+966,13-Nov-15,Heist,8.9,0.050136,3.324131,5.0,1,2015,"Action,Crime,Thriller",Scott Mann,-5.575869000000001
+972,21-Aug-15,Hitman: Agent 47,35.0,22.46745,82.182803,5.6,1764,2015,"Action,Adventure,Crime",Aleksander Bach,47.18280300000001
+973,24-Aug-12,Premium Rush,35.0,20.275446,31.393201,6.2,1244,2012,"Action,Crime,Thriller",David Koepp,-3.6067989999999988
+974,18-Jan-13,Broken City,35.0,19.701164,34.480045,5.9,814,2013,"Crime,Drama,Thriller",Allen Hughes,-0.519955000000003
+975,25-Feb-05,Cursed,35.0,19.294901,25.114901,7.0,1,2017,"Drama,War",Konrad Lecki,-9.885099
+977,30-Apr-10,Furry Vengeance,35.0,17.630465,39.340177,4.6,283,2010,"Comedy,Family",Roger Kumble,4.340176999999997
+978,25-Jan-13,Parker,35.0,17.616641,48.543388,5.8,1868,2013,"Action,Crime,Thriller",Taylor Hackford,13.543388
+979,15-Sep-00,Bait,35.0,15.325127,15.471969,5.5,358,2012,"Action,Adventure,Drama",Kimble Rendall,-19.528031
+983,27-May-11,The Tree of Life,35.0,13.305665,61.721826,6.6,1730,2011,"Drama,Fantasy",Terrence Malick,26.721826
+985,11-Aug-06,Zoom,35.0,11.989328,12.506188,5.5,43,2015,"Animation,Comedy,Drama",Pedro Morelli,-22.493812
+987,28-Mar-14,Sabotage,35.0,10.508518,18.376443,5.5,779,2014,"Action,Crime,Drama",David Ayer,-16.623557
+988,6-Mar-15,Unfinished Business,35.0,10.219501,13.214051,5.2,472,2011,"Drama,Family",Werner Kriegelstein,-21.785949000000002
+992,30-Sep-15,The Walk,35.0,10.161183,61.492104,6.9,1906,2015,"Crime,Thriller",Timothy Fielding,26.492103999999998
+993,29-Nov-13,Mandela: Long Walk to Freedom,35.0,8.323085,29.890402,6.9,319,2013,"Biography,Drama,History",Justin Chadwick,-5.109597999999998
+994,20-Oct-17,The Snowman,35.0,6.670765,43.226146,5.1,1225,2017,"Crime,Drama,Mystery",Tomas Alfredson,8.226146
+995,28-Jan-11,Biutiful,35.0,5.101237,24.687524,7.2,546,2010,"Drama,Romance",Alejandro G. Iñárritu,-10.312476
+996,22-Apr-16,A Hologram for the King,35.0,4.212494,11.84601,5.9,589,2016,"Comedy,Drama,Romance",Tom Tykwer,-23.15399
+997,3-Oct-86,Playing for Keeps,35.0,2.0,2.0,5.6,420,2012,"Comedy,Romance,Sport",Gabriele Muccino,-33.0
+998,14-Sep-12,Stolen,35.0,0.289773,17.967746,5.3,559,2012,"Action,Crime,Thriller",Simon West,-17.032254
+1001,14-Oct-11,Trespass,35.0,0.016816,0.786532,5.5,589,2011,"Crime,Drama,Thriller",Joel Schumacher,-34.213468
+1003,13-Mar-15,The Lovers,35.0,0.0,0.053899,4.7,47,2013,"Action,Adventure,Romance",Roland Joffé,-34.946101
+1007,25-Dec-11,The Darkest Hour,34.8,21.443494,62.831715,4.9,735,2011,"Action,Adventure,Horror",Chris Gorak,28.031715000000005
+1008,28-Jun-17,Baby Driver,34.0,107.825862,228.104185,7.4,8034,2017,"Action,Crime,Drama",Edgar Wright,194.104185
+1009,19-Sep-14,The Maze Runner,34.0,102.427862,348.319861,7.1,10626,2014,"Action,Mystery,Sci-Fi",Wes Ball,314.319861
+1010,10-Apr-15,The Longest Ride,34.0,37.446117,63.802928,7.5,1908,2015,"Drama,Romance",George Tillman Jr.,29.802928
+1011,3-Aug-18,The Darkest Minds,34.0,12.695691,38.361428,6.8,1158,2018,"Action,Adventure,Drama",Jennifer Yuh Nelson,4.3614279999999965
+1012,8-Jul-16,Mike and Dave Need Wedding Dates,33.0,46.009673,75.8981,6.0,1552,2016,"Adventure,Comedy,Romance",Jake Szymanski,42.8981
+1013,27-Jul-12,Step Up Revolution,33.0,35.074677,165.55229,6.8,1252,2012,"Drama,Music,Romance",Scott Speer,132.55229
+1014,8-Sep-00,The Watcher,33.0,28.946615,47.267829,5.4,58,2010,Drama,Nate Bernard,14.267828999999999
+1018,27-Apr-12,Safe,33.0,17.14208,41.495213,6.3,1248,2012,"Action,Crime,Thriller",Boaz Yakin,8.495213
+1020,31-Jul-15,The Young and Prodigious T.S. Spivet,33.0,0.176847,0.357687,6.7,389,2013,"Action,Adventure,Comedy",Jean-Pierre Jeunet,-32.642313
+1021,30-Oct-15,Freaks of Nature,33.0,0.070958,0.070958,5.8,231,2015,"Comedy,Horror,Sci-Fi",Robbie Pickering,-32.929042
+1022,13-May-11,Bridesmaids,32.5,169.211718,289.632023,6.5,2783,2011,"Comedy,Romance",Paul Feig,257.132023
+1023,26-Apr-13,The Big Wedding,32.5,21.819348,48.425971,5.8,678,2013,"Comedy,Drama,Romance",Justin Zackham,15.925970999999997
+1024,24-Feb-12,Wanderlust,32.5,17.288155,24.159934,5.4,693,2019,Fantasy,Graeme Higginson,-8.340066
+1026,27-Aug-10,Takers,32.0,57.74472,70.587268,6.2,605,2010,"Action,Crime,Thriller",John Luessenhop,38.587267999999995
+1027,1-Apr-11,Source Code,32.0,54.712227,140.428499,7.2,4529,2011,"Action,Drama,Sci-Fi",Duncan Jones,108.42849899999999
+1028,18-Feb-11,"Big Mommas: Like Father, Like Son",32.0,37.915414,82.33245,5.5,623,2011,"Action,Comedy,Crime",John Whitesell,50.332449999999994
+1029,15-Mar-13,The Incredible Burt Wonderstone,32.0,22.537881,27.392609,5.4,920,2013,"Adventure,Comedy,Fantasy",Don Scardino,-4.607391
+1030,12-Oct-18,Bad Times at the El Royale,32.0,17.839115,29.204379,6.8,1365,2018,"Crime,Drama,Mystery",Drew Goddard,-2.7956210000000006
+1031,3-Sep-10,Going the Distance,32.0,17.804299,43.60399,6.0,394,2010,"Comedy,Romance",Nanette Burstein,11.603990000000003
+1033,19-Mar-10,Repo Men,32.0,13.942007,18.195238,6.2,976,2010,"Action,Crime,Sci-Fi",Miguel Sapochnik,-13.804762
+1034,15-Apr-16,Criminal,31.5,14.708696,38.771262,5.9,897,2011,"Action,Crime,Drama",Dilip Panda,7.271262
+1036,12-Apr-13,42,31.0,95.020213,97.470701,7.0,1028,2013,"Biography,Drama,Sport",Brian Helgeland,66.470701
+1037,2-Nov-12,Flight,31.0,93.772375,160.558438,6.7,3582,2012,"Drama,Thriller",Robert Zemeckis,129.558438
+1038,7-Mar-14,The Grand Budapest Hotel,31.0,59.076019,163.981261,8.0,8091,2014,"Adventure,Comedy,Crime",Wes Anderson,132.981261
+1039,28-Apr-00,Frequency,31.0,44.983704,68.079671,7.1,791,2012,"Sci-Fi,Thriller",Jeff Prince,37.079671000000005
+1041,22-Jan-10,Extraordinary Measures,31.0,12.482741,15.826984,6.3,153,2010,Drama,Tom Vaughan,-15.173016
+1042,25-Aug-17,Birth of the Dragon,31.0,6.901965,7.22049,5.7,172,2016,"Action,Biography,Drama",George Nolfi,-23.779510000000002
+1043,15-Aug-18,Crazy Rich Asians,30.0,174.532921,238.099711,7.1,1496,2018,"Comedy,Romance",Jon M. Chu,208.099711
+1044,10-Feb-12,The Vow,30.0,125.01403,197.61816,7.1,2409,2012,"Drama,Romance",Michael Sucsy,167.61816
+1045,18-Dec-15,Sisters,30.0,87.044645,106.03066,5.9,922,2015,Comedy,Jason Moore,76.03066
+1050,28-Sep-12,Looper,30.0,66.486205,170.466405,6.8,6723,2012,"Action,Crime,Drama",Rian Johnson,140.466405
+1051,1-Feb-13,Warm Bodies,30.0,66.380662,115.121608,6.3,4109,2013,"Comedy,Horror,Romance",Jonathan Levine,85.121608
+1052,17-Jan-14,The Nut Job,30.0,64.251538,122.529966,5.6,529,2014,"Adventure,Animation,Comedy",Peter Lepeniotis,92.529966
+1053,8-Aug-12,Hope Springs,30.0,63.536011,133.085295,6.1,429,2012,"Comedy,Drama,Romance",David Frankel,103.085295
+1054,20-May-11,Midnight in Paris,30.0,56.816662,162.502774,7.5,3965,2011,"Comedy,Fantasy,Romance",Woody Allen,132.502774
+1055,22-Nov-17,Darkest Hour,30.0,56.44312,150.807172,7.3,2715,2017,"Biography,Drama,History",Joe Wright,120.80717200000001
+1056,11-May-18,Life of the Party,30.0,53.059911,65.759911,6.2,435,2017,"Comedy,Drama",Michael Budd,35.759911
+1059,14-May-10,Letters to Juliet,30.0,53.032453,82.148538,6.9,1706,2010,"Adventure,Comedy,Drama",Gary Winick,52.148538
+1060,24-Jul-15,Southpaw,30.0,52.421953,94.156456,7.4,3424,2015,"Drama,Sport",Antoine Fuqua,64.156456
+1061,28-Jul-17,Atomic Blonde,30.0,51.573925,98.345423,6.3,3645,2017,"Action,Mystery,Thriller",David Leitch,68.345423
+1062,18-Sep-15,Sicario,30.0,46.889293,84.393749,7.3,4475,2015,"Action,Crime,Drama",Denis Villeneuve,54.393749
+1063,19-Jan-18,Den of Thieves,30.0,44.947622,80.131391,6.6,1244,2018,"Action,Crime,Drama",Christian Gudegast,50.131390999999994
+1064,24-Apr-15,The Age of Adaline,30.0,42.629776,68.984536,7.4,3853,2015,"Drama,Fantasy,Romance",Lee Toland Krieger,38.984536000000006
+1065,6-Aug-10,Step Up 3D,30.0,42.400223,165.889117,6.7,1160,2010,"Drama,Music,Romance",Jon M. Chu,135.889117
+1066,13-Apr-12,The Cabin in the Woods,30.0,42.073277,70.689968,6.5,4185,2011,Horror,Drew Goddard,40.68996799999999
+1067,8-Apr-11,Hanna,30.0,40.259119,65.343694,6.6,1944,2011,"Action,Drama,Thriller",Joe Wright,35.343694
+1068,13-Sep-13,The Family,30.0,36.918811,51.078541,3.4,5,2013,"Comedy,Crime,Thriller",Luc Besson,21.078541
+1077,9-Feb-18,The 15:17 to Paris,30.0,36.276286,56.0962,5.3,799,2018,"Biography,Drama,Thriller",Clint Eastwood,26.096200000000003
+1078,1-Jul-11,Larry Crowne,30.0,35.608245,61.449135,5.8,676,2011,"Comedy,Drama,Romance",Tom Hanks,31.449135
+1079,18-Oct-13,Carrie,30.0,35.266619,82.40952,7.1,1766,2013,"Drama,Horror",Kimberly Peirce,52.40952
+1081,16-Nov-76,Carrie,1.8,25.878153,25.878153,7.1,1766,2013,"Drama,Horror",Kimberly Peirce,24.078153
+1083,2-Mar-18,Death Wish,30.0,34.017028,48.575965,5.9,1207,2018,"Action,Crime,Drama",Eli Roth,18.575964999999997
+1084,3-Jun-15,Entourage,30.0,32.363404,46.438538,6.2,647,2015,Comedy,Doug Ellin,16.438538
+1085,8-Feb-13,Side Effects,30.0,32.172757,66.742138,6.5,1879,2013,"Crime,Drama,Mystery",Steven Soderbergh,36.742138
+1087,9-Sep-05,Side Effects,0.2,0.044701,0.044701,6.5,1879,2013,"Crime,Drama,Mystery",Steven Soderbergh,-0.15529900000000002
+1089,2-Jul-14,Deliver Us from Evil,30.0,30.577122,87.956618,6.1,1104,2014,"Horror,Mystery,Thriller",Scott Derrickson,57.956618000000006
+1090,1-Aug-14,Get on Up,30.0,30.569935,33.339868,6.7,251,2014,"Biography,Drama,Music",Tate Taylor,3.3398680000000027
+1091,27-Apr-12,The Five-Year Engagement,30.0,28.700285,61.623819,5.8,742,2012,"Comedy,Romance",Nicholas Stoller,31.623818999999997
+1092,14-Sep-18,White Boy Rick,30.0,24.004833,25.947983,6.3,277,2018,"Crime,Drama",Yann Demange,-4.052016999999999
+1093,4-Feb-11,Sanctum,30.0,23.20931,108.957098,5.9,515,2011,"Adventure,Drama,Thriller",Alister Grierson,78.957098
+1094,25-Aug-17,Ballerina,30.0,21.85807,96.892829,7.2,1024,2012,"Biography,Documentary",Maja Friis,66.892829
+1095,19-Nov-10,The Next Three Days,30.0,21.148651,67.255916,7.0,1469,2010,"Action,Crime,Drama",Paul Haggis,37.255916
+1096,12-Jan-18,Proud Mary,30.0,20.868638,21.709539,5.5,259,2018,"Action,Crime,Drama",Babak Najafi,-8.290461
+1097,4-Oct-13,Runner Runner,30.0,19.316646,60.51268,5.6,761,2013,"Crime,Thriller",Brad Furman,30.512680000000003
+1098,28-Apr-17,Baahubali 2: The Conclusion,30.0,18.985794,263.502914,7.0,252,2017,"Action,Drama",S.S. Rajamouli,233.50291399999998
+1099,19-Aug-11,Fright Night,30.0,18.298649,40.520649,6.0,1024,2011,"Comedy,Horror",Craig Gillespie,10.520648999999999
+1100,9-Oct-15,Steve Jobs,30.0,17.766658,35.579007,6.8,2572,2015,"Biography,Drama",Danny Boyle,5.579006999999997
+1101,18-Jan-13,The Last Stand,30.0,12.050299,48.330757,5.9,1692,2013,"Action,Thriller",Jee-woon Kim,18.330757
+1103,8-Mar-13,Dead Man Down,30.0,10.895295,19.599974,6.0,866,2013,"Action,Crime,Drama",Niels Arden Oplev,-10.400026
+1104,14-Apr-17,The Lost City of Z,30.0,8.574339,17.121823,6.2,1397,2016,"Adventure,Biography,Drama",James Gray,-12.878177
+1105,3-Feb-17,The Space Between Us,30.0,7.885294,16.481405,7.1,1455,2017,"Adventure,Drama,Romance",Peter Chelsom,-13.518595000000001
+1106,14-Jan-11,Barney's Version,30.0,7.50256,8.845575,7.2,210,2010,"Comedy,Drama",Richard J. Lewis,-21.154425
+1107,20-Sep-02,Trapped,30.0,6.916869,6.916869,5.8,2,2011,Drama,Kaya Purohit,-23.083131
+1121,31-Aug-18,Kin,30.0,5.718096,10.096821,6.2,289,2012,"Drama,Music",Rachel Lambert,-19.903179
+1122,22-Sep-17,Stronger,30.0,4.211129,8.786752,7.0,782,2017,"Biography,Drama",David Gordon Green,-21.213248
+1123,22-Jan-99,Gloria,30.0,4.167493,4.967493,6.5,83,2013,"Comedy,Drama,Romance",Sebastián Lelio,-25.032507
+1125,23-Sep-11,Machine Gun Preacher,30.0,0.53869,3.721988,6.5,477,2011,"Action,Biography,Crime",Marc Forster,-26.278012
+1126,30-Jan-15,Wild Card,30.0,0.0032,4.315789,8.0,1,2015,"Action,Crime,Drama",Simon West,-25.684211
+1128,5-Jun-15,United Passions,30.0,0.000918,0.168832,3.3,21,2014,"Drama,History,Sport",Frédéric Auburtin,-29.831168
+1129,1-Dec-15,Grace of Monaco,30.0,0.0,25.199891,6.0,352,2014,"Biography,Drama,Romance",Olivier Dahan,-4.800108999999999
+1130,31-Dec-13,Space Pirate Captain Harlock,30.0,0.0,0.310985,6.5,596,2010,"Animation,Sci-Fi",William Winckler,-29.689015
+1131,24-Feb-17,Collide,29.2,2.280004,5.466698,5.6,331,2016,"Action,Crime,Thriller",Eran Creevy,-23.733302
+1132,15-May-15,Pitch Perfect 2,29.0,184.29623,287.625468,6.8,3599,2015,"Comedy,Music",Elizabeth Banks,258.625468
+1133,28-Sep-18,Night School,29.0,77.33913,103.008792,7.0,2,2016,Documentary,Andrew Cohn,74.008792
+1137,8-Apr-16,The Boss,29.0,63.07756,78.652207,5.8,822,2016,Comedy,Ben Falcone,49.652207000000004
+1138,18-Aug-17,Logan Lucky,29.0,27.778642,44.264271,6.7,1627,2017,"Comedy,Crime,Drama",Steven Soderbergh,15.264271
+1139,12-Aug-16,Florence Foster Jenkins,29.0,27.38377,56.000339,6.7,849,2016,"Biography,Comedy,Drama",Stephen Frears,27.000338999999997
+1140,14-Aug-15,Straight Outta Compton,28.0,161.197785,202.182981,7.7,2048,2015,"Biography,Drama,History",F. Gary Gray,174.182981
+1141,21-Jul-17,Girls Trip,28.0,115.108515,140.886353,6.8,968,2017,"Comedy,Drama",Malcolm D. Lee,112.88635300000001
+1142,14-Feb-13,Safe Haven,28.0,71.39912,94.050951,7.1,1433,2013,"Drama,Romance,Thriller",Lasse Hallström,66.050951
+1144,11-Dec-15,The Big Short,28.0,70.25987,133.162752,7.3,4657,2015,"Biography,Comedy,Drama",Adam McKay,105.16275200000001
+1145,10-Oct-14,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",28.0,66.954149,101.379287,6.2,817,2014,"Comedy,Family",Miguel Arteta,73.379287
+1146,28-Jan-13,Last Vegas,28.0,63.914167,112.914167,6.4,1211,2013,"Comedy,Drama",Jon Turteltaub,84.914167
+1147,15-Jun-18,Tag,28.0,54.730625,77.026186,4.0,1,2015,Drama,Danny Roth,49.026185999999996
+1157,25-Apr-03,Identity,28.0,52.131264,82.183683,6.3,3,2015,Drama,Behrouz Sebt Rasoul,54.183683
+1160,16-Apr-10,Kick-Ass,28.0,48.071303,97.531134,7.1,7540,2010,"Action,Comedy",Matthew Vaughn,69.531134
+1161,12-Aug-11,30 Minutes or Less,28.0,37.053924,40.966716,5.6,825,2011,"Action,Comedy,Crime",Ruben Fleischer,12.966715999999998
+1162,21-Feb-14,3 Days to Kill,28.0,30.697999,38.9599,6.1,1279,2014,"Action,Drama,Thriller",McG,10.959899999999998
+1163,16-Aug-13,Kick-Ass 2,28.0,28.795985,63.129909,6.4,3785,2013,"Action,Comedy,Crime",Jeff Wadlow,35.129909
+1164,19-Sep-14,A Walk Among the Tombstones,28.0,26.017685,62.108587,6.3,1685,2014,"Action,Crime,Drama",Scott Frank,34.108587
+1165,15-Jan-10,The Spy Next Door,28.0,24.307106,46.752858,5.7,650,2010,"Action,Comedy,Family",Brian Levant,18.752858000000003
+1166,25-Apr-14,Brick Mansions,28.0,20.396829,73.421224,5.9,909,2014,"Action,Crime",Camille Delamarre,45.421223999999995
+1167,21-Aug-15,American Ultra,28.0,14.439985,30.295028,6.0,1756,2015,"Action,Comedy,Sci-Fi",Nima Nourizadeh,2.2950279999999985
+1168,5-Feb-16,Pride and Prejudice and Zombies,28.0,10.907291,16.6383,5.7,1195,2016,"Action,Comedy,Horror",Burr Steers,-11.361699999999999
+1169,13-Jan-12,Joyful Noise,27.5,30.932113,31.157914,6.4,70,2012,"Comedy,Drama,Music",Todd Graff,3.6579140000000017
+1170,28-Oct-11,Anonymous,27.5,4.463292,15.815509,6.4,434,2011,"Drama,Thriller",Roland Emmerich,-11.684491
+1172,18-Mar-11,Limitless,27.0,79.249455,155.564919,7.1,6295,2011,"Mystery,Sci-Fi,Thriller",Neil Burger,128.564919
+1174,13-May-16,Money Monster,27.0,41.012075,93.466095,6.4,1859,2016,"Crime,Drama,Thriller",Jodie Foster,66.466095
+1175,10-Aug-90,Flatliners,26.0,61.308153,61.308153,5.7,1249,2017,"Drama,Horror,Mystery",Niels Arden Oplev,35.308153
+1176,29-Sep-17,Flatliners,20.0,16.883115,45.173738,5.7,1249,2017,"Drama,Horror,Mystery",Niels Arden Oplev,25.173738
+1177,19-Aug-05,Red Eye,26.0,57.891803,96.666486,5.0,2,2017,Horror,Tristan Clay,70.666486
+1178,26-Apr-13,Pain & Gain,26.0,49.875291,81.275291,6.1,2500,2013,"Action,Comedy,Crime",Michael Bay,55.275290999999996
+1179,22-Jan-10,Legion,26.0,40.16808,67.647574,5.3,1154,2010,"Action,Fantasy,Horror",Scott Stewart,41.647574000000006
+1181,29-Aug-12,Lawless,26.0,37.397291,54.393687,7.0,1660,2012,"Crime,Drama",John Hillcoat,28.393687
+1183,4-Dec-09,Brothers,26.0,28.544157,45.04387,7.3,3,2011,Drama,Mika Kaurismäki,19.04387
+1185,14-Aug-15,Brothers,13.0,0.656688,17.856688,7.3,3,2011,Drama,Mika Kaurismäki,4.856687999999998
+1203,17-Oct-14,The Best of Me,26.0,26.766213,41.059418,7.3,1512,2014,"Drama,Romance",Michael Hoffman,15.059418
+1204,27-Apr-12,The Raven,26.0,16.008272,30.601801,5.9,5,2012,"Crime,Mystery,Thriller",James McTeigue,4.601800999999998
+1206,18-Oct-13,The Fifth Estate,26.0,3.254172,6.154172,5.9,549,2013,"Biography,Drama,Thriller",Bill Condon,-19.845828
+1207,21-Mar-14,Blood Ties,26.0,0.042472,2.923959,6.1,268,2010,Drama,Kim Homer Garcia,-23.076041
+1211,17-Mar-15,Accidental Love,26.0,0.0,0.135436,4.0,172,2015,"Comedy,Romance",David O. Russell,-25.864564
+1212,10-Aug-11,The Help,25.0,169.705587,213.120004,8.1,3944,2011,Drama,Tate Taylor,188.120004
+1213,25-Dec-16,Hidden Figures,25.0,169.607287,231.771716,8.0,4710,2016,"Biography,Drama,History",Theodore Melfi,206.771716
+1214,17-Jan-14,Ride Along,25.0,134.202565,153.7338,6.2,1277,2014,"Action,Comedy,Crime",Tim Story,128.7338
+1216,5-Feb-10,Dear John,25.0,80.014842,142.033509,6.8,2676,2010,"Drama,Romance,War",Lasse Hallström,117.03350900000001
+1217,25-Dec-12,Parental Guidance,25.0,77.267296,120.832383,5.8,276,2012,"Comedy,Family",Andy Fickman,95.832383
+1218,21-Jan-11,No Strings Attached,25.0,70.66222,149.228078,6.2,2612,2011,"Comedy,Romance",Ivan Reitman,124.22807800000001
+1219,13-Jan-12,Contraband,25.0,66.528,98.406855,6.2,1114,2012,"Action,Crime,Drama",Baltasar Kormákur,73.406855
+1220,20-Apr-12,The Lucky One,25.0,60.457138,96.633833,6.9,2012,2012,"Drama,Romance",Scott Hicks,71.633833
+1221,22-Apr-11,Madea's Big Happy Family,25.0,53.345287,54.160818,6.7,71,2011,"Comedy,Drama",Tyler Perry,29.160818
+1222,27-Jan-12,The Grey,25.0,51.580136,81.249176,6.5,2280,2011,"Action,Adventure,Drama",Joe Carnahan,56.249176000000006
+1223,28-Jan-05,Hide and Seek,25.0,51.100486,123.696741,8.0,1,2013,"Action,Horror,Mystery",Jung Huh,98.696741
+1231,15-Aug-14,The Giver,25.0,45.090374,66.540205,6.5,3075,2014,"Drama,Romance,Sci-Fi",Phillip Noyce,41.540205
+1232,20-Nov-15,The Night Before,25.0,43.035725,52.427346,6.1,956,2015,"Adventure,Comedy,Fantasy",Jonathan Levine,27.427346
+1234,25-Dec-13,August: Osage County,25.0,37.73881,50.73881,6.9,843,2013,"Comedy,Drama",John Wells,25.73881
+1235,16-May-14,Million Dollar Arm,25.0,36.447959,39.217912,6.8,353,2014,"Biography,Drama,Sport",Craig Gillespie,14.217911999999998
+1236,7-Sep-18,Peppermint,25.0,35.418723,51.800758,6.5,716,2018,"Action,Crime,Drama",Pierre Morel,26.800758000000002
+1237,10-Dec-14,The Gambler,25.0,33.680992,38.718031,5.8,783,2015,Drama,Szabolcs Hajdu,13.718031000000003
+1238,4-Aug-99,The Gambler,3.0,0.051773,0.101773,5.8,783,2015,Drama,Szabolcs Hajdu,-2.898227
+1245,17-Feb-17,Fist Fight,25.0,32.187017,40.286416,6.0,708,2017,Comedy,Richie Keen,15.286416000000003
+1246,9-Dec-11,The Sitter,25.0,30.542576,38.749404,5.4,472,2011,Comedy,David Gordon Green,13.749403999999998
+1248,11-Apr-14,Draft Day,25.0,28.842237,29.84748,6.6,460,2014,"Drama,Sport",Ivan Reitman,4.847480000000001
+1249,3-Feb-17,Rings,25.0,27.793018,82.917283,4.9,1785,2017,"Drama,Horror,Mystery",F. Javier Gutiérrez,57.917283
+1250,26-Aug-11,Don't Be Afraid of the Dark,25.0,24.046682,39.126427,5.5,550,2010,"Fantasy,Horror,Thriller",Troy Nixey,14.126427
+1251,23-Apr-10,The Losers,25.0,23.591432,29.86384,6.2,844,2010,"Action,Adventure,Crime",Sylvain White,4.86384
+1253,24-Aug-07,War,25.0,22.486409,40.686409,6.0,1,2014,Drama,Simon Jaquemet,15.686408999999998
+1254,11-Feb-11,The Eagle,25.0,19.490041,38.993548,6.1,694,2011,"Action,Adventure,Drama",Kevin Macdonald,13.993547999999997
+1255,2-Sep-11,Shark Night 3D,25.0,18.877153,18.877153,5.0,245,2011,"Horror,Thriller",David R. Ellis,-6.122847
+1256,22-Dec-17,Father Figures,25.0,17.501244,21.038441,5.8,277,2017,"Adventure,Comedy,Drama",Lawrence Sher,-3.961559000000001
+1257,25-Oct-13,The Counselor,25.0,16.973715,71.009334,5.1,1072,2013,"Crime,Drama,Thriller",Ridley Scott,46.009333999999996
+1258,7-Dec-18,Mary Queen of Scots,25.0,16.468499,46.734733,6.6,592,2013,"Biography,Drama,History",Thomas Imbach,21.734733
+1260,18-Apr-86,Legend,25.0,15.502112,23.506237,6.2,509,2013,Horror,Wayne W. Whited,-1.4937630000000013
+1262,20-Nov-15,Legend,25.0,1.872994,42.42545,6.2,509,2013,Horror,Wayne W. Whited,17.425449999999998
+1276,6-Nov-09,The Box,25.0,15.051977,34.35676,8.0,1,2011,Drama,Andrijana Stojkovic,9.356760000000001
+1282,8-Oct-10,My Soul to Take,25.0,14.744435,16.72747,5.4,247,2010,"Horror,Mystery,Thriller",Wes Craven,-8.27253
+1283,9-Sep-11,Warrior,25.0,13.657115,24.215385,7.8,2189,2011,"Drama,Sport",Gavin O'Connor,-0.7846149999999987
+1285,21-Dec-12,Cirque du Soleil: Worlds Away,25.0,12.512862,28.012862,6.8,82,2012,Fantasy,Andrew Adamson,3.0128619999999984
+1286,13-Nov-15,The 33,25.0,12.227722,28.400715,6.2,565,2015,"Biography,Drama,History",Patricia Riggen,3.4007150000000017
+1287,15-Apr-11,The Conspirator,25.0,11.538204,15.907411,6.5,226,2010,"Crime,Drama,History",Robert Redford,-9.092589
+1289,16-Sep-11,Straw Dogs,25.0,10.324441,11.253821,5.7,255,2011,"Action,Drama,Thriller",Rod Lurie,-13.746179
+1290,25-Nov-09,The Road,25.0,8.11427,29.206732,5.1,24,2010,Documentary,Tonny Trimarsanto,4.206731999999999
+1293,12-Oct-18,Beautiful Boy,25.0,7.634767,13.031424,6.0,47,2018,"Biography,Drama",Felix van Groeningen,-11.968576
+1297,13-Apr-18,Sgt. Stubby: An American Hero,25.0,3.054285,3.645957,6.4,9,2018,"Adventure,Animation,Family",Richard Lanni,-21.354043
+1298,16-Dec-11,Carnage,25.0,2.546747,38.112154,7.1,1478,2011,"Comedy,Drama",Roman Polanski,13.112153999999997
+1300,1-Sep-17,Tulip Fever,25.0,2.455635,6.792768,6.4,307,2017,"Drama,History,Romance",Justin Chadwick,-18.207232
+1301,29-Jan-16,Jane Got a Gun,25.0,1.513793,3.771345,5.5,439,2015,"Action,Drama,Western",Gavin O'Connor,-21.228655
+1302,22-Mar-13,On the Road,25.0,0.720828,9.313302,5.6,518,2012,"Adventure,Drama,Romance",Walter Salles,-15.686698
+1308,30-Jun-10,Love Ranch,25.0,0.137885,0.146149,6.1,28,2010,"Biography,Comedy,Drama",Taylor Hackford,-24.853851
+1309,8-Jul-11,Ironclad,25.0,0.0,5.297411,6.1,373,2011,"Action,Adventure,Drama",Jonathan English,-19.702589
+1310,10-Mar-15,Red Sky,25.0,0.0,0.091116,4.5,33,2011,"Drama,Romance",Laya Yourgou,-24.908884
+1314,9-Nov-12,Dangerous Liaisons,24.2,0.017,10.447579,6.2,22,2012,"Drama,Mystery,Romance",Jin-ho Hur,-13.752421
+1315,21-Dec-88,Dangerous Liaisons,14.0,34.7,34.7,6.2,22,2012,"Drama,Mystery,Romance",Jin-ho Hur,20.700000000000003
+1316,20-Jun-14,Think Like a Man Too,24.0,65.028687,70.027933,6.3,319,2014,"Comedy,Romance",Tim Story,46.027933000000004
+1317,16-Dec-16,Fences,24.0,57.682904,64.282881,6.8,1465,2016,Drama,Denzel Washington,40.282881
+1319,14-Oct-11,Footloose,24.0,51.802742,62.989834,6.6,929,2011,"Comedy,Drama,Music",Craig Brewer,38.989834
+1320,17-Feb-84,Footloose,8.2,80.0,80.0,6.6,929,2011,"Comedy,Drama,Music",Craig Brewer,71.8
+1321,7-Apr-17,Going in Style,24.0,45.018541,78.672579,6.6,1324,2017,"Comedy,Crime",Zach Braff,54.672579
+1322,20-Aug-10,Piranha 3D,24.0,25.003155,83.66016,5.3,1029,2010,"Comedy,Horror",Alexandre Aja,59.660160000000005
+1323,24-Nov-10,Faster,24.0,23.24002,35.792945,6.2,895,2010,"Action,Crime,Drama",George Tillman Jr.,11.792945000000003
+1324,16-Sep-11,I Don't Know How She Does It,24.0,9.659074,24.474463,5.2,231,2011,"Comedy,Romance",Douglas McGrath,0.4744630000000001
+1325,20-Dec-13,Dhoom 3,24.0,8.031955,11.72362,5.9,136,2013,"Action,Thriller",Vijay Krishna Acharya,-12.27638
+1326,16-Nov-18,Green Book,23.0,85.080171,322.034439,8.3,3499,2018,"Biography,Comedy,Drama",Peter Farrelly,299.034439
+1327,16-Jan-15,The Wedding Ringer,23.0,64.460211,80.171596,6.5,961,2015,Comedy,Jeremy Garelick,57.171595999999994
+1328,7-Oct-11,The Ides of March,23.0,40.962534,77.735925,6.7,1405,2011,"Drama,Thriller",George Clooney,54.735924999999995
+1329,5-Oct-18,The Hate U Give,23.0,29.719483,35.067665,8.2,636,2018,"Crime,Drama",George Tillman Jr.,12.067664999999998
+1330,10-Jan-14,Her,23.0,25.568251,48.163815,7.9,7776,2013,"Drama,Romance,Sci-Fi",Spike Jonze,25.163815
+1331,20-Jan-12,Haywire,23.0,18.942396,36.3747,5.6,747,2011,"Action,Drama,Thriller",Steven Soderbergh,13.374699999999997
+1332,26-Feb-16,Eddie the Eagle,23.0,15.789389,45.06048,7.2,1190,2015,"Biography,Comedy,Drama",Dexter Fletcher,22.06048
+1333,25-Aug-00,The Crew,23.0,13.019253,13.019253,6.2,134,2012,Comedy,Kate Kaminski,-9.980747
+1336,28-Jun-13,Redemption,23.0,0.036686,13.593473,3.8,2,2011,"Adventure,Drama,Romance",Joseph P. Stachura,-9.406527
+1345,18-Nov-16,Nocturnal Animals,22.5,10.663357,32.398681,7.4,4192,2016,"Drama,Thriller",Tom Ford,9.898681000000003
+1346,24-Apr-15,The Water Diviner,22.5,4.200117,31.054727,6.8,682,2014,"Drama,History,War",Russell Crowe,8.554727
+1347,13-Jul-90,Ghost,22.0,217.631306,517.6,5.7,23,2010,"Drama,Fantasy,Mystery",Tarô Ohtani,495.6
+1350,28-Feb-14,Son of God,22.0,59.700064,70.949793,6.4,123,2014,"Biography,Drama,History",Christopher Spencer,48.949793
+1351,8-Aug-14,The Hundred-Foot Journey,22.0,54.235441,94.270488,7.3,785,2014,"Comedy,Drama",Lasse Hallström,72.270488
+1352,3-Aug-12,Diary of a Wimpy Kid: Dog Days,22.0,49.008662,77.229695,6.2,440,2012,"Comedy,Family",David Bowers,55.22969500000001
+1353,11-Nov-05,Derailed,22.0,36.020063,57.520063,6.2,500,2016,"Action,Crime",Seong-Tae Lee,35.520063
+1355,22-Nov-13,Delivery Man,22.0,30.659817,70.53687,6.2,858,2013,"Comedy,Drama",Ken Scott,48.53686999999999
+1356,19-May-17,Diary of a Wimpy Kid: The Long Haul,22.0,20.738724,35.609577,5.6,193,2017,"Comedy,Family",David Bowers,13.609577000000002
+1357,27-Nov-13,Homefront,22.0,20.158492,51.695362,6.5,1410,2013,"Action,Thriller",Gary Fleder,29.695362000000003
+1358,4-Sep-15,The Transporter Refueled,22.0,16.02967,69.698495,5.4,836,2015,"Action,Adventure,Crime",Camille Delamarre,47.698494999999994
+1359,22-Aug-12,Hit & Run,22.0,13.7493,17.216955,5.7,312,2019,"Action,Comedy",Ody C. Harahap,-4.783045000000001
+1360,17-Nov-17,"Roman J. Israel, Esq.",22.0,11.962712,12.967012,6.2,499,2017,"Crime,Drama,Thriller",Dan Gilroy,-9.032988
+1361,4-Dec-13,Out of the Furnace,22.0,11.330849,15.434375,6.6,1077,2013,"Crime,Drama,Thriller",Scott Cooper,-6.565625000000001
+1362,8-Dec-17,Just Getting Started,22.0,6.069605,6.756412,4.9,94,2017,"Action,Comedy",Ron Shelton,-15.243587999999999
+1363,31-Oct-14,Before I Go to Sleep,22.0,3.242457,19.563579,6.4,1098,2014,"Drama,Horror,Mystery",Rowan Joffe,-2.4364209999999993
+1364,8-Oct-10,Stone,22.0,1.810078,4.06502,5.2,334,2010,"Drama,Thriller",John Curran,-17.93498
+1368,22-Jun-12,To Rome with Love,21.5,16.684352,74.326015,5.7,1097,2012,"Comedy,Music,Romance",Woody Allen,52.826015
+1369,16-Nov-12,Silver Linings Playbook,21.0,132.092958,236.412453,7.1,7636,2012,"Comedy,Drama,Romance",David O. Russell,215.412453
+1370,6-Apr-18,Blockers,21.0,60.311495,94.045328,6.1,969,2018,Comedy,Kay Cannon,73.045328
+1371,16-Apr-10,Death at a Funeral,21.0,42.739347,48.977233,5.7,439,2010,Comedy,Neil LaBute,27.977233
+1372,17-Aug-07,Death at a Funeral,20.0,8.580428,46.790428,5.7,439,2010,Comedy,Neil LaBute,26.790428
+1373,5-Nov-10,For Colored Girls,21.0,37.729698,38.017873,6.8,33,2010,Drama,Tyler Perry,17.017873
+1374,4-Aug-17,Kidnap,21.0,30.718107,34.83608,6.0,805,2019,Drama,Raja Chanda,13.836080000000003
+1378,9-Dec-11,Tinker Tailor Soldier Spy,21.0,24.149393,81.452811,6.7,1402,2011,"Drama,Mystery,Thriller",Tomas Alfredson,60.452811
+1379,6-May-11,The Beaver,21.0,0.970816,5.046038,6.3,464,2011,Drama,Jodie Foster,-15.953962
+1380,24-Feb-17,Bitter Harvest,21.0,0.557241,0.606162,6.2,42,2017,"Drama,Romance,War",George Mendeluk,-20.393838
+1381,22-Oct-99,Molly,21.0,0.017396,0.017396,5.8,5,2020,Drama,Sally Potter,-20.982604
+1382,9-Dec-16,La La Land,20.0,151.101803,426.351163,7.9,10028,2016,"Comedy,Drama,Music",Damien Chazelle,406.351163
+1383,19-Jul-13,The Conjuring,20.0,137.400141,318.000141,7.5,5912,2013,"Horror,Mystery,Thriller",James Wan,298.000141
+1384,17-Nov-17,Wonder,20.0,132.422809,304.604712,8.2,3959,2017,"Drama,Family",Stephen Chbosky,284.604712
+1385,15-Oct-10,Jackass 3D,20.0,117.229692,171.685793,6.3,655,2010,"Action,Comedy,Documentary",Jeff Tremaine,151.685793
+1386,2-Jul-14,Tammy,20.0,84.525432,96.407655,5.2,735,2014,"Comedy,Romance",Ben Falcone,76.407655
+1387,16-Nov-11,The Descendants,20.0,82.624961,175.5078,6.8,1522,2011,"Comedy,Drama",Alexander Payne,155.5078
+1389,31-Mar-10,The Last Song,20.0,62.950384,92.678948,7.2,2199,2010,"Drama,Music,Romance",Julie Anne Robinson,72.678948
+1390,2-Apr-10,Why Did I Get Married Too?,20.0,60.095852,60.831067,5.9,49,2010,"Comedy,Drama,Romance",Tyler Perry,40.831067
+1391,18-Oct-13,12 Years a Slave,20.0,56.671993,181.025343,7.9,6631,2013,"Biography,Drama,History",Steve McQueen,161.025343
+1392,3-Jun-16,Me Before You,20.0,56.245075,208.265198,7.7,5939,2016,"Drama,Romance",Thea Sharrock,188.265198
+1393,15-Apr-16,Barbershop: The Next Cut,20.0,54.030051,54.404202,6.0,248,2016,"Comedy,Drama",Malcolm D. Lee,34.404202
+1394,14-Sep-18,A Simple Favor,20.0,53.548586,97.628717,6.6,1756,2018,"Comedy,Crime,Drama",Paul Feig,77.628717
+1395,9-Jan-15,Selma,20.0,52.076908,66.776576,7.5,1354,2014,"Biography,Drama,History",Ava DuVernay,46.776576000000006
+1396,6-Nov-15,Spotlight,20.0,45.055776,92.08846,7.8,4935,2015,"Crime,Drama",Tom McCarthy,72.08846
+1398,30-Mar-18,Acrimony,20.0,43.549096,46.627836,6.6,186,2018,"Drama,Romance,Thriller",Tyler Perry,26.627836000000002
+1399,26-Jun-15,Max,20.0,42.656255,43.658157,6.8,407,2010,"Biography,Comedy,Documentary",Luca Scivoletto,23.658157000000003
+1402,17-Nov-17,The Star,20.0,40.847995,62.75801,5.4,233,2017,"Adventure,Animation,Comedy",Timothy Reckart,42.75801
+1403,27-Jul-16,Nerve,20.0,38.583626,70.652284,10.0,1,2011,"Comedy,Drama",J.R. Sawyers,50.652283999999995
+1409,19-Feb-16,Risen,20.0,36.880033,46.255763,5.8,433,2010,"Biography,Drama",Neil Jones,26.255763
+1411,21-Dec-79,The Black Hole,20.0,35.841901,35.841901,2.9,14,2016,"Sci-Fi,Thriller",Mark Steven Grove,15.841901
+1412,1-Sep-10,The American,20.0,35.606376,67.950723,5.8,690,2010,"Crime,Drama,Thriller",Anton Corbijn,47.950722999999996
+1413,4-Jan-13,Texas Chainsaw 3D,20.0,34.341945,47.666013,5.3,780,2013,"Horror,Thriller",John Luessenhop,27.666013
+1414,12-Mar-10,She's Out of My League,20.0,32.01086,48.680977,6.1,970,2010,"Comedy,Romance",Jim Field Smith,28.680977
+1415,26-Nov-08,Milk,20.0,31.841299,57.293371,5.0,1,2015,"Documentary,Family",Noemi Weis,37.293371
+1418,31-Aug-11,The Debt,20.0,31.177548,46.604054,6.6,403,2010,"Drama,Thriller",John Madden,26.604053999999998
+1420,23-Aug-13,The World's End,20.0,26.004851,47.508505,6.7,2990,2013,"Action,Comedy,Sci-Fi",Edgar Wright,27.508505
+1421,24-Sep-10,You Again,20.0,25.702053,32.838945,6.2,734,2010,"Comedy,Family,Romance",Andy Fickman,12.838945000000002
+1422,25-Dec-18,On the Basis of Sex,20.0,24.622687,38.073377,7.4,225,2018,"Biography,Drama",Mimi Leder,18.073377
+1423,14-Feb-14,Endless Love,20.0,23.43825,34.718173,6.8,990,2014,"Drama,Romance",Shana Feste,14.718173
+1424,8-Sep-06,The Covenant,20.0,23.364784,38.164784,4.4,14,2017,Horror,Robert Conway,18.164783999999997
+1425,1-Jul-11,Monte Carlo,20.0,23.186769,39.686769,6.2,1193,2011,"Adventure,Comedy,Family",Thomas Bezucha,19.686768999999998
+1426,16-Jun-17,Rough Night,20.0,22.105643,46.844357,5.6,1096,2017,"Comedy,Crime,Thriller",Lucia Aniello,26.844357000000002
+1427,30-Oct-98,Vampires,20.0,20.268825,20.268825,6.0,1,2010,"Comedy,Fantasy,Horror",Vincent Lannoo,0.26882499999999965
+1429,20-Nov-15,Secret in Their Eyes,20.0,20.180155,32.608019,6.3,696,2015,"Crime,Drama,Mystery",Billy Ray,12.608018999999999
+1430,31-Jul-81,Under the Rainbow,20.0,18.82649,18.82649,5.5,42,2013,"Comedy,Drama,Romance",Agnès Jaoui,-1.1735100000000003
+1433,30-Sep-11,What's Your Number?,20.0,14.011084,30.163785,6.4,1271,2011,"Comedy,Romance",Mark Mylod,10.163785
+1434,30-Oct-15,Burnt,20.0,13.651946,36.77351,6.4,1841,2015,"Comedy,Drama",John Wells,16.77351
+1436,26-Feb-16,Triple 9,20.0,12.639297,25.943792,5.8,1258,2016,"Crime,Thriller",John Hillcoat,5.943791999999998
+1437,2-Sep-16,The Light Between Oceans,20.0,12.545979,22.281732,7.1,831,2016,"Drama,Romance",Derek Cianfrance,2.2817320000000016
+1438,1-Oct-10,Let Me In,20.0,12.134935,28.270399,6.7,1061,2010,"Drama,Fantasy,Horror",Matt Reeves,8.270399000000001
+1442,27-Oct-17,Thank You for Your Service,20.0,9.47939,9.985316,6.0,1,2015,"Documentary,Drama",Tom Donahue,-10.014684
+1446,4-Dec-09,Everybody's Fine,20.0,9.208876,9.208876,6.0,1,2016,Drama,Meng Zhang,-10.791124
+1447,20-Sep-13,Battle of the Year,20.0,8.888355,16.723377,6.1,130,2013,"Drama,Music",Benson Lee,-3.2766230000000007
+1448,12-Dec-14,Inherent Vice,20.0,8.110975,14.772346,6.6,1359,2014,"Comedy,Crime,Drama",Paul Thomas Anderson,-5.227653999999999
+1449,11-Oct-13,Machete Kills,20.0,8.008161,18.273009,5.5,1079,2013,"Action,Crime,Sci-Fi",Robert Rodriguez,-1.7269910000000017
+1450,24-Apr-15,Little Boy,20.0,6.485961,17.769299,7.0,292,2015,"Drama,History,War",Alejandro Monteverde,-2.230701
+1451,31-Dec-14,A Most Violent Year,20.0,5.749134,8.846875,6.6,792,2014,"Crime,Drama,Thriller",J.C. Chandor,-11.153125
+1452,23-Nov-11,A Dangerous Method,20.0,5.702083,14.807531,6.3,1066,2011,"Biography,Drama,Romance",David Cronenberg,-5.192468999999999
+1453,26-Aug-16,Hands of Stone,20.0,4.712792,5.031975,6.1,167,2016,"Action,Biography,Drama",Jonathan Jakubowicz,-14.968025
+1454,7-Sep-12,The Cold Light of Day,20.0,3.763583,25.361206,5.1,463,2012,"Action,Thriller",Mabrouk El Mechri,5.361205999999999
+1455,26-Oct-18,Suspiria,20.0,2.483472,7.034615,7.0,752,2018,"Fantasy,Horror,Mystery",Luca Guadagnino,-12.965385000000001
+1456,3-Nov-17,LBJ,20.0,2.468683,2.507181,6.6,65,2016,"Biography,Drama,History",Rob Reiner,-17.492819
+1457,29-Apr-11,Dylan Dog: Dead of Night,20.0,1.186538,6.093725,4.4,243,2010,"Action,Comedy,Crime",Kevin Munroe,-13.906275
+1458,3-Dec-10,All Good Things,20.0,0.582024,0.873617,6.0,493,2010,"Crime,Drama,Mystery",Andrew Jarecki,-19.126383
+1459,13-Nov-15,By the Sea,20.0,0.53846,3.727746,5.4,306,2015,"Drama,Romance",Angelina Jolie,-16.272254
+1461,10-Dec-10,The Tempest,20.0,0.277943,0.277943,5.8,52,2010,"Comedy,Drama,Fantasy",Julie Taymor,-19.722057
+1464,30-Oct-15,Regression,20.0,0.055039,15.824374,5.5,1065,2015,"Crime,Horror,Mystery",Alejandro Amenábar,-4.175625999999999
+1465,31-Dec-08,Admiral,20.0,0.0,38.585047,6.4,86,2015,"Action,Adventure,Biography",Roel Reiné,18.585047000000003
+1466,31-Dec-12,Zambezia,20.0,0.0,34.454336,5.6,131,2012,"Adventure,Animation,Comedy",Wayne Thornley,14.454335999999998
+1467,29-May-15,Survivor,20.0,0.0,1.703281,4.8,55,2012,"Biography,Crime,Documentary",Brook Susan Parker,-18.296719
+1475,1-Dec-17,The Shape of Water,19.5,63.859435,195.790794,7.2,7224,2017,"Adventure,Drama,Fantasy",Guillermo del Toro,176.290794
+1476,23-Aug-13,The Frozen Ground,19.2,0.0,5.61746,6.3,762,2013,"Crime,Drama,Mystery",Scott Walker,-13.582539999999998
+1477,29-Jul-11,The Devil's Double,19.1,1.361512,5.965646,6.7,291,2011,"Biography,Drama,Thriller",Lee Tamahori,-13.134354000000002
+1478,24-Jun-11,Bad Teacher,19.0,100.292856,215.448997,5.5,2894,2011,"Comedy,Romance",Jake Kasdan,196.448997
+1479,26-Feb-10,The Crazies,19.0,39.123589,56.445534,6.2,1036,2010,"Horror,Thriller",Breck Eisner,37.445534
+1480,8-Jan-10,Leap Year,19.0,25.91892,32.61892,6.7,990,2010,"Comedy,Romance",Anand Tucker,13.618920000000003
+1482,8-Nov-13,The Book Thief,19.0,21.488481,76.086711,7.5,2788,2013,"Drama,War",Brian Percival,57.086710999999994
+1483,4-Mar-11,Take Me Home Tonight,19.0,6.928068,7.576604,6.1,339,2011,"Comedy,Drama,Romance",Michael Dowse,-11.423396
+1484,28-Sep-12,Won't Back Down,19.0,5.310554,5.745503,6.3,64,2012,Drama,Daniel Barnz,-13.254497
+1486,1-Jun-18,Action Point,19.0,5.059608,5.103675,5.2,136,2018,Comedy,Tim Kirkby,-13.896325000000001
+1487,2-Feb-01,Left Behind,18.5,4.221341,4.221341,4.0,713,2014,"Action,Drama,Fantasy",Vic Armstrong,-14.278659000000001
+1488,3-Oct-14,Left Behind,16.0,14.019924,20.769209,4.0,713,2014,"Action,Drama,Fantasy",Vic Armstrong,4.769209
+1491,9-May-14,Neighbors,18.0,150.0868,270.944428,6.2,4536,2014,Comedy,Nicholas Stoller,252.94442800000002
+1494,3-Jun-88,Big,18.0,114.968774,151.668774,7.0,1813,2017,Documentary,Sean Sevestre,133.668774
+1495,25-Mar-16,My Big Fat Greek Wedding 2,18.0,59.689605,92.096558,5.8,593,2016,"Comedy,Romance",Kirk Jones,74.096558
+1496,11-Sep-15,The Perfect Guy,18.0,57.027435,60.278166,5.7,211,2015,"Crime,Drama,Horror",David M. Rosenthal,42.278166
+1497,25-Mar-11,Diary of a Wimpy Kid: Rodrick Rules,18.0,52.698535,73.695194,6.4,492,2011,"Comedy,Family",David Bowers,55.695194
+1498,8-Apr-11,Soul Surfer,18.0,43.853424,47.158652,7.0,688,2011,"Biography,Drama,Family",Sean McNamara,29.158651999999996
+1499,29-Jun-18,Uncle Drew,18.0,42.469946,46.527161,6.5,220,2018,"Comedy,Sport",Charles Stone III,28.527161
+1500,26-Jul-13,Blue Jasmine,18.0,33.404871,102.912961,7.0,1983,2013,Drama,Woody Allen,84.912961
+1501,5-Dec-03,Honey,18.0,30.272254,62.646763,7.1,39,2010,Drama,Semih Kaplanoglu,44.646763
+1504,7-Aug-15,Ricki and the Flash,18.0,26.839498,41.166033,5.8,473,2015,"Comedy,Drama,Music",Jonathan Demme,23.166033
+1505,13-Nov-15,Love the Coopers,18.0,26.302731,42.22749,5.8,384,2015,"Comedy,Fantasy,Romance",Jessie Nelson,24.227490000000003
+1506,28-Apr-17,The Circle,18.0,20.497844,40.651864,5.5,48,2015,"Drama,Fantasy,Horror",Levan Akin,22.651864000000003
+1516,5-Nov-10,127 Hours,18.0,18.33523,60.217171,7.0,4469,2010,"Adventure,Biography,Drama",Danny Boyle,42.217171
+1517,15-Jan-16,Norm of the North,18.0,17.062499,30.53566,4.2,192,2016,"Adventure,Animation,Comedy",Trevor Wall,12.53566
+1518,16-Aug-13,Jobs,18.0,16.13141,43.402515,6.1,1622,2013,"Biography,Drama",Joshua Michael Stern,25.402515
+1519,25-Jul-14,And So It Goes,18.0,15.160801,17.920013,5.9,264,2014,"Comedy,Drama,Romance",Rob Reiner,-0.07998699999999914
+1520,31-Jan-14,Labor Day,18.0,13.371528,14.18981,6.9,546,2013,"Drama,Romance",Jason Reitman,-3.8101900000000004
+1521,30-Aug-13,Getaway,18.0,10.501938,11.813989,5.1,380,2013,"Action,Crime,Thriller",Courtney Solomon,-6.186011000000001
+1523,26-Jun-81,Dragonslayer,18.0,6.0,6.0,4.5,2,2011,Documentary,Tristan Patterson,-12.0
+1524,11-Apr-14,The Railway Man,18.0,4.438438,23.91021,6.9,408,2013,"Biography,Drama,Romance",Jonathan Teplitzky,5.910209999999999
+1525,29-Dec-95,Restoration,18.0,4.1,4.1,4.7,21,2011,Drama,Yossi Madmoni,-13.9
+1528,18-Mar-16,Midnight Special,18.0,3.712282,7.68025,6.3,1105,2016,"Action,Drama,Mystery",Jeff Nichols,-10.319749999999999
+1529,25-Nov-16,Miss Sloane,18.0,3.500605,7.71963,7.4,912,2016,"Drama,Thriller",John Madden,-10.28037
+1530,23-Feb-96,Unforgettable,18.0,2.48379,2.48379,5.5,310,2010,Documentary,Eric Williams,-15.516210000000001
+1531,21-Apr-17,Unforgettable,12.0,11.368012,16.221211,5.5,310,2010,Documentary,Eric Williams,4.221211
+1538,1-Mar-13,Phantom,18.0,1.034589,1.19951,6.0,151,2013,"Drama,History,Thriller",Todd Robinson,-16.80049
+1541,15-Apr-16,I Am Wrath,18.0,0.0,0.309608,4.9,296,2016,"Action,Crime,Drama",Chuck Russell,-17.690392
+1542,14-Nov-14,Wolves,18.0,0.0,0.094953,5.8,151,2014,"Action,Fantasy,Horror",David Hayter,-17.905047
+1546,13-Jul-12,Red Lights,17.7,0.049521,14.518884,6.1,615,2012,"Drama,Fantasy,Horror",Rodrigo Cortés,-3.1811159999999994
+1547,27-Nov-13,Black Nativity,17.5,7.018188,7.285135,5.7,25,2013,"Drama,Family,Music",Kasi Lemmons,-10.214865
+1548,25-Apr-03,City of Ghosts,17.5,0.325491,0.325491,7.1,24,2017,"Documentary,War",Matthew Heineman,-17.174509
+1549,6-Apr-18,A Quiet Place,17.0,188.024361,334.522294,7.3,5848,2016,Documentary,Sjoerd Oostrik,317.522294
+1551,15-Nov-13,The Best Man Holiday,17.0,70.525195,72.83571,6.6,145,2013,"Comedy,Drama",Malcolm D. Lee,55.835710000000006
+1552,28-Sep-12,Pitch Perfect,17.0,65.001093,116.044347,7.3,4233,2012,"Comedy,Music,Romance",Jason Moore,99.044347
+1553,5-Apr-13,Evil Dead,17.0,54.239856,97.778356,6.4,2664,2013,"Fantasy,Horror,Thriller",Fede Alvarez,80.778356
+1554,20-Feb-15,"McFarland, USA",17.0,44.480275,45.707924,7.3,358,2015,"Biography,Drama,Sport",Niki Caro,28.707924
+1555,11-Nov-16,Almost Christmas,17.0,42.065185,42.493506,5.6,245,2016,"Comedy,Drama",David E. Talbert,25.493505999999996
+1556,4-Mar-11,Beastly,17.0,27.865571,38.02823,6.1,1748,2011,"Drama,Fantasy,Romance",Daniel Barnz,21.02823
+1557,20-Aug-10,Lottery Ticket,17.0,24.719879,24.719879,5.7,92,2010,Comedy,Erik White,7.719878999999999
+1558,24-Aug-12,The Apparition,17.0,4.936819,10.637281,4.3,221,2012,"Horror,Thriller",Todd Lincoln,-6.362719
+1562,10-Jun-16,Genius,17.0,1.361045,7.265283,6.5,391,2016,"Biography,Drama",Michael Grandage,-9.734717
+1565,26-Jun-15,Escobar: Paradise Lost,17.0,0.195792,3.917679,6.3,476,2014,"Crime,Drama,History",Andrea Di Stefano,-13.082321
+1566,11-Mar-16,The Young Messiah,16.8,6.469813,7.313697,6.1,50,2016,"Drama,Fantasy",Cyrus Nowrasteh,-9.486303
+1567,18-Aug-06,The Illusionist,16.5,39.868642,83.792062,7.4,280,2010,"Animation,Drama",Sylvain Chomet,67.292062
+1570,25-May-12,Moonrise Kingdom,16.0,45.512466,68.848446,7.7,3023,2012,"Adventure,Comedy,Drama",Wes Anderson,52.848445999999996
+1571,25-Nov-11,The Artist,16.0,44.667095,128.256712,7.4,1787,2011,"Comedy,Drama,Romance",Michel Hazanavicius,112.256712
+1573,4-Feb-11,The Roommate,16.0,37.300107,52.545707,5.4,406,2011,"Drama,Thriller",Christian E. Christiansen,36.545707
+1574,12-Mar-10,Remember Me,16.0,19.06824,56.50612,7.1,2079,2010,"Drama,Romance",Allen Coulter,40.50612
+1577,29-Jun-12,People Like Us,16.0,12.431792,12.617472,6.8,360,2012,"Comedy,Drama",Alex Kurtzman,-3.3825280000000006
+1578,18-Nov-16,Bleed for This,16.0,5.083906,6.603926,6.9,405,2016,"Biography,Drama,Sport",Ben Younger,-9.396073999999999
+1579,14-Nov-14,The Homesman,16.0,2.429989,8.217571,6.5,389,2014,"Drama,Western",Tommy Lee Jones,-7.7824290000000005
+1580,5-Apr-13,Trance,16.0,2.322593,22.594052,6.6,1348,2010,Horror,Hans Rodionoff,6.594052000000001
+1583,16-May-14,The Immigrant,16.0,2.013456,7.585011,6.2,438,2013,"Drama,Romance",James Gray,-8.414989
+1586,15-Aug-97,Steel,16.0,1.686429,1.686429,6.8,11,2012,Drama,Stefano Mordini,-14.313571
+1588,2-Nov-12,Vamps,16.0,0.003361,0.094812,5.0,145,2012,"Comedy,Horror,Romance",Amy Heckerling,-15.905188
+1590,21-Dec-18,Second Act,15.7,39.282227,63.288854,6.2,361,2018,"Comedy,Drama,Romance",Peter Segal,47.588854
+1591,11-Aug-17,Annabelle: Creation,15.0,102.092201,305.384865,6.5,3141,2017,"Horror,Mystery,Thriller",David F. Sandberg,290.384865
+1592,28-Nov-14,The Imitation Game,15.0,91.125143,227.740463,8.1,10396,2014,"Biography,Drama,Thriller",Morten Tyldum,212.740463
+1593,18-Jan-13,Mama,15.0,71.62818,148.095566,6.1,2421,2013,"Horror,Thriller",Andy Muschietti,133.095566
+1597,19-Mar-10,Diary of a Wimpy Kid,15.0,64.003625,76.954311,6.0,736,2010,"Comedy,Drama,Family",Thor Freudenthal,61.954311000000004
+1598,31-Aug-07,Halloween,15.0,58.269151,77.514401,6.4,2020,2018,"Horror,Thriller",David Gordon Green,62.51440100000001
+1599,19-Oct-18,Halloween,10.0,159.342015,254.900667,6.4,2020,2018,"Horror,Thriller",David Gordon Green,244.900667
+1600,17-Oct-78,Halloween,0.325,47.0,70.0,6.4,2020,2018,"Horror,Thriller",David Gordon Green,69.675
+1601,3-Feb-12,The Woman in Black,15.0,54.33329,128.955898,6.1,2122,2012,"Drama,Fantasy,Horror",James Watkins,113.95589799999999
+1602,21-Dec-94,Little Women,15.0,50.003303,50.003303,6.8,11,2019,"Drama,Romance",Greta Gerwig,35.003303
+1604,10-Aug-18,BlacKkKlansman,15.0,49.27534,93.017335,7.6,3138,2018,"Biography,Crime,Drama",Spike Lee,78.017335
+1605,22-Feb-13,Snitch,15.0,42.930462,57.907734,1.0,1,2013,"Action,Drama,Thriller",Ric Roman Waugh,42.907734
+1607,4-Dec-15,Krampus,15.0,42.725475,61.788393,6.0,1046,2015,"Comedy,Fantasy,Horror",Michael Dougherty,46.788393
+1608,21-Sep-12,End of Watch,15.0,41.003371,57.586606,7.3,1770,2012,"Action,Crime,Drama",David Ayer,42.586606
+1609,3-Dec-14,Wild,15.0,37.880356,52.460543,7.0,1454,2014,"Adventure,Biography,Drama",Jean-Marc Vallée,37.460543
+1615,7-Nov-14,The Theory of Everything,15.0,35.893537,123.327692,7.9,6412,2014,"Biography,Drama,Romance",James Marsh,108.327692
+1616,16-Sep-11,Drive,15.0,35.060689,81.35793,7.5,6737,2011,"Crime,Drama",Nicolas Winding Refn,66.35793
+1618,23-Nov-18,The Favourite,15.0,34.366783,94.113929,7.7,2096,2018,"Biography,Drama,History",Yorgos Lanthimos,79.113929
+1619,22-Aug-14,When the Game Stands Tall,15.0,30.127963,30.138912,6.6,185,2014,"Drama,Family,Sport",Thomas Carter,15.138912000000001
+1620,8-Sep-17,Home Again,15.0,27.020284,37.336874,5.9,659,2012,Drama,Sudz Sutherland,22.336874
+1622,23-Jul-10,Ramona and Beezus,15.0,26.167002,27.469621,6.3,460,2010,"Adventure,Comedy,Family",Elizabeth Allen Rosenbaum,12.469621
+1623,27-Aug-14,The November Man,15.0,25.018119,34.820335,6.1,852,2014,"Action,Crime,Thriller",Roger Donaldson,19.820335
+1624,29-Mar-13,The Place Beyond the Pines,15.0,21.403519,47.011449,6.9,2781,2012,"Crime,Drama,Thriller",Derek Cianfrance,32.011449
+1625,29-Apr-16,Keanu,15.0,20.591853,20.688141,6.0,644,2016,"Action,Comedy,Crime",Peter Atencio,5.688141000000002
+1626,22-Dec-10,Country Strong,15.0,20.218921,20.601987,6.3,126,2010,"Drama,Music",Shana Feste,5.601987000000001
+1627,25-Jul-14,A Most Wanted Man,15.0,17.237855,36.06889,6.5,784,2014,"Crime,Drama,Thriller",Anton Corbijn,21.068890000000003
+1628,2-Nov-12,The Man with the Iron Fists,15.0,15.63409,22.018988,5.3,573,2012,Action,RZA,7.018988
+1629,1-Feb-19,Miss Bala,15.0,14.998027,15.362298,6.3,50,2011,"Crime,Drama,Thriller",Gerardo Naranjo,0.3622979999999991
+1631,30-Nov-12,Killing Them Softly,15.0,14.945541,39.238443,6.0,1105,2012,"Crime,Thriller",Andrew Dominik,24.238442999999997
+1632,19-Aug-11,One Day,15.0,13.843771,59.168692,7.2,2105,2011,"Drama,Romance",Lone Scherfig,44.168692
+1637,20-Jan-17,The Founder,15.0,12.786053,24.403192,7.0,2093,2012,"Comedy,Sci-Fi",Eric Dean Hordes,9.403192
+1639,23-Sep-16,Queen of Katwe,15.0,8.874389,10.055481,7.1,225,2016,"Biography,Drama,Sport",Mira Nair,-4.944519
+1640,21-May-99,The Love Letter,15.0,8.322608,9.01098,5.0,2,2011,"Adventure,Documentary",Mikey Schaefer,-5.98902
+1641,4-Jan-13,Promised Land,15.0,7.597898,12.394562,6.2,378,2012,Drama,Gus Van Sant,-2.6054379999999995
+1645,8-Jun-18,Hotel Artemis,15.0,6.708137,12.758799,5.9,471,2018,"Action,Drama,Sci-Fi",Drew Pearce,-2.241201
+1646,30-Oct-15,Scouts Guide to the Zombie Apocalypse,15.0,3.703046,15.554855,6.2,915,2015,"Action,Comedy,Horror",Christopher Landon,0.5548549999999999
+1647,22-Sep-10,You Will Meet a Tall Dark Stranger,15.0,3.247816,34.247816,5.8,431,2010,"Comedy,Drama,Romance",Woody Allen,19.247816
+1648,23-Oct-15,Rock the Kasbah,15.0,3.020665,3.386153,5.5,154,2015,"Comedy,Music,War",Barry Levinson,-11.613847
+1649,15-Sep-10,Never Let Me Go,15.0,2.434652,11.173718,6.8,1294,2010,"Drama,Romance,Sci-Fi",Mark Romanek,-3.826282000000001
+1651,9-Sep-16,The Disappointments Room,15.0,2.423467,3.503761,4.4,272,2016,"Drama,Horror,Thriller",D.J. Caruso,-11.496239
+1652,3-Feb-17,The Comedian,15.0,1.658706,1.658706,5.6,68,2012,"Drama,Romance",Tom Shkolnik,-13.341294
+1654,26-Apr-13,The Reluctant Fundamentalist,15.0,0.528731,0.528731,6.7,120,2012,"Drama,Thriller",Mira Nair,-14.471269
+1655,6-Feb-04,The Return,15.0,0.501752,5.953886,7.0,2,2012,Drama,Hernan Jimenez,-9.046114
+1660,27-Aug-10,Centurion,15.0,0.12357,7.885048,6.1,673,2010,"Action,Adventure,Drama",Neil Marshall,-7.114952
+1661,6-Sep-13,Winnie Mandela,15.0,0.061847,0.061847,5.7,6,2011,"Biography,Drama,History",Darrell Roodt,-14.938153
+1662,4-Nov-11,The Son of No One,15.0,0.03068,1.148578,5.1,156,2011,"Action,Crime,Drama",Dito Montiel,-13.851422
+1663,6-Dec-13,Khumba,15.0,0.0,20.898221,5.6,129,2013,"Adventure,Animation,Family",Anthony Silverston,5.8982209999999995
+1664,5-May-15,A Few Best Men,15.0,0.0,17.224539,5.8,247,2011,"Comedy,Romance",Stephan Elliott,2.224539
+1665,17-Feb-17,In Dubious Battle,15.0,0.0,0.214182,5.9,67,2016,Drama,James Franco,-14.785818
+1666,1-Sep-15,Broken Horses,15.0,0.0,0.003471,5.4,17,2015,"Action,Crime,Drama",Vidhu Vinod Chopra,-14.996529
+1667,1-Jul-15,Magic Mike XXL,14.5,66.013057,123.660597,6.2,1110,2015,"Comedy,Drama,Music",Gregory Jacobs,109.160597
+1668,31-Aug-12,The Possession,14.0,49.130588,82.925064,5.9,918,2012,"Horror,Mystery,Thriller",Ole Bornedal,68.925064
+1669,18-Jan-91,White Fang,14.0,34.729091,34.729091,7.2,69,2018,"Adventure,Animation",Alexandre Espigares,20.729090999999997
+1670,8-Oct-99,Superstar,14.0,30.628981,30.628981,5.3,49,2012,Drama,Xavier Giannoli,16.628981
+1676,13-Jan-12,The Iron Lady,14.0,29.959436,115.592104,6.4,899,2011,"Biography,Drama",Phyllida Lloyd,101.592104
+1677,12-Mar-10,Our Family Wedding,14.0,20.255281,21.410546,5.5,57,2010,"Comedy,Romance",Rick Famuyiwa,7.410546
+1678,20-Feb-15,Hot Tub Time Machine 2,14.0,12.314651,12.826644,5.1,512,2015,"Comedy,Mystery,Sci-Fi",Steve Pink,-1.173356
+1679,17-Nov-06,Bobby,14.0,11.242801,20.597806,6.6,10,2016,"Biography,Documentary,Sport",Ron Scalpello,6.5978059999999985
+1680,26-Oct-12,Fun Size,14.0,9.409538,11.166615,5.5,249,2012,"Adventure,Comedy",Josh Schwartz,-2.833385
+1681,23-Oct-15,Suffragette,14.0,4.70242,34.044909,7.3,982,2015,"Biography,Drama,History",Sarah Gavron,20.044908999999997
+1682,19-Dec-14,Mr. Turner,14.0,3.958546,25.187026,6.5,301,2014,"Biography,Drama,History",Mike Leigh,11.187026
+1683,6-Aug-10,Flipped,14.0,1.755212,4.289993,7.4,859,2010,"Comedy,Drama,Romance",Rob Reiner,-9.710007000000001
+1687,30-Sep-11,Margaret,14.0,0.047185,0.623292,6.3,138,2011,Drama,Kenneth Lonergan,-13.376708
+1688,31-Dec-08,Ca$h,13.7,0.0,11.738256,5.8,112,2010,"Crime,Thriller",Stephen Milburn Anderson,-1.9617439999999995
+1689,26-Mar-10,Ca$h,7.0,0.046488,0.046488,5.8,112,2010,"Crime,Thriller",Stephen Milburn Anderson,-6.953512
+1690,12-Oct-12,Seven Psychopaths,13.5,15.024049,33.035736,6.8,2109,2012,"Comedy,Crime",Martin McDonagh,19.535736
+1691,1-Apr-11,The Last Godfather,13.4,0.164247,0.164247,4.9,9,2010,"Comedy,Crime,Romance",Hyung-rae Shim,-13.235753
+1692,4-Apr-14,Under the Skin,13.3,2.614251,7.229933,6.1,1781,2013,"Drama,Horror,Sci-Fi",Jonathan Glazer,-6.070067000000001
+1693,12-Sep-14,No Good Deed,13.2,52.543632,54.32321,5.8,286,2014,"Action,Crime,Drama",Sam Miller,41.12321
+1694,3-Dec-10,Black Swan,13.0,106.954678,331.26671,7.6,8374,2010,"Drama,Thriller",Darren Aronofsky,318.26671
+1695,11-Feb-11,Justin Bieber: Never Say Never,13.0,73.01391,99.034125,5.1,240,2011,"Documentary,Music",Jon M. Chu,86.034125
+1696,4-Jul-18,The First Purge,13.0,69.488745,136.617305,5.8,1846,2018,"Action,Horror,Sci-Fi",Gerard McMurray,123.61730499999999
+1697,16-Mar-16,Miracles from Heaven,13.0,61.705123,73.798736,7.1,478,2016,"Biography,Drama,Family",Patricia Riggen,60.798736000000005
+1698,24-Jun-16,The Shallows,13.0,55.121623,118.763442,6.3,3037,2016,"Drama,Horror,Thriller",Jaume Collet-Serra,105.763442
+1699,14-Feb-14,About Last Night,13.0,48.637684,50.44586,6.0,312,2014,"Comedy,Romance",Steve Pink,37.44586
+1700,10-Oct-14,St. Vincent,13.0,44.137712,54.837234,7.1,1069,2014,"Comedy,Drama",Theodore Melfi,41.837234
+1701,2-Jul-14,Earth to Echo,13.0,38.934842,42.174545,5.7,377,2014,"Adventure,Family,Sci-Fi",Dave Green,29.174545000000002
+1702,10-Apr-15,Ex Machina,13.0,25.440971,38.358392,7.6,8026,2014,"Drama,Mystery,Sci-Fi",Alex Garland,25.358392000000002
+1703,11-Mar-16,Eye in the Sky,13.0,18.704596,35.402802,7.1,850,2015,"Drama,Thriller,War",Gavin Hood,22.402802
+1704,22-Mar-13,Admission,13.0,18.007317,18.733666,5.5,385,2013,"Comedy,Drama,Romance",Paul Weitz,5.7336659999999995
+1705,21-Sep-12,The Perks of Being a Wallflower,13.0,17.742948,33.069303,7.8,5938,2012,Drama,Stephen Chbosky,20.069302999999998
+1706,16-Oct-15,Room,13.0,14.677674,36.262783,8.1,5494,2015,"Drama,Thriller",Lenny Abrahamson,23.262783
+1707,17-Jul-15,Bajrangi Bhaijaan,13.0,8.178001,121.778347,7.9,232,2015,"Action,Comedy,Drama",Kabir Khan,108.778347
+1708,26-Mar-10,Chloe,13.0,3.075255,11.831131,5.9,940,2013,"Drama,Music,Romance",Princeton Holt,-1.1688690000000008
+1710,4-Dec-15,Youth,13.0,2.703296,24.001573,5.3,9,2012,"Drama,Family",Justine Malle,11.001573
+1725,24-Jul-15,The Vatican Tapes,13.0,1.784763,14.929184,4.6,365,2015,"Horror,Thriller",Mark Neveldine,1.9291839999999993
+1726,29-Jul-11,Attack the Block,13.0,1.024175,6.459183,6.4,1144,2011,"Action,Comedy,Sci-Fi",Joe Cornish,-6.540817
+1727,18-Jun-10,The Killer Inside Me,13.0,0.217277,3.617277,5.9,304,2010,"Crime,Drama,Horror",Michael Winterbottom,-9.382723
+1728,15-Mar-13,The Call,12.8,51.872378,69.821476,6.7,1779,2013,"Crime,Drama,Horror",Brad Anderson,57.02147600000001
+1730,12-Sep-14,The Drop,12.6,10.724389,19.054534,6.7,1215,2014,"Crime,Drama",Michaël R. Roskam,6.454534000000001
+1732,15-Oct-10,Conviction,12.5,6.797696,11.82698,7.2,297,2010,"Biography,Crime,Drama",Tony Goldwyn,-0.6730199999999993
+1735,17-Dec-10,Casino Jack,12.5,2.039869,2.272186,6.1,149,2010,"Biography,Comedy,Crime",George Hickenlooper,-10.227814
+1736,5-Oct-12,The Paperboy,12.5,0.6772,4.027663,5.5,409,2012,"Crime,Drama,Mystery",Lee Daniels,-8.472337
+1737,4-May-12,A Little Bit of Heaven,12.5,0.010011,1.100287,6.3,333,2011,"Comedy,Drama,Fantasy",Nicole Kassell,-11.399713
+1738,6-Jun-14,The Fault in Our Stars,12.0,124.87235,307.166834,7.6,7236,2014,"Drama,Romance",Josh Boone,295.166834
+1739,20-Apr-12,Think Like a Man,12.0,91.547205,113.373764,6.9,438,2012,"Comedy,Romance",Tim Story,101.373764
+1740,3-Feb-12,Chronicle,12.0,64.575175,123.68179,6.7,3084,2012,"Drama,Sci-Fi,Thriller",Josh Trank,111.68179
+1741,2-Mar-12,Project X,12.0,54.731865,103.028188,6.4,2968,2012,Comedy,Nima Nourizadeh,91.028188
+1745,10-Nov-17,"Three Billboards Outside Ebbing, Missouri",12.0,54.51374,160.191915,8.2,5432,2017,"Crime,Drama",Martin McDonagh,148.191915
+1746,25-Nov-16,Lion,12.0,51.739495,149.57072,8.1,3833,2015,"Comedy,Drama,Romance",Troy Murray,137.57072
+1748,4-May-18,Overboard,12.0,50.316123,85.36983,6.3,535,2018,"Comedy,Romance",Rob Greenberg,73.36983
+1749,22-Nov-13,Philomena,12.0,37.709979,98.963392,7.4,945,2013,"Biography,Comedy,Drama",Stephen Frears,86.963392
+1750,15-Feb-02,Crossroads,12.0,37.188667,57.0,4.0,1,2011,Drama,Masatoshi Kurakata,45.0
+1756,24-Jul-15,Paper Towns,12.0,32.000304,85.450484,6.0,3587,2015,"Comedy,Drama,Mystery",Jake Schreier,73.450484
+1757,12-Aug-16,Hell or High Water,12.0,27.007844,37.584304,7.3,2468,2016,"Action,Crime,Drama",David Mackenzie,25.584304000000003
+1758,12-Dec-14,Top Five,12.0,25.317379,26.001741,6.3,281,2014,"Comedy,Romance",Chris Rock,14.001740999999999
+1759,30-Jan-15,Project Almanac,12.0,22.348241,32.909437,6.5,1449,2015,"Drama,Mystery,Sci-Fi",Dean Israelite,20.909436999999997
+1760,14-May-10,Just Wright,12.0,21.540363,21.867665,6.2,211,2010,"Comedy,Romance,Sport",Sanaa Hamri,9.867664999999999
+1761,15-Nov-13,Nebraska,12.0,17.654912,24.76136,7.4,967,2013,"Adventure,Comedy,Drama",Alexander Payne,12.76136
+1762,9-Dec-11,Young Adult,12.0,16.311571,22.750356,5.7,603,2011,"Comedy,Drama",Jason Reitman,10.750356
+1763,1-Nov-13,About Time,12.0,15.323921,89.309178,7.9,3981,2013,"Comedy,Drama,Fantasy",Richard Curtis,77.309178
+1764,14-Dec-18,If Beale Street Could Talk,12.0,14.915773,19.859167,7.2,388,2018,"Drama,Romance",Barry Jenkins,7.859166999999999
+1765,14-Jul-17,Wish Upon,12.0,14.301505,23.477345,5.4,690,2017,"Drama,Fantasy,Horror",John R. Leonetti,11.477345
+1766,13-Oct-17,Marshall,12.0,10.051659,10.116816,7.3,257,2017,"Biography,Crime,Drama",Reginald Hudlin,-1.883184
+1767,14-Sep-12,Arbitrage,12.0,7.919574,35.830713,6.2,459,2012,"Drama,Thriller",Nicholas Jarecki,23.830713000000003
+1768,12-May-00,Screwed,12.0,6.98268,6.98268,5.0,6,2011,"Crime,Drama",Reg Traviss,-5.01732
+1772,1-Jun-12,For Greater Glory: The True Story of Cristiada,12.0,5.669081,10.026255,6.6,63,2012,"Drama,History,War",Dean Wright,-1.9737449999999992
+1773,19-Mar-99,Ravenous,12.0,2.062406,2.062406,5.4,123,2017,"Drama,Horror,Sci-Fi",Robin Aubert,-9.937594
+1774,1-Mar-13,Stoker,12.0,1.703125,12.034913,6.6,1282,2013,"Drama,Thriller",Chan-wook Park,0.03491299999999953
+1775,11-Mar-11,Kill the Irishman,12.0,1.188194,1.188194,6.9,274,2011,"Biography,Crime,Drama",Jonathan Hensleigh,-10.811806
+1777,20-Apr-12,Darling Companion,12.0,0.793352,1.200346,5.0,46,2012,"Comedy,Drama,Romance",Lawrence Kasdan,-10.799654
+1778,20-Jul-01,Brother,12.0,0.450594,0.450594,6.7,15,2010,"Drama,Family,Sport",Marcel Rasquin,-11.549406
+1784,9-Oct-15,Trash,12.0,0.017484,6.553186,3.0,3,2019,Thriller,Bettie Wilde,-5.446814
+1790,19-Aug-11,5 Days of War,12.0,0.017479,0.087793,5.7,102,2011,"Action,Drama,War",Renny Harlin,-11.912207
+1791,11-Nov-15,10 Days in a Madhouse,12.0,0.014616,0.014616,5.4,7,2015,Drama,Timothy Hines,-11.985384
+1792,10-Feb-10,Triangle,12.0,0.0,1.594955,6.8,1094,2012,Drama,Theodros Teshome,-10.405045
+1794,20-Nov-15,Carol,11.8,12.711491,42.843521,7.4,1949,2015,"Drama,Romance",Todd Haynes,31.043521000000002
+1795,22-Jan-16,Dirty Grandpa,11.5,35.593113,105.078449,5.8,2667,2016,Comedy,Dan Mazer,93.578449
+1796,10-Dec-10,The Fighter,11.0,93.617009,129.262388,7.3,2325,2010,"Biography,Drama,Sport",David O. Russell,118.26238799999999
+1797,22-Aug-14,If I Stay,11.0,50.474843,78.35617,7.4,2703,2014,"Drama,Fantasy,Music",R.J. Cutler,67.35617
+1798,4-Nov-15,Brooklyn,11.0,38.322743,62.076141,7.3,1912,2015,"Drama,Romance",John Crowley,51.076141
+1802,1-Apr-15,Woman in Gold,11.0,33.307793,58.586407,7.4,787,2015,"Biography,Drama,History",Simon Curtis,47.586407
+1803,8-Dec-17,"I, Tonya",11.0,30.014534,53.797409,7.5,2904,2017,"Biography,Comedy,Drama",Craig Gillespie,42.797409
+1804,11-Jan-13,Quartet,11.0,18.388357,56.178935,6.6,209,2012,"Comedy,Drama",Dustin Hoffman,45.178935
+1805,10-May-13,Peeples,11.0,9.177065,9.307166,5.2,34,2013,"Comedy,Romance",Tina Gordon,-1.6928339999999995
+1806,26-Sep-03,The Gospel of John,11.0,4.068087,4.234355,5.4,5,2014,Drama,David Batty,-6.765645
+1807,26-Aug-11,Brighton Rock,11.0,0.229653,0.229653,6.0,57,2010,"Crime,Drama,Thriller",Rowan Joffe,-10.770347
+1808,4-May-12,LOL,11.0,0.0,10.431506,6.1,1810,2012,"Comedy,Drama,Romance",Lisa Azuelos,-0.5684939999999994
+1809,5-Feb-16,Misconduct,11.0,0.0,2.352511,5.5,301,2016,"Crime,Drama,Mystery",Shintaro Shimosawa,-8.647489
+1810,6-Dec-13,The Last Days on Mars,10.6,0.024084,0.261364,5.3,407,2013,"Adventure,Horror,Sci-Fi",Ruairi Robinson,-10.338636
+1811,18-Feb-83,Lovesick,10.1,10.143618,10.143618,5.0,44,2019,"Comedy,Drama",Johann Buchholz,0.04361800000000038
+1815,1-Jul-16,The Purge: Election Year,10.0,79.04244,118.514727,6.3,2900,2016,"Action,Horror,Sci-Fi",James DeMonaco,108.514727
+1816,18-May-18,Book Club,10.0,68.566296,91.113683,10.0,1,2015,Documentary,Hope Hartman,81.113683
+1820,5-Jan-18,Insidious: The Last Key,10.0,67.74533,167.885588,6.1,1306,2018,"Horror,Mystery,Thriller",Adam Robitel,157.885588
+1821,3-Nov-17,Lady Bird,10.0,48.958273,78.610769,7.3,3866,2017,"Comedy,Drama",Greta Gerwig,68.610769
+1822,4-May-12,The Best Exotic Marigold Hotel,10.0,46.383639,134.63978,6.9,756,2011,"Comedy,Drama,Romance",John Madden,124.63978
+1823,8-Jun-18,Hereditary,10.0,44.069456,70.133905,7.0,2491,2018,"Drama,Horror,Mystery",Ari Aster,60.133905
+1824,16-Mar-18,"Love, Simon",10.0,40.826341,65.520633,8.2,3165,2018,"Comedy,Drama,Romance",Greg Berlanti,55.520633000000004
+1825,22-Jan-16,The Boy,10.0,35.819556,68.220952,5.6,79,2015,"Drama,Horror,Thriller",Craig William Macneill,58.220952
+1829,19-May-17,"Everything, Everything",10.0,34.12114,61.603136,7.2,2447,2017,"Drama,Romance",Stella Meghie,51.603136
+1830,17-Sep-10,Devil,10.0,33.679655,63.354114,5.9,1516,2010,"Horror,Mystery,Thriller",John Erick Dowdle,53.354114
+1832,6-Mar-15,The Second Best Exotic Marigold Hotel,10.0,33.078266,90.384306,6.4,420,2015,"Comedy,Drama",John Madden,80.384306
+1833,28-Apr-17,How to Be a Latin Lover,10.0,32.149404,62.556228,6.3,197,2017,"Comedy,Drama",Ken Marino,52.556228
+1834,10-Aug-18,Slender Man,10.0,30.564825,51.723644,4.0,712,2018,"Horror,Mystery,Thriller",Sylvain White,41.723644
+1835,9-Sep-16,When the Bough Breaks,10.0,29.747603,30.768449,5.3,150,2016,"Crime,Drama,Horror",Jon Cassar,20.768449
+1836,21-Aug-15,Sinister 2,10.0,27.740955,54.104225,5.8,1142,2015,"Horror,Mystery,Thriller",Ciarán Foy,44.104225
+1837,8-Jan-16,The Forest,10.0,26.594261,40.74923,2.5,1,2011,"Horror,Thriller",Shan Serafin,30.749229999999997
+1846,17-Aug-12,Sparkle,10.0,24.397469,24.660323,7.0,7,2012,"Drama,Music",Salim Akil,14.660323000000002
+1848,26-Apr-13,Mud,10.0,21.590086,31.556959,7.0,1592,2012,Drama,Jeff Nichols,21.556959
+1849,1-Dec-17,The Disaster Artist,10.0,21.120616,28.717667,7.2,1895,2017,"Biography,Comedy,Drama",James Franco,18.717667
+1850,16-Sep-16,Blair Witch,10.0,20.777061,38.985577,5.0,1094,2016,"Horror,Mystery,Thriller",Adam Wingard,28.985577
+1851,23-Oct-15,Paranormal Activity: The Ghost Dimension,10.0,18.297124,77.959374,5.2,774,2015,"Horror,Mystery,Thriller",Gregory Plotkin,67.959374
+1852,17-Jun-05,The Perfect Man,10.0,16.535005,19.535005,8.0,2,2011,"Drama,Romance",Paul D. Hannah,9.535005000000002
+1853,7-Oct-16,The Birth of a Nation,10.0,15.861566,16.891011,6.5,328,2016,"Biography,Drama,History",Nate Parker,6.891010999999999
+1854,8-Feb-15,The Birth of a Nation,0.11,10.0,11.0,6.5,328,2016,"Biography,Drama,History",Nate Parker,10.89
+1855,23-Nov-11,My Week with Marilyn,10.0,14.597405,34.240572,6.7,741,2011,"Biography,Drama",Simon Curtis,24.240572
+1856,25-Dec-14,Big Eyes,10.0,14.482031,27.317872,7.0,2153,2014,"Biography,Crime,Drama",Tim Burton,17.317872
+1857,19-Dec-00,The Gift,10.0,12.008642,44.567606,6.6,7,2010,Drama,J. Jesses Smith,34.567606
+1862,7-Aug-15,The Gift,5.0,43.787265,58.978477,6.6,7,2010,Drama,J. Jesses Smith,53.978477
+1927,19-Oct-18,Can You Ever Forgive Me?,10.0,8.803865,11.752387,6.9,450,2018,"Biography,Comedy,Crime",Marielle Heller,1.7523870000000006
+1928,21-May-10,MacGruber,10.0,8.5256,8.629895,5.3,270,2010,"Action,Comedy,Romance",Jorma Taccone,-1.3701050000000006
+1929,14-Mar-14,Bad Words,10.0,7.779614,7.843145,6.4,451,2013,"Comedy,Drama",Jason Bateman,-2.156855
+1930,27-Mar-15,While We're Young,10.0,7.582065,17.503828,5.9,609,2014,"Comedy,Drama,Mystery",Noah Baumbach,7.503827999999999
+1931,24-Oct-01,Bones,10.0,7.316658,8.378853,8.0,4,2010,Drama,Frank Pestarino,-1.6211470000000006
+1933,22-Jun-12,Seeking a Friend for the End of the World,10.0,7.078738,11.766959,6.4,1108,2012,"Adventure,Comedy,Drama",Lorene Scafaria,1.766959
+1934,11-Nov-16,Shut In,10.0,6.900335,11.360665,5.2,374,2016,"Drama,Mystery,Thriller",Farren Blackburn,1.3606649999999991
+1935,11-Feb-11,Cedar Rapids,10.0,6.861102,7.862131,6.0,206,2011,Comedy,Miguel Arteta,-2.1378690000000002
+1936,30-Nov-12,The Collection,10.0,6.810754,8.890094,6.1,465,2012,"Action,Horror,Thriller",Marcus Dunstan,-1.1099060000000005
+1938,20-Mar-15,Danny Collins,10.0,5.637066,8.465845,6.7,260,2015,"Biography,Comedy,Drama",Dan Fogelman,-1.5341550000000002
+1939,15-Jun-18,Gotti,10.0,4.286367,6.0891,5.2,231,2018,"Biography,Crime,Drama",Kevin Connolly,-3.9109
+1940,30-Sep-16,Denial,10.0,4.073448,9.26394,6.7,349,2016,"Biography,Drama",Mick Jackson,-0.7360600000000002
+1941,29-Apr-16,The Man Who Knew Infinity,10.0,3.877922,12.382122,7.2,699,2015,"Biography,Drama",Matt Brown,2.3821220000000007
+1942,14-Oct-16,Max Steel,10.0,3.818664,4.56308,5.2,383,2016,"Action,Adventure,Family",Stewart Hendler,-5.43692
+1943,4-Feb-94,Romeo Is Bleeding,10.0,3.275585,3.275585,7.5,4,2015,"Biography,Documentary,Drama",Jason Zeldes,-6.7244150000000005
+1944,14-Nov-14,Rosewater,10.0,3.128941,3.185717,6.7,121,2014,"Biography,Drama",Jon Stewart,-6.814283
+1945,9-Sep-11,Bucky Larson: Born to Be a Star,10.0,2.529395,2.529395,4.2,79,2011,Comedy,Tom Brady,-7.470605
+1946,3-May-13,The Iceman,10.0,1.930282,3.623609,6.5,562,2012,"Biography,Crime,Drama",Ariel Vromen,-6.376391
+1947,5-Jun-15,Testament of Youth,10.0,1.82225,6.646669,7.4,486,2014,"Biography,Drama,History",James Kent,-3.353331
+1948,21-Apr-17,Free Fire,10.0,1.799322,3.793739,6.3,540,2016,"Action,Comedy,Crime",Ben Wheatley,-6.206261
+1949,24-Jun-11,A Better Life,10.0,1.759252,1.884251,7.1,97,2011,"Drama,Romance",Chris Weitz,-8.115749000000001
+1951,4-Feb-00,Gun Shy,10.0,1.638202,1.638202,4.8,68,2017,"Action,Adventure,Comedy",Simon West,-8.361798
+1952,16-Apr-10,The Joneses,10.0,1.475746,3.541565,6.2,312,2011,"Comedy,Drama",Chris Tyrrell,-6.458435
+1956,27-Jul-12,Killer Joe,10.0,1.291645,4.65911,6.5,703,2011,"Crime,Drama,Thriller",William Friedkin,-5.34089
+1957,2-Jun-17,Churchill,10.0,1.279681,7.582196,6.1,150,2017,"Biography,Drama,History",Jonathan Teplitzky,-2.4178040000000003
+1959,21-Mar-14,50 to 1,10.0,1.069454,1.069454,6.2,25,2014,Drama,Jim Wilson,-8.930546
+1960,20-Jan-12,Coriolanus,10.0,0.749641,2.179623,6.0,215,2011,"Drama,Thriller,War",Ralph Fiennes,-7.820377000000001
+1963,4-Oct-13,Parkland,10.0,0.641439,1.616353,6.1,206,2013,"Drama,History,Mystery",Peter Landesman,-8.383647
+1964,29-Oct-10,Welcome to the Rileys,10.0,0.152857,0.355919,6.5,241,2010,Drama,Jake Scott,-9.644081
+1965,9-Sep-16,Kicks,10.0,0.150191,0.150191,6.6,50,2016,"Adventure,Drama",Justin Tipping,-9.849809
+1966,1-Jun-12,High School,10.0,0.139034,0.248133,5.8,68,2010,Comedy,John Stalberg Jr.,-9.751867
+1967,19-Feb-10,Blood Done Sign My Name,10.0,0.109383,0.109383,6.0,5,2010,Drama,Jeb Stuart,-9.890617
+1968,7-Nov-14,Elsa & Fred,10.0,0.067657,0.197901,6.2,48,2014,"Comedy,Drama,Romance",Michael Radford,-9.802099
+1969,10-Jul-15,Strangerland,10.0,0.017472,0.161097,5.2,135,2015,"Drama,Mystery,Thriller",Kim Farrant,-9.838903
+1970,26-Dec-14,Barbecue,10.0,0.000388,0.247565,5.8,383,2014,Comedy,Eric Lavaine,-9.752435
+1974,31-Dec-10,The Reef,10.0,0.0,15.037867,5.6,264,2010,"Adventure,Drama,Horror",Andrew Traucki,5.037867
+1975,21-Jul-15,American Heist,10.0,0.0,2.341218,4.6,213,2014,"Action,Crime,Drama",Sarik Andreasyan,-7.658782
+1976,8-Oct-10,It's a Wonderful Afterlife,10.0,0.0,1.642939,4.6,12,2010,"Comedy,Drama,Fantasy",Gurinder Chadha,-8.357061
+1977,26-Sep-14,Plastic,10.0,0.0,0.575371,6.5,1,2011,Horror,Jose Carlos Gomez,-9.424629
+1983,22-Sep-17,Friend Request,9.9,3.759078,11.310835,5.5,43,2016,"Horror,Thriller",Simon Verhoeven,1.4108350000000005
+1987,19-Dec-12,Amour,9.7,6.738954,36.787044,7.7,746,2012,"Drama,Romance",Michael Haneke,27.087044000000002
+1988,21-Dec-16,Dangal,9.5,12.391761,294.654618,8.1,358,2016,"Action,Biography,Drama",Nitesh Tiwari,285.154618
+1990,19-Mar-10,The Runaways,9.5,3.573673,5.278632,6.4,448,2010,"Biography,Drama,Music",Floria Sigismondi,-4.221368
+1992,11-Nov-11,Melancholia,9.4,3.030848,21.817298,7.1,1642,2011,"Drama,Sci-Fi",Lars von Trier,12.417298
+1995,13-Nov-12,Jab Tak Hai Jaan,9.2,3.047539,5.806666,6.9,107,2012,"Drama,Romance",Yash Chopra,-3.3933339999999994
+1996,18-Jul-14,The Purge: Anarchy,9.0,71.56255,111.534881,6.6,3754,2014,"Action,Horror,Sci-Fi",James DeMonaco,102.534881
+1997,21-Oct-16,Ouija: Origin of Evil,9.0,35.144505,81.831866,6.0,1416,2016,"Drama,Horror,Mystery",Mike Flanagan,72.831866
+1998,30-Jan-15,Black or White,9.0,21.571189,21.971021,6.8,193,2014,Drama,Mike Binder,12.971021
+2000,18-Nov-16,The Edge of Seventeen,9.0,14.431633,19.096003,7.2,2224,2016,"Comedy,Drama",Kelly Fremon Craig,10.096003
+2001,2-Dec-16,Jackie,9.0,13.960394,36.588512,6.4,1420,2016,"Biography,Drama,History",Pablo Larraín,27.588512
+2005,4-Nov-16,Loving,9.0,7.710234,12.898064,6.7,529,2012,"Drama,Romance",Slawomir Fabicki,3.8980639999999998
+2008,29-Sep-00,Beautiful,9.0,3.134509,3.134509,8.0,1,2011,"Biography,Drama,Family",V.K. Prakash,-5.8654910000000005
+2010,22-Mar-13,The Sapphires,9.0,2.450867,20.39504,6.7,97,2012,"Biography,Comedy,Drama",Wayne Blair,11.395040000000002
+2011,26-Aug-16,Greater,9.0,2.000093,2.000093,7.3,37,2016,"Biography,Family,Sport",David L. Hunt,-6.999907
+2012,25-Dec-18,Destroyer,9.0,1.533324,3.681096,5.9,176,2018,"Action,Crime,Drama",Karyn Kusama,-5.318904
+2013,8-May-15,Skin Trade,9.0,0.001242,0.001242,5.6,96,2010,Documentary,Shannon Keith,-8.998758
+2015,17-Jun-14,Beneath Hill 60,9.0,0.0,3.440939,7.0,66,2010,"Drama,History,War",Jeremy Sims,-5.559061
+2016,18-May-12,Polisse,8.9,0.176988,22.744132,7.8,670,2011,"Crime,Drama",Maïwenn,13.844132
+2017,18-Nov-16,Manchester by the Sea,8.5,47.695371,77.733867,7.5,3176,2016,Drama,Kenneth Lonergan,69.233867
+2018,31-Oct-14,Nightcrawler,8.5,32.381218,50.334418,7.7,5860,2014,"Crime,Drama,Thriller",Dan Gilroy,41.834418
+2019,16-Jan-19,Dragon Ball Super: Broly,8.5,30.376755,122.747755,7.4,721,2018,"Action,Adventure,Animation",Tatsuya Nagamine,114.247755
+2020,27-Sep-13,Baggage Claim,8.5,21.569509,22.885836,5.4,127,2013,Comedy,David E. Talbert,14.385836000000001
+2021,7-Oct-16,Middle School: The Worst Years of My Life,8.5,20.007149,23.311293,7.0,190,2016,"Comedy,Family",Steve Carr,14.811293
+2022,13-Jun-14,The Rover,8.5,1.109199,3.180252,6.2,435,2014,"Action,Crime,Drama",David Michôd,-5.319748000000001
+2023,4-Jun-99,Limbo,8.3,2.16071,2.598224,7.7,3,2019,"Drama,Thriller",Tim Dünschede,-5.701776000000001
+2027,17-Sep-10,Easy A,8.0,58.401464,76.200721,6.8,4168,2010,"Comedy,Drama,Romance",Will Gluck,68.200721
+2028,30-Sep-11,50/50,8.0,35.016118,41.334735,7.1,2111,2011,"Comedy,Drama,Romance",Jonathan Levine,33.334735
+2029,2-Sep-15,A Walk in the Woods,8.0,29.499394,37.119358,5.9,402,2015,"Adventure,Biography,Comedy",Ken Kwapis,29.119358
+2030,31-Jan-14,That Awkward Moment,8.0,26.068955,53.068955,6.1,1759,2014,"Comedy,Romance",Tom Gormican,45.068955
+2031,21-Mar-08,Shutter,8.0,25.92855,47.782426,6.0,1,2012,Thriller,Joy Mathew,39.782426
+2034,7-May-93,Much Ado About Nothing,8.0,22.549338,22.549338,7.2,165,2019,Drama,Jason L. Mitchell,14.549337999999999
+2044,18-Sep-13,Enough Said,8.0,17.550872,25.621449,6.7,464,2013,"Comedy,Drama,Romance",Nicole Holofcener,17.621449
+2045,29-Apr-11,Prom,8.0,10.130219,10.763183,6.0,276,2011,"Comedy,Drama,Family",Joe Nussbaum,2.7631829999999997
+2046,12-Jun-15,Me and Earl and the Dying Girl,8.0,6.758416,9.26618,7.6,1570,2015,"Comedy,Drama,Romance",Alfonso Gomez-Rejon,1.2661800000000003
+2047,2-Sep-16,Morgan,8.0,3.915251,7.298786,6.7,12,2012,"Drama,Romance",Michael D. Akers,-0.7012140000000002
+2051,29-Dec-10,Another Year,8.0,3.205706,20.005613,7.0,150,2010,"Comedy,Drama",Mike Leigh,12.005613
+2057,6-Apr-18,Lean on Pete,8.0,1.163056,2.455027,6.9,133,2017,"Adventure,Drama",Andrew Haigh,-5.544973000000001
+2058,19-Nov-10,Made in Dagenham,8.0,1.095369,15.644196,6.6,150,2010,"Biography,Comedy,Drama",Nigel Cole,7.644196000000001
+2059,3-May-19,El Chicano,8.0,0.700261,0.700261,9.0,1,2018,Drama,Ben Hernandez Bray,-7.299739
+2060,26-Oct-18,London Fields,8.0,0.252676,0.433732,5.3,59,2018,"Crime,Mystery,Thriller",Mathew Cullen,-7.566268
+2061,16-Sep-11,Restless,8.0,0.163753,2.772511,6.4,258,2011,"Drama,Romance",Gus Van Sant,-5.227489
+2063,29-Oct-10,Wild Target,8.0,0.109338,5.314194,6.4,356,2010,"Action,Comedy,Crime",Jonathan Lynn,-2.6858060000000004
+2064,5-Oct-12,Wuthering Heights,8.0,0.100915,2.721534,6.1,115,2011,"Drama,Romance",Andrea Arnold,-5.278466
+2066,18-Nov-16,A Street Cat Named Bob,8.0,0.082703,17.382693,7.5,500,2016,"Biography,Comedy,Drama",Roger Spottiswoode,9.382693
+2067,22-May-15,Aloft,8.0,0.053086,0.237688,5.5,61,2014,Drama,Claudia Llosa,-7.762312
+2068,12-Aug-14,Swelter,8.0,0.0,0.044197,5.1,44,2014,"Action,Crime,Drama",Keith Parmer,-7.955803
+2069,13-Dec-89,Driving Miss Daisy,7.5,106.593296,106.593296,6.7,5,2014,"Comedy,Drama",David Esbjornson,99.093296
+2070,21-Dec-11,Albert Nobbs,7.5,3.014696,8.539003,6.3,227,2011,"Drama,Romance",Rodrigo García,1.0390029999999992
+2071,24-Jun-16,The Neon Demon,7.5,1.333124,3.559803,6.6,2005,2016,"Horror,Thriller",Nicolas Winding Refn,-3.940197
+2072,9-Jan-15,Black November,7.5,0.0,0.032572,5.9,5,2012,"Action,Crime,Drama",Jeta Amata,-7.467428
+2073,13-Jan-17,The Bye Bye Man,7.4,22.395806,31.187727,5.1,678,2017,"Drama,Fantasy,Horror",Stacy Title,23.787726999999997
+2074,16-Sep-11,3,7.2,0.059774,0.295492,6.0,2,2010,"Comedy,Drama,Romance",Tom Tykwer,-6.904508
+2077,29-Jun-12,Magic Mike,7.0,113.721571,170.549753,6.1,1850,2012,"Comedy,Drama",Steven Soderbergh,163.549753
+2078,6-May-11,Jumping the Broom,7.0,37.295394,38.158601,6.0,103,2011,"Comedy,Drama",Salim Akil,31.158600999999997
+2079,7-Apr-17,Gifted,7.0,24.801212,36.964656,7.9,2035,2018,Documentary,Johnathan McFarlane,29.964655999999998
+2082,11-Apr-01,Kingdom Come,7.0,23.247539,23.393939,8.0,1,2015,Documentary,Rick DeYoung,16.393939
+2086,12-Feb-88,Action Jackson,7.0,20.257,20.257,5.2,81,2014,"Action,Thriller",Prabhu Deva,13.257000000000001
+2087,13-May-83,Breathless,7.0,19.910002,19.910002,5.4,18,2012,"Comedy,Thriller",Jesse Baget,12.910001999999999
+2090,19-Jun-15,Dope,7.0,17.50647,18.190831,7.2,954,2015,"Comedy,Crime,Drama",Rick Famuyiwa,11.190831
+2091,14-Nov-14,Beyond the Lights,7.0,14.618727,14.618727,7.0,238,2014,"Drama,Music,Romance",Gina Prince-Bythewood,7.618727
+2092,18-Jun-10,Cyrus,7.0,7.468936,10.062896,6.0,201,2010,"Crime,Horror,Mystery",Mark Vadik,3.0628960000000003
+2093,22-Dec-10,Somewhere,7.0,1.785645,17.023121,6.1,376,2010,"Comedy,Drama",Sofia Coppola,10.023121
+2094,13-Jan-12,We Need to Talk About Kevin,7.0,1.738692,10.765283,7.6,1306,2011,"Drama,Mystery,Thriller",Lynne Ramsay,3.765283
+2095,15-Nov-13,The Christmas Candle,7.0,1.632,1.933829,6.0,15,2013,"Drama,Family",John Stephenson,-5.066171
+2096,2-Oct-15,Freeheld,7.0,0.546201,1.732228,7.3,360,2015,"Biography,Drama,Romance",Peter Sollett,-5.267772
+2097,2-Apr-14,Dom Hemingway,7.0,0.523511,1.857458,5.8,302,2013,"Comedy,Crime,Drama",Richard Shepard,-5.142542
+2098,13-May-11,Hesher,7.0,0.382946,0.382946,7.0,335,2010,"Comedy,Crime,Drama",Spencer Susser,-6.6170539999999995
+2099,23-Jul-13,Twixt,7.0,0.0,1.268346,5.0,132,2011,"Comedy,Fantasy,Horror",Francis Ford Coppola,-5.731654
+2100,20-Nov-15,Criminal Activities,7.0,0.0,0.386744,5.9,166,2015,"Crime,Drama,Thriller",Jackie Earle Haley,-6.613256
+2101,21-Sep-12,House at the End of the Street,6.9,31.611916,44.103982,5.8,1033,2012,"Drama,Horror,Thriller",Mark Tonderai,37.203982
+2102,17-Sep-10,Incendies,6.8,6.857096,16.038343,8.1,1034,2010,"Drama,Mystery,War",Denis Villeneuve,9.238343
+2103,3-Oct-14,Annabelle,6.5,84.273813,256.86292,5.6,3357,2014,"Horror,Mystery,Thriller",John R. Leonetti,250.36291999999997
+2104,20-Oct-17,Same Kind of Different as Me,6.5,6.423605,6.423605,6.8,103,2017,"Biography,Drama",Michael Carney,-0.07639499999999977
+2105,2-Dec-11,Shame,6.5,4.002293,20.412841,7.0,1607,2011,Drama,Steve McQueen,13.912841
+2111,31-May-13,The East,6.5,2.274649,3.027956,6.6,438,2013,"Adventure,Drama,Thriller",Zal Batmanglij,-3.472044
+2112,13-Nov-09,The Messenger,6.5,1.10966,1.744952,8.0,2,2012,Drama,Kade Mendelowitz,-4.755048
+2116,31-Dec-11,Tracker,6.5,0.0,0.003149,6.7,29,2010,"Action,Adventure,Drama",Ian Sharp,-6.496851
+2117,11-May-18,Breaking In,6.0,46.84059,51.41162,2.5,2,2018,"Action,Crime,Drama",James McTeigue,45.41162
+2119,30-Nov-18,The Possession of Hannah Grace,6.0,14.836174,42.785387,5.1,393,2018,"Horror,Mystery,Thriller",Diederik Van Rooijen,36.785387
+2120,15-Jan-16,The Lady in the Van,6.0,10.021175,42.320503,6.3,393,2015,"Biography,Comedy,Drama",Nicholas Hytner,36.320503
+2121,27-Apr-12,Bernie,6.0,9.204489,10.106975,6.6,503,2011,"Biography,Comedy,Crime",Richard Linklater,4.106975
+2123,29-Jul-11,The Guard,6.0,5.359774,21.197454,6.9,563,2011,"Comedy,Crime,Thriller",John Michael McDonagh,15.197454
+2124,18-Jul-14,Wish I Was Here,6.0,3.591299,6.591365,6.6,440,2014,"Comedy,Drama",Zach Braff,0.5913649999999997
+2125,14-Mar-14,Veronica Mars,6.0,3.322127,3.485383,6.7,699,2014,"Crime,Drama,Mystery",Rob Thomas,-2.514617
+2126,15-Jul-11,Snow Flower and the Secret Fan,6.0,1.348205,11.348205,5.9,39,2011,"Drama,History",Wayne Wang,5.348205
+2127,14-Sep-18,Mandy,6.0,1.214525,1.427656,3.5,2,2016,"Drama,Thriller",Adam Vermillion,-4.572344
+2131,25-Mar-11,The 5th Quarter,6.0,0.408159,0.408159,4.7,15,2010,"Biography,Drama,Sport",Rick Bieber,-5.591841
+2132,7-Dec-12,Deadfall,6.0,0.066351,1.673635,5.9,357,2012,"Crime,Drama,Thriller",Stefan Ruzowitzky,-4.326365
+2133,8-May-09,Julia,6.0,0.065108,1.365108,2.0,1,2014,"Horror,Thriller",Matthew A. Brown,-4.634892
+2137,23-Jan-15,Song One,6.0,0.032251,0.437089,5.6,126,2014,"Drama,Music",Kate Barker-Froyland,-5.562911
+2138,2-Aug-96,Emma,5.9,22.231658,37.831658,10.0,1,2016,Thriller,Vladimir V. Feyer,31.931658
+2147,16-Jul-10,Standing Ovation,5.6,0.531806,0.531806,4.3,12,2010,Musical,Stewart Raffill,-5.068194
+2148,7-Dec-12,Khiladi 786,5.6,0.385422,14.683763,4.7,16,2012,"Action,Comedy",Ashish R. Mohan,9.083763000000001
+2149,27-Sep-13,Don Jon,5.5,24.477704,41.268579,5.9,2709,2013,"Comedy,Drama,Romance",Joseph Gordon-Levitt,35.768579
+2150,28-Sep-18,Hell Fest,5.5,11.107431,18.119231,5.5,273,2018,Horror,Gregory Plotkin,12.619231
+2151,14-Dec-01,Iris,5.5,5.580479,5.580479,7.6,71,2011,"Drama,Family,History",Ulrika Bengts,0.08047900000000041
+2154,3-Oct-03,Wonderland,5.5,1.060512,1.060512,3.3,3,2011,"Fantasy,Horror,Sci-Fi",Brandon Slagle,-4.439488
+2160,21-Oct-11,Le Havre,5.5,0.611709,13.480196,6.9,169,2011,"Comedy,Drama",Aki Kaurismäki,7.980195999999999
+2161,15-Jul-11,Salvation Boulevard,5.5,0.028468,0.028468,5.4,38,2011,"Action,Comedy,Drama",George Ratliff,-5.471532
+2162,5-May-15,Miss Julie,5.5,0.0,0.863895,5.8,77,2013,"Drama,Romance",Mikael Berg,-4.636105
+2164,19-Jul-13,Grabbers,5.3,0.0,0.440821,6.1,202,2012,"Comedy,Horror,Sci-Fi",Jon Wright,-4.859179
+2165,1-Aug-44,Wilson,5.2,2.0,2.0,5.8,195,2017,"Comedy,Drama",Craig Johnson,-3.2
+2166,22-Apr-11,Dum Maaro Dum,5.2,0.564489,11.633427,5.4,16,2011,"Action,Crime,Drama",Rohan Sippy,6.433426999999999
+2167,24-Feb-17,Get Out,5.0,176.040665,255.367951,5.5,8,2017,"Horror,Mystery,Thriller",Jordan Peele,250.367951
+2169,20-Jan-17,Split,5.0,138.141585,278.964806,5.3,2,2016,"Comedy,Romance,Sport",Jamie Buckner,273.964806
+2173,11-Mar-16,10 Cloverfield Lane,5.0,72.082999,108.286422,6.9,4629,2016,"Drama,Horror,Mystery",Dan Trachtenberg,103.286422
+2174,22-Jul-16,Lights Out,5.0,67.268835,148.80651,6.3,2220,2010,Drama,Gregori J. Martin,143.80651
+2177,11-Sep-15,The Visit,5.0,65.206105,98.677816,6.2,2634,2010,"Comedy,Drama,Romance",Richard Dailey,93.677816
+2183,13-Oct-17,Happy Death Day,5.0,55.683845,125.01026,6.6,3211,2017,"Horror,Mystery,Thriller",Christopher Landon,120.01026
+2184,24-Oct-14,Ouija,5.0,50.85601,103.300632,5.1,1670,2014,"Horror,Mystery,Thriller",Stiles White,98.300632
+2185,23-Jun-17,The Big Sick,5.0,42.872467,53.97286,7.4,1302,2017,"Comedy,Drama,Romance",Michael Showalter,48.97286
+2186,24-Dec-03,Monster,5.0,34.46921,64.240813,5.0,1,2013,Drama,Akiko Ohku,59.240813
+2194,3-Jan-14,Paranormal Activity: The Marked Ones,5.0,32.462372,90.904854,5.3,752,2014,"Horror,Mystery,Thriller",Christopher Landon,85.904854
+2195,11-Apr-14,Oculus,5.0,27.695246,44.115496,6.4,1747,2013,"Horror,Mystery",Mike Flanagan,39.115496
+2196,1-Nov-13,Dallas Buyers Club,5.0,27.298285,60.611845,7.9,4961,2013,"Biography,Drama",Jean-Marc Vallée,55.611845
+2197,26-Aug-15,No Escape,5.0,27.288872,42.844516,6.8,1296,2015,"Action,Thriller",John Erick Dowdle,37.844516
+2199,27-Feb-15,The Lazarus Effect,5.0,25.80157,38.35931,4.8,3,2015,"Horror,Mystery,Sci-Fi",David Gelb,33.35931
+2201,26-Aug-11,Our Idiot Brother,5.0,24.81483,25.861249,6.1,527,2011,"Comedy,Drama",Jesse Peretz,20.861249
+2202,9-Mar-18,The Strangers: Prey at Night,5.0,24.431472,29.960051,5.4,621,2018,Horror,Johannes Roberts,24.960051
+2203,29-Aug-14,"As Above, So Below",5.0,21.222315,41.824066,6.2,1321,2012,Documentary,Sarah Christman,36.824066
+2206,19-Feb-16,Race,5.0,19.115191,23.745772,7.2,910,2010,"Biography,Documentary,History",Katherine Cecil,18.745772
+2209,2-Sep-11,Apollo 18,5.0,17.686929,26.517819,5.0,486,2011,"Horror,Mystery,Sci-Fi",Gonzalo López-Gallego,21.517819
+2210,23-Mar-18,"Paul, Apostle of Christ",5.0,17.547999,25.529498,7.1,98,2018,"Adventure,Biography,Drama",Andrew Hyatt,20.529498
+2211,10-Oct-14,Addicted,5.0,17.39077,17.499242,5.3,103,2014,"Drama,Thriller",Bille Woodruff,12.499241999999999
+2214,15-Mar-13,Spring Breakers,5.0,14.124286,31.149251,5.0,2495,2012,"Comedy,Crime,Drama",Harmony Korine,26.149251
+2215,9-Jun-17,It Comes at Night,5.0,13.985117,19.720203,5.8,1141,2017,"Horror,Mystery",Trey Edward Shults,14.720203000000001
+2216,3-Mar-17,Before I Fall,5.0,12.241072,18.945682,7.0,2135,2017,"Drama,Fantasy,Mystery",Ry Russo-Young,13.945682000000001
+2217,29-Jan-16,Fifty Shades of Black,5.0,11.68694,22.113075,4.4,677,2016,Comedy,Michael Tiddes,17.113075
+2218,17-Mar-17,The Belko Experiment,5.0,10.16682,11.792942,6.1,757,2016,"Horror,Thriller",Greg McLean,6.792942
+2219,11-Mar-16,The Perfect Match,5.0,9.669521,10.18205,5.5,78,2013,"Biography,Documentary,Family",Jennifer Barbaro,5.18205
+2222,21-Sep-18,Fahrenheit 11/9,5.0,6.352306,6.653715,7.1,142,2018,Documentary,Michael Moore,1.653715
+2223,11-Sep-15,90 Minutes in Heaven,5.0,4.816142,4.816142,5.3,63,2015,Drama,Michael Polish,-0.18385799999999985
+2224,2-Dec-16,Incarnate,5.0,4.799774,9.371036,5.2,314,2016,"Horror,Thriller",Brad Peyton,4.371036
+2225,3-Mar-17,Table 19,5.0,3.614896,4.620399,6.0,604,2017,"Comedy,Drama,Romance",Jeffrey Blitz,-0.3796010000000001
+2226,15-Apr-16,Green Room,5.0,3.220371,3.807503,6.8,1314,2015,"Horror,Music,Thriller",Jeremy Saulnier,-1.192497
+2227,9-Mar-18,Thoroughbreds,5.0,3.072605,3.187302,6.3,398,2017,"Comedy,Crime,Drama",Cory Finley,-1.8126980000000001
+2228,4-Mar-16,The Other Side of the Door,5.0,3.000342,12.905107,5.3,470,2014,Drama,Ira Farmer,7.905106999999999
+2230,13-May-11,Everything Must Go,5.0,2.712131,2.82101,6.0,301,2010,"Comedy,Drama",Dan Rush,-2.17899
+2231,10-Oct-14,Kill the Messenger,5.0,2.450846,6.656705,6.6,507,2014,"Biography,Crime,Drama",Michael Cuesta,1.6567049999999997
+2232,17-Dec-10,Rabbit Hole,5.0,2.229058,6.205034,6.8,292,2010,Drama,John Cameron Mitchell,1.2050340000000004
+2233,23-Oct-15,Jem and the Holograms,5.0,2.18464,2.368937,5.4,241,2015,"Adventure,Drama,Family",Jon M. Chu,-2.631063
+2234,28-Dec-16,Paterson,5.0,2.141423,10.727536,7.1,736,2016,"Comedy,Drama,Romance",Jim Jarmusch,5.727536000000001
+2235,16-Aug-13,Ain't Them Bodies Saints,5.0,0.391611,1.075009,6.2,217,2013,"Crime,Drama,Romance",David Lowery,-3.924991
+2236,7-Aug-15,Cop Car,5.0,0.134552,0.143658,5.8,452,2015,"Crime,Thriller",Jon Watts,-4.856342
+2237,30-May-08,Stuck,5.0,0.067505,0.067505,5.6,4,2012,"Comedy,Drama",Michael Courtney,-4.932495
+2247,17-Oct-14,Rudderless,5.0,0.056001,0.567219,7.4,149,2014,"Comedy,Drama,Music",William H. Macy,-4.432781
+2248,14-Aug-09,Grace,5.0,0.008297,0.008297,4.6,78,2011,"Crime,Drama,Horror",Rodger Edralin,-4.991703
+2257,15-May-15,Area 51,5.0,0.007556,0.007556,4.4,248,2015,"Horror,Sci-Fi,Thriller",Oren Peli,-4.992444
+2258,31-Dec-08,The Cottage,5.0,0.0,1.50496,4.3,14,2012,"Drama,Horror,Thriller",Chris Jaymes,-3.49504
+2259,5-Dec-14,Dying of the Light,5.0,0.0,0.074639,4.6,174,2014,"Drama,Thriller",Paul Schrader,-4.925361
+2260,2-Sep-16,Yoga Hosers,5.0,0.0,0.022958,4.5,221,2016,"Action,Comedy,Fantasy",Kevin Smith,-4.977042
+2261,23-Jan-15,Mommy,4.9,3.498695,17.536004,8.3,1399,2014,Drama,Xavier Dolan,12.636003999999998
+2262,17-Aug-12,The Awakening,4.9,0.095933,6.924321,4.0,3,2010,"Horror,Thriller",Vince Rotonda,2.0243209999999996
+2268,19-Jul-13,Only God Forgives,4.8,0.775849,4.49456,5.8,1396,2013,"Crime,Drama",Nicolas Winding Refn,-0.30543999999999993
+2269,30-Sep-11,Take Shelter,4.75,1.728953,4.972016,7.2,787,2011,"Drama,Horror,Thriller",Jeff Nichols,0.222016
+2270,19-Oct-07,Out of the Blue,4.6,0.000728,0.731767,10.0,1,2013,"Comedy,Drama",Edoardo Leo,-3.8682329999999996
+2271,25-Mar-16,The Lobster,4.5,9.196278,18.019834,6.9,2895,2015,"Comedy,Drama,Romance",Yorgos Lanthimos,13.519834
+2272,4-Oct-96,Bound,4.5,3.80226,7.011317,3.5,42,2020,"Action,Drama",Jokes Yanes,2.511317
+2276,7-Oct-11,Blackthorn,4.5,0.200558,1.217307,6.7,111,2011,"Action,Adventure,Western",Mateo Gil,-3.282693
+2277,8-May-15,Maggie,4.5,0.187112,1.02776,5.3,958,2015,"Drama,Horror",Henry Hobson,-3.47224
+2279,1-Mar-13,The Sweeney,4.5,0.026345,8.000366,5.9,142,2012,"Action,Crime,Drama",Nick Love,3.5003659999999996
+2280,4-Sep-14,Falcon Rising,4.5,0.011774,0.011774,5.8,126,2014,"Action,Adventure",Ernie Barbarash,-4.488226
+2281,6-Jun-14,Anna,4.357373,0.0,1.2,3.1,8,2013,"Drama,Mystery,Sci-Fi",Jorge Dorado,-3.1573729999999998
+2287,19-Oct-90,Night of the Living Dead,4.2,5.835247,5.835247,6.5,1,2014,Horror,Chad Zuver,1.6352469999999997
+2288,1-Oct-68,Night of the Living Dead,0.114,12.087064,30.087064,6.5,1,2014,Horror,Chad Zuver,29.973064
+2289,13-Aug-10,Animal Kingdom,4.2,1.044039,8.078683,6.8,399,2010,"Crime,Drama",David Michôd,3.8786829999999997
+2291,21-Oct-11,Cargo,4.2,0.0,0.31323,4.4,7,2011,Drama,Yan Vizinberg,-3.8867700000000003
+2297,23-Jan-15,The Boy Next Door,4.0,36.006065,53.401938,5.7,6,2015,"Horror,Thriller",Rob Cohen,49.401938
+2299,11-Jul-14,Boyhood,4.0,25.379975,57.273049,7.5,3097,2014,Drama,Richard Linklater,53.273049
+2300,9-Jul-10,The Kids Are All Right,4.0,20.811365,36.275469,6.6,854,2010,"Comedy,Drama,Romance",Lisa Cholodenko,32.275469
+2301,18-Apr-14,A Haunted House 2,4.0,17.329487,21.206861,5.5,597,2014,"Comedy,Fantasy",Michael Tiddes,17.206861
+2302,1-Mar-13,The Last Exorcism Part II,4.0,15.179303,25.448707,4.5,297,2013,"Drama,Horror,Thriller",Ed Gass-Donnelly,21.448707
+2303,13-May-16,The Darkness,4.0,10.753574,10.898293,4.8,347,2016,"Horror,Thriller",Greg McLean,6.898293000000001
+2304,24-Aug-12,Samsara,4.0,2.672413,5.966671,8.2,276,2011,"Documentary,Music",Ron Fricke,1.9666709999999998
+2305,17-Jun-11,The Art of Getting By,4.0,1.430241,1.989035,6.5,752,2011,"Drama,Romance",Gavin Wiesen,-2.0109649999999997
+2306,23-Sep-11,Red State,4.0,1.065429,1.983596,6.1,472,2011,"Action,Crime,Horror",Kevin Smith,-2.016404
+2307,17-Oct-12,Holy Motors,4.0,0.641054,4.230426,7.0,431,2012,"Drama,Fantasy",Leos Carax,0.23042599999999958
+2308,13-Jun-14,The Signal,4.0,0.600896,2.665322,5.9,901,2014,"Drama,Mystery,Sci-Fi",William Eubank,-1.3346779999999998
+2310,22-Feb-08,The Signal,0.05,0.25115,0.406299,5.9,901,2014,"Drama,Mystery,Sci-Fi",William Eubank,0.35629900000000003
+2312,7-Mar-14,The Face of Love,4.0,0.385069,1.158877,6.1,68,2013,"Drama,Mystery,Romance",Arie Posin,-2.841123
+2313,11-Apr-14,Joe,4.0,0.373375,0.373375,6.6,514,2013,"Crime,Drama",David Gordon Green,-3.6266249999999998
+2316,10-Apr-15,Desert Dancer,4.0,0.155271,0.596335,6.9,33,2014,"Biography,Drama,Music",Richard Raymond,-3.403665
+2317,19-Jun-15,Manglehorn,4.0,0.13227,0.797439,5.4,94,2014,Drama,David Gordon Green,-3.202561
+2318,1-Apr-11,Trust,4.0,0.120016,0.120016,6.6,556,2010,"Crime,Drama,Thriller",David Schwimmer,-3.879984
+2321,22-Apr-11,Stake Land,4.0,0.033245,0.679482,6.2,415,2010,"Drama,Horror,Sci-Fi",Jim Mickle,-3.320518
+2322,18-Apr-14,13 Sins,4.0,0.009134,0.047552,6.3,576,2014,"Horror,Thriller",Daniel Stamm,-3.952448
+2323,18-Nov-11,Another Happy Day,4.0,0.00912,0.978527,6.1,60,2011,"Comedy,Drama",Sam Levinson,-3.021473
+2324,22-Feb-13,Inescapable,4.0,0.004327,0.004327,5.2,27,2012,"Action,Drama,Mystery",Ruba Nadda,-3.995673
+2325,20-Mar-12,A Lonely Place to Die,4.0,0.0,0.44255,6.1,251,2011,"Adventure,Crime,Thriller",Julian Gilbey,-3.5574500000000002
+2326,31-Dec-03,Nothing,4.0,0.0,0.06318,6.0,1,2019,Sci-Fi,Daryush Shokof,-3.93682
+2329,5-Nov-10,Four Lions,3.75,0.310007,2.436111,7.0,621,2010,"Comedy,Crime,Drama",Christopher Morris,-1.313889
+2330,13-Apr-18,Truth or Dare,3.5,41.411015,95.127344,5.6,194,2013,"Horror,Romance,Thriller",Tom Boyle,91.627344
+2350,19-Feb-16,The Witch,3.5,25.138705,40.45452,6.6,2931,2015,"Horror,Mystery",Robert Eggers,36.95452
+2352,22-Feb-13,Dark Skies,3.5,17.418667,27.704111,6.1,1004,2013,"Horror,Sci-Fi,Thriller",Scott Stewart,24.204111
+2353,19-Jan-18,Forever My Girl,3.5,16.376066,16.376066,7.4,406,2018,"Drama,Music,Romance",Bethany Ashton Wolf,12.876066000000002
+2354,21-Jun-72,Frenzy,3.5,12.6,12.6,3.9,9,2015,Thriller,Aash Aaron,9.1
+2355,18-May-18,First Reformed,3.5,3.448256,3.874772,6.9,446,2017,"Drama,Mystery,Thriller",Paul Schrader,0.3747720000000001
+2356,2-Dec-16,Believe,3.5,0.890303,0.890303,5.9,12,2018,Documentary,Nikita Sharma,-2.609697
+2364,30-Sep-16,American Honey,3.5,0.663247,2.61175,6.7,417,2016,"Adventure,Drama,Romance",Andrea Arnold,-0.8882500000000002
+2365,18-Mar-16,The Bronze,3.5,0.615816,0.615816,5.8,186,2015,"Comedy,Drama,Sport",Bryan Buckley,-2.884184
+2366,8-Jan-16,The Masked Saint,3.5,0.182695,0.182695,3.5,16,2016,"Action,Biography,Crime",Warren P. Sonoda,-3.317305
+2367,3-Jun-16,Time to Choose,3.5,0.029233,0.029233,8.3,3,2015,Documentary,Charles Ferguson,-3.470767
+2368,21-Oct-11,Margin Call,3.4,5.353586,20.433227,6.8,856,2011,"Drama,Thriller",J.C. Chandor,17.033227
+2369,11-Jul-08,August,3.4,0.012636,0.012636,6.6,19,2011,"Drama,Romance",Eldar Rapaport,-3.387364
+2373,10-Oct-14,Whiplash,3.3,13.092006,38.969037,7.9,94,2014,"Drama,Music",Damien Chazelle,35.669037
+2375,6-Jul-18,Sorry to Bother You,3.2,17.493096,18.28556,6.9,481,2018,"Comedy,Fantasy,Sci-Fi",Boots Riley,15.085560000000001
+2376,3-Jun-11,Beginners,3.2,5.790894,14.314407,6.9,532,2010,"Comedy,Drama,Romance",Mike Mills,11.114407
+2377,22-Apr-16,The Meddler,3.2,4.267219,5.526942,5.8,186,2015,"Comedy,Drama,Romance",Lorene Scafaria,2.326942
+2378,12-Apr-13,Antiviral,3.1,0.0,0.123407,5.8,152,2012,"Horror,Sci-Fi,Thriller",Brandon Cronenberg,-2.9765930000000003
+2379,20-Oct-10,Paranormal Activity 2,3.0,84.752907,177.512032,5.7,1342,2010,Horror,Tod Williams,174.512032
+2380,28-Aug-15,War Room,3.0,67.790117,73.975239,7.5,171,2015,Drama,Alex Kendrick,70.975239
+2381,7-Jun-13,The Purge,3.0,64.473115,91.266581,6.2,4797,2013,"Horror,Thriller",James DeMonaco,88.266581
+2382,12-Oct-12,Sinister,3.0,48.086903,87.727807,3.8,8,2012,"Horror,Mystery,Thriller",Scott Derrickson,84.727807
+2386,1-Jan-78,Coming Home,3.0,32.653,32.653,7.3,76,2012,Documentary,Michael Garcia,29.653
+2392,1-Jun-18,Upgrade,3.0,11.97713,16.553285,7.4,1326,2018,"Action,Sci-Fi,Thriller",Leigh Whannell,13.553284999999999
+2394,26-Aug-48,Red River,3.0,9.012,9.012,0.0,1,2011,Horror,Jacob Ennis,6.0120000000000005
+2395,24-May-13,Before Midnight,3.0,8.110621,23.25193,7.4,1039,2013,"Drama,Romance",Richard Linklater,20.25193
+2396,31-Jul-09,The Collector,3.0,7.712114,10.473836,0.5,2,2012,"Action,Comedy",James Lee,7.473836
+2398,27-Oct-17,Let There Be Light,3.0,7.233471,7.241309,6.2,23,2012,Documentary,Peter Swanson,4.241309
+2406,17-May-13,Frances Ha,3.0,4.067398,11.262769,7.4,624,2012,"Comedy,Drama,Romance",Noah Baumbach,8.262769
+2407,30-Apr-10,Please Give,3.0,4.033574,4.570178,6.3,81,2010,"Comedy,Drama",Nicole Holofcener,1.5701780000000003
+2408,22-Apr-16,Compadres,3.0,3.127773,7.445044,5.1,21,2016,"Action,Comedy,Crime",Enrique Begné,4.445044
+2409,16-Oct-98,Happiness,3.0,2.746453,5.746453,7.0,3,2013,"Documentary,Drama,Family",Thomas Balmès,2.746453
+2412,19-Sep-14,Tusk,3.0,1.821983,1.887554,5.3,601,2014,"Comedy,Drama,Horror",Kevin Smith,-1.112446
+2413,12-May-17,The Wall,3.0,1.803064,4.495262,6.7,61,2010,Documentary,Ricardo Martinez,1.4952620000000003
+2421,6-Apr-12,Damsels in Distress,3.0,1.007535,1.324299,5.5,103,2011,"Comedy,Drama,Romance",Whit Stillman,-1.675701
+2422,25-Mar-05,Oldboy,3.0,0.707391,6.239723,5.9,1032,2013,"Action,Drama,Mystery",Spike Lee,3.2397229999999997
+2423,6-May-11,Hobo with a Shotgun,3.0,0.703372,0.834953,5.9,300,2011,"Action,Comedy,Horror",Jason Eisener,-2.165047
+2424,7-Sep-12,Bachelorette,3.0,0.44677,12.577401,5.4,755,2012,"Comedy,Romance",Leslye Headland,9.577401
+2425,9-Sep-11,Creature,3.0,0.331,0.331,4.1,23,2011,Horror,Fred Andrews,-2.669
+2427,9-Dec-16,The Bounce Back,3.0,0.32191,0.421404,6.1,31,2016,"Comedy,Romance",Youssef Delara,-2.578596
+2428,4-Sep-15,Before We Go,3.0,0.037151,0.483938,6.5,985,2014,"Comedy,Drama,Romance",Chris Evans,-2.516062
+2429,13-Jan-12,The Divide,3.0,0.018,0.156362,5.9,302,2011,"Drama,Horror,Sci-Fi",Xavier Gens,-2.843638
+2435,10-Oct-17,Demonic,3.0,0.0,4.668109,5.1,267,2015,"Horror,Thriller",Will Canon,1.6681090000000003
+2437,27-Jun-14,They Came Together,3.0,0.0,0.08278,5.5,226,2014,"Comedy,Romance",David Wain,-2.91722
+2438,21-May-13,Open Road,3.0,0.0,0.047469,5.1,20,2013,"Action,Drama,Thriller",Marcio Garcia,-2.952531
+2439,19-Aug-11,Griff the Invisible,2.9,0.020778,0.025935,6.0,44,2010,"Comedy,Drama,Romance",Leon Ford,-2.874065
+2440,26-Oct-18,Indivisible,2.7,3.511417,3.588305,5.4,13,2017,Documentary,Hilary Linder,0.8883049999999999
+2443,2-May-14,Ida,2.6,3.82706,15.298355,7.3,455,2013,Drama,Pawel Pawlikowski,12.698355000000001
+2444,11-Jan-13,A Haunted House,2.5,40.041683,59.922558,5.5,871,2013,"Comedy,Fantasy",Michael Tiddes,57.422558
+2445,2-Aug-13,The Spectacular Now,2.5,6.852971,6.916951,6.6,1801,2013,"Comedy,Drama,Romance",James Ponsoldt,4.416951
+2446,24-Jun-16,Hunt for the Wilderpeople,2.5,5.205471,23.845533,7.8,915,2016,"Adventure,Comedy,Drama",Taika Waititi,21.345533
+2447,17-Aug-12,Robot & Frank,2.5,3.317468,4.934356,6.9,620,2012,"Comedy,Crime,Drama",Jake Schreier,2.434356
+2448,1-Mar-13,The Lost Medallion: The Adventures of Billy Stone,2.5,0.549632,0.549632,5.5,21,2013,"Adventure,Family,Fantasy",Bill Muir,-1.950368
+2449,1-Apr-11,Super,2.5,0.327716,0.593933,6.6,726,2010,"Action,Comedy,Drama",James Gunn,-1.906067
+2451,16-Aug-13,Underdogs,2.5,0.035017,1.392649,5.5,16,2018,"Documentary,Sport",Téo Frank,-1.107351
+2457,20-Mar-15,Do You Believe?,2.3,12.9856,14.304931,7.0,72,2015,Drama,Jon Gunn,12.004931
+2459,5-Sep-14,Frontera,2.3,0.059696,0.059696,6.3,80,2010,"Action,Drama,Thriller",Jesse Estrada,-2.2403039999999996
+2463,26-Aug-11,Redemption Road,2.3,0.029384,0.029384,4.7,6,2010,Drama,Mario Van Peebles,-2.270616
+2464,21-Nov-46,The Best Years of Our Lives,2.1,23.6,23.6,7.8,243,2013,Comedy,Mihalis Georgiou,21.5
+2465,13-Jul-01,Bully,2.1,0.881824,1.381824,7.2,93,2011,Documentary,Lee Hirsch,-0.7181760000000001
+2470,30-Sep-11,Courageous,2.0,34.522221,35.185884,7.0,128,2011,Drama,Alex Kendrick,33.185884
+2471,13-Mar-15,It Follows,2.0,14.674077,23.250755,6.5,3485,2014,"Horror,Mystery",David Robert Mitchell,21.250755
+2472,13-Jul-18,Eighth Grade,2.0,13.53971,14.341016,7.4,519,2018,"Comedy,Drama",Bo Burnham,12.341016
+2473,8-Apr-16,Hardcore Henry,2.0,9.252038,17.187434,6.2,1294,2015,"Action,Adventure,Sci-Fi",Ilya Naishuller,15.187434
+2474,11-Jun-10,Winter's Bone,2.0,6.531503,16.131551,6.9,931,2010,"Drama,Mystery",Debra Granik,14.131551000000002
+2475,10-Oct-14,Meet the Mormons,2.0,6.047363,6.049171,5.4,7,2014,Documentary,Blair Treu,4.049171
+2476,6-Oct-17,The Florida Project,2.0,5.904366,11.295324,7.4,1125,2017,Drama,Sean Baker,9.295324
+2477,25-Aug-17,All Saints,2.0,5.802208,5.941994,6.1,25,2017,Drama,Steve Gomer,3.941994
+2478,8-Oct-10,Inside Job,2.0,4.311834,7.799257,7.8,466,2010,"Crime,Documentary",Charles Ferguson,5.799257
+2479,28-Aug-15,We Are Your Friends,2.0,3.591417,10.153415,6.3,1241,2015,"Drama,Music,Romance",Max Joseph,8.153415
+2480,18-Sep-15,Captive,2.0,2.583301,2.791973,3.8,7,2012,"Drama,Thriller",Brillante Mendoza,0.791973
+2489,8-Jun-18,Hearts Beat Loud,2.0,2.386254,2.420962,7.4,87,2018,"Comedy,Drama,Music",Brett Haley,0.42096199999999984
+2490,20-Jan-17,The Resurrection of Gavin Stone,2.0,2.303792,2.303792,6.7,10,2016,"Comedy,Drama,Family",Dallas Jenkins,0.30379200000000006
+2491,7-Aug-15,The Diary of a Teenage Girl,2.0,1.477002,2.279959,6.7,460,2015,"Comedy,Drama,Romance",Marielle Heller,0.27995899999999985
+2492,25-Apr-14,Locke,2.0,1.370646,2.08839,6.9,1370,2013,Drama,Steven Knight,0.08838999999999997
+2493,8-Apr-11,Meek's Cutoff,2.0,0.977772,1.869928,6.5,113,2010,"Drama,Western",Kelly Reichardt,-0.13007199999999997
+2494,28-Nov-14,The Babadook,2.0,0.950792,7.482387,6.4,3528,2014,"Drama,Horror",Jennifer Kent,5.482387
+2495,18-Jan-08,Teeth,2.0,0.347578,2.350641,7.6,5,2017,Drama,Rares H. Stoica,0.350641
+2499,26-Jul-96,Stonewall,2.0,0.304602,0.304602,6.2,69,2015,"Drama,History",Roland Emmerich,-1.695398
+2500,13-Feb-15,The Last Five Years,2.0,0.147299,0.205298,5.9,230,2014,"Comedy,Drama,Musical",Richard LaGravenese,-1.794702
+2501,7-Apr-15,Lost River,2.0,0.045431,2.009644,5.8,352,2014,"Drama,Fantasy,Mystery",Ryan Gosling,0.009644000000000208
+2502,9-Oct-15,Knock Knock,2.0,0.036336,6.328516,5.0,1490,2015,"Drama,Thriller",Eli Roth,4.328516
+2504,19-Oct-12,The First Time,2.0,0.017061,0.017061,7.0,1426,2012,"Comedy,Drama,Romance",Jonathan Kasdan,-1.982939
+2506,27-Aug-10,Circle,2.0,0.010024,0.010024,3.8,6,2010,"Horror,Thriller",Michael W. Watkins,-1.989976
+2510,13-Sep-13,Plush,2.0,0.00308,0.028864,7.5,1,2013,"Drama,Music,Thriller",Catherine Hardwicke,-1.971136
+2512,26-Oct-12,The Ghastly Love of Johnny X,2.0,0.002436,0.002436,6.5,9,2012,"Comedy,Fantasy,Musical",Paul Bunnell,-1.997564
+2513,23-Oct-15,Bone Tomahawk,2.0,0.0,0.475846,6.8,905,2015,"Adventure,Drama,Horror",S. Craig Zahler,-1.524154
+2514,1-Apr-13,Stitches,2.0,0.0,0.063555,5.6,138,2012,"Comedy,Horror",Conor McMahon,-1.936445
+2517,24-Sep-10,Buried,1.98765,1.044143,21.27029,6.6,1487,2010,"Drama,Mystery,Thriller",Rodrigo Cortés,19.28264
+2520,24-Apr-15,Brotherly Love,1.9,0.478595,0.478595,6.8,53,2015,Drama,Jamal Hill,-1.421405
+2522,3-Jun-11,Submarine,1.9,0.467602,4.581937,7.4,770,2010,"Comedy,Drama,Romance",Richard Ayoade,2.681937
+2523,9-Apr-10,The Square,1.9,0.406216,0.740932,7.8,84,2013,"Documentary,Drama,History",Jehane Noujaim,-1.159068
+2525,25-Oct-13,The Square,1.5,0.124244,0.176262,7.8,84,2013,"Documentary,Drama,History",Jehane Noujaim,-1.323738
+2535,26-Jul-13,Stranded,1.9,0.0,0.285593,3.6,73,2019,"Drama,Romance",Ice Idanan,-1.614407
+2537,27-Aug-10,The Last Exorcism,1.8,41.03435,70.1659,5.6,519,2010,"Drama,Horror,Thriller",Daniel Stamm,68.3659
+2538,27-Jun-12,Beasts of the Southern Wild,1.8,12.795746,23.265132,6.9,605,2012,"Adventure,Drama,Fantasy",Benh Zeitlin,21.465132
+2539,23-Aug-11,Higher Ground,1.8,0.841056,0.842693,5.9,21,2011,Drama,Vera Farmiga,-0.957307
+2540,8-Oct-10,I Spit on Your Grave,1.75,0.093051,1.278471,6.3,977,2010,"Horror,Thriller",Steven R. Monroe,-0.4715290000000001
+2541,28-Feb-14,The Lunchbox,1.7,4.2315,12.2315,7.3,350,2013,"Drama,Romance",Ritesh Batra,10.531500000000001
+2542,4-Oct-13,Grace Unplugged,1.7,2.507159,2.507159,6.3,38,2013,"Drama,Music",Brad J. Silverman,0.8071590000000002
+2543,1-Feb-19,Braid,1.66,0.0,0.080745,6.4,18,2018,"Horror,Mystery,Thriller",Mitzi Peirone,-1.5792549999999999
+2544,15-Oct-10,N-Secure,1.6,2.595644,2.595644,4.8,6,2010,"Crime,Drama,Thriller",David M. Matthews,0.995644
+2545,31-Dec-89,Out of the Dark,1.6,0.419428,0.419428,4.8,79,2014,"Horror,Thriller",Lluís Quílez,-1.1805720000000002
+2546,26-Sep-14,Two Night Stand,1.6,0.0156,0.868081,6.5,1241,2014,"Comedy,Romance",Max Nichols,-0.7319190000000001
+2547,1-Apr-11,Insidious,1.5,54.00915,99.870886,6.9,3582,2010,"Horror,Mystery,Thriller",James Wan,98.370886
+2548,21-Oct-16,Moonlight,1.5,27.854931,65.245512,7.4,3893,2016,Drama,Barry Jenkins,63.745512000000005
+2550,12-Sep-03,Cabin Fever,1.5,21.158188,30.351664,4.6,215,2016,Horror,Travis Zariwny,28.851664
+2551,23-Mar-18,Unsane,1.5,7.690044,14.244931,6.2,667,2018,"Drama,Horror,Mystery",Steven Soderbergh,12.744931
+2552,31-Oct-45,Spellbound,1.5,7.0,7.0,5.3,3,2011,"Comedy,Horror,Romance",In-ho Hwang,5.5
+2554,26-Jul-13,The To Do List,1.5,3.491669,4.128828,5.5,534,2013,"Comedy,Romance",Maggie Carey,2.6288280000000004
+2555,1-Feb-13,The Gatekeepers,1.5,2.408553,2.592308,7.2,51,2012,"Documentary,History,War",Dror Moreh,1.092308
+2556,19-Apr-13,The Lords of Salem,1.5,1.165881,1.541131,5.3,445,2012,"Horror,Thriller",Rob Zombie,0.04113100000000003
+2557,21-Oct-16,31,1.5,0.77982,0.922727,5.2,370,2016,"Horror,Thriller",Rob Zombie,-0.577273
+2558,22-Apr-16,Unsullied,1.5,0.510957,0.510957,3.3,3,2014,"Action,Horror,Thriller",Simeon Rice,-0.989043
+2559,19-Aug-11,Amigo,1.5,0.184705,0.184705,4.8,4,2010,"Drama,War",John Sayles,-1.3152949999999999
+2560,17-Oct-14,Housebound,1.5,0.0,0.236863,6.6,505,2014,"Comedy,Horror,Mystery",Gerard Johnstone,-1.263137
+2561,20-Jul-18,Teefa in Trouble,1.5,0.0,0.098806,7.6,11,2018,"Action,Comedy,Crime",Ahsan Rahim,-1.401194
+2562,17-Apr-14,Closer to the Moon,1.5,0.0,0.005396,7.2,19,2014,"Comedy,Crime,Drama",Nae Caranfil,-1.494604
+2563,20-Nov-15,Mustang,1.4,0.845464,5.552584,8.0,755,2015,Drama,Deniz Gamze Ergüven,4.152584000000001
+2564,5-Apr-13,Eddie: The Sleepwalking Cannibal,1.4,0.001632,0.001632,6.2,33,2012,"Comedy,Horror",Boris Rodriguez,-1.3983679999999998
+2565,30-Jan-15,Above and Beyond,1.3,0.288751,0.288751,8.0,5,2014,"Adventure,Documentary,History",Roberta Grossman,-1.011249
+2566,7-Apr-06,Simon,1.3,0.004055,1.738663,0.0,1,2016,Thriller,Warren Badenski,0.438663
+2569,17-Oct-14,Dear White People,1.25,4.404154,5.403771,6.1,296,2014,"Comedy,Drama,Romance",Justin Simien,4.153771
+2570,19-Apr-13,Home Run,1.2,2.859955,2.859955,6.3,33,2010,"Drama,Family,Sport",Chia-Chien Chen,1.6599549999999998
+2572,13-Apr-12,Blue Like Jazz,1.2,0.595018,0.595018,5.9,35,2012,"Comedy,Drama",Steve Taylor,-0.6049819999999999
+2573,1-Jun-12,"Pink Ribbons, Inc.",1.2,0.026608,0.026608,6.8,6,2011,Documentary,Léa Pool,-1.173392
+2574,6-Feb-18,Blood Feast,1.2,0.008708,0.008708,4.3,6,2016,Horror,Marcel Walz,-1.191292
+2575,18-May-12,Beyond the Black Rainbow,1.1,0.056491,0.056491,5.9,150,2010,"Horror,Sci-Fi,Thriller",Panos Cosmatos,-1.043509
+2576,21-Nov-14,The Sleepwalker,1.1,0.002636,0.002636,4.1,9,2014,Drama,Mona Fastvold,-1.097364
+2577,7-Mar-17,Departure,1.1,0.0,0.027561,10.0,1,2015,"Drama,Romance",Andrew Steggall,-1.0724390000000001
+2579,6-Jan-12,The Devil Inside,1.0,53.262945,101.75949,4.7,441,2012,Horror,William Brent Bell,100.75949
+2580,17-Apr-15,Unfriended,1.0,32.789645,64.364198,5.4,2019,2014,"Horror,Mystery,Thriller",Levan Gabriadze,63.364198
+2581,23-Aug-13,You're Next,1.0,18.494006,26.887177,6.6,1258,2011,"Action,Comedy,Horror",Adam Wingard,25.887177
+2582,25-May-12,Chernobyl Diaries,1.0,18.11964,42.411721,5.0,842,2012,"Horror,Mystery,Thriller",Bradley Parker,41.411721
+2583,29-Dec-10,Blue Valentine,1.0,9.737892,16.56624,6.9,1677,2010,"Drama,Romance",Derek Cianfrance,15.56624
+2584,20-Jul-18,Unfriended: Dark Web,1.0,8.866745,16.434588,6.1,365,2018,"Crime,Horror,Mystery",Stephen Susco,15.434588000000002
+2585,25-Sep-15,The Green Inferno,1.0,7.192291,12.93142,5.2,619,2013,"Adventure,Horror",Eli Roth,11.93142
+2586,3-Feb-17,I Am Not Your Negro,1.0,7.123919,9.617402,8.1,196,2016,Documentary,Raoul Peck,8.617402
+2587,19-Oct-12,The Sessions,1.0,6.002451,11.495204,6.9,296,2012,"Biography,Comedy,Drama",Ben Lewin,10.495204
+2588,12-Sep-14,The Skeleton Twins,1.0,5.284309,5.797192,6.7,394,2014,"Comedy,Drama,Romance",Craig Johnson,4.797192
+2589,6-Jun-14,Obvious Child,1.0,3.122616,3.32407,6.7,256,2014,"Comedy,Drama,Romance",Gillian Robespierre,2.32407
+2590,21-Oct-11,Martha Marcy May Marlene,1.0,2.981038,5.438911,6.7,413,2011,"Drama,Mystery,Thriller",Sean Durkin,4.438911
+2591,7-Dec-01,No Man's Land,1.0,1.067481,2.684207,7.0,1,2020,Western,Conor Allyn,1.6842069999999998
+2606,18-Aug-17,Patti Cake$,1.0,0.800148,1.47109,7.0,122,2017,"Drama,Music",Geremy Jasper,0.47109
+2607,9-May-14,Palo Alto,1.0,0.767732,1.156309,6.4,528,2013,Drama,Gia Coppola,0.15630900000000003
+2608,29-Jul-11,The Future,1.0,0.568662,1.239174,5.8,38,2011,"Drama,Fantasy,Romance",Miranda July,0.239174
+2610,24-Oct-14,23 Blast,1.0,0.549185,0.549185,6.5,31,2014,"Drama,Family,Sport",Dylan Baker,-0.45081499999999997
+2611,18-Jul-14,I Origins,1.0,0.336472,0.852399,7.6,1814,2014,"Drama,Romance,Sci-Fi",Mike Cahill,-0.14760099999999998
+2612,28-Nov-14,Antarctica: A Year on Ice,1.0,0.288757,0.288757,7.2,41,2013,"Adventure,Biography,Documentary",Anthony Powell,-0.7112430000000001
+2613,8-Apr-16,The Invitation,1.0,0.231738,0.354836,6.5,1063,2015,"Drama,Horror,Mystery",Karyn Kusama,-0.6451640000000001
+2614,1-Jun-12,Hardflip,1.0,0.096734,0.096734,5.0,7,2012,"Action,Drama",Johnny Remo,-0.903266
+2615,11-Mar-16,Creative Control,1.0,0.063014,0.063014,5.6,36,2015,"Drama,Sci-Fi",Benjamin Dickinson,-0.936986
+2616,1-Jul-11,The Perfect Host,1.0,0.048764,0.051587,6.3,217,2010,"Comedy,Crime,Thriller",Nick Tomnay,-0.948413
+2618,13-Feb-15,Hits,1.0,0.015156,0.015156,5.0,36,2014,"Comedy,Drama",David Cross,-0.984844
+2619,17-Oct-14,Camp X-Ray,1.0,0.009837,0.101053,6.8,618,2014,"Drama,War",Peter Sattler,-0.8989469999999999
+2620,10-Apr-15,The Sisterhood of Night,1.0,0.00687,0.00687,6.4,51,2014,"Drama,Mystery,Thriller",Caryn Waechter,-0.99313
+2621,31-Dec-13,Heli,1.0,0.0,0.552614,6.4,46,2013,"Crime,Drama,Romance",Amat Escalante,-0.44738599999999995
+2622,11-Dec-15,American Hero,1.0,0.0,2.6e-05,5.0,93,2015,"Action,Comedy,Drama",Nick Love,-0.999974
+2623,10-Jan-14,Banshee Chapter,0.95,0.0,0.078122,5.6,135,2013,"Horror,Sci-Fi,Thriller",Blair Erickson,-0.8718779999999999
+2624,13-Apr-12,L!fe Happens,0.93,0.030905,0.030905,5.3,91,2011,Comedy,Kat Coiro,-0.8990950000000001
+2625,12-May-17,Lowriders,0.916,6.179955,6.188421,6.5,46,2016,"Adventure,Crime,Drama",Ricardo de Montreuil,5.272421
+2627,12-Jul-13,Fruitvale Station,0.9,16.098998,17.549645,7.4,645,2013,"Biography,Drama,Romance",Ryan Coogler,16.649645000000003
+2628,1-Apr-16,Meet the Blacks,0.9,9.097072,9.097072,4.4,139,2016,"Comedy,Horror",Deon Taylor,8.197072
+2629,26-Aug-11,Circumstance,0.9,0.454121,0.958978,6.9,45,2011,Drama,Maryam Keshavarz,0.058977999999999975
+2630,27-Apr-12,The Giant Mechanical Man,0.9,0.007396,0.007396,6.3,70,2012,"Comedy,Drama,Romance",Lee Kirk,-0.8926040000000001
+2631,5-Apr-13,The Brass Teapot,0.9,0.006997,0.413733,6.0,240,2012,"Comedy,Fantasy,Thriller",Ramaa Mosley,-0.486267
+2632,21-Mar-08,The Hammer,0.85,0.442638,0.442638,6.5,16,2010,"Biography,Drama,Sport",Oren Kaplan,-0.407362
+2634,28-Aug-15,Windsor Drive,0.85,0.003256,0.003256,2.5,4,2015,"Mystery,Thriller",Natalie Bible',-0.8467439999999999
+2635,19-Sep-14,Not Cool,0.8,0.035688,0.035688,4.2,50,2014,"Comedy,Drama,Romance",Shane Dawson,-0.7643120000000001
+2636,3-Feb-12,Kill List,0.8,0.029063,0.462206,6.1,332,2011,"Crime,Drama,Horror",Ben Wheatley,-0.33779400000000004
+2637,8-Jun-12,Safety Not Guaranteed,0.75,4.010957,4.422318,6.9,792,2012,"Comedy,Drama,Romance",Colin Trevorrow,3.6723179999999997
+2638,3-Feb-12,The Innkeepers,0.75,0.078396,1.011535,5.5,324,2011,"Drama,Horror,Mystery",Ti West,0.2615350000000001
+2639,4-Aug-17,Columbus,0.7,1.017107,1.110511,7.3,130,2015,Comedy,R. Samala,0.41051100000000007
+2642,11-Oct-13,Escape from Tomorrow,0.65,0.171962,0.171962,4.8,117,2013,"Drama,Fantasy,Horror",Randy Moore,-0.478038
+2643,2-May-14,Water & Power,0.6,0.042557,0.042557,3.0,1,2013,"Crime,Drama",Richard Montoya,-0.557443
+2644,22-May-15,Drunk Wedding,0.6,0.003301,0.003301,3.9,15,2015,Comedy,Nick Weiss,-0.596699
+2645,4-Mar-16,They Will Have to Kill Us First,0.6,0.0,0.007943,5.0,1,2015,Documentary,Johanna Schwartz,-0.5920569999999999
+2646,12-Sep-14,Faith Connections,0.55,0.009111,0.009111,4.2,3,2013,"Biography,Documentary,Drama",Pan Nalin,-0.5408890000000001
+2647,15-Nov-74,Benji,0.5,31.55956,31.55956,8.0,4,2018,"Crime,Drama,Family",Brandon Camp,31.05956
+2649,23-Aug-13,Drinking Buddies,0.5,0.343706,0.4071,6.0,528,2013,"Comedy,Drama,Romance",Joe Swanberg,-0.09289999999999998
+2650,29-Oct-10,Monsters,0.5,0.237301,5.63973,6.2,848,2010,"Drama,Sci-Fi,Thriller",Gareth Edwards,5.13973
+2658,17-Apr-13,Deceptive Practice: The Mysteries and Mentors of Ricky Jay,0.5,0.152449,0.152449,7.1,18,2012,Documentary,Molly Bernstein,-0.347551
+2659,28-Sep-12,The Other Dream Team,0.5,0.134109,0.314444,7.5,12,2012,"Documentary,Sport",Marius A. Markevicius,-0.185556
+2660,1-Apr-11,Rubber,0.5,0.10037,0.680914,5.9,417,2010,"Comedy,Fantasy,Horror",Quentin Dupieux,0.18091400000000002
+2661,11-Jul-03,The Journey,0.5,0.0198,0.0198,6.7,20,2010,Family,Tim Lowry,-0.4802
+2667,10-Sep-14,Born to Fly: Elizabeth Streb vs. Gravity,0.5,0.001822,0.001822,5.5,2,2014,"Action,Biography,Documentary",Catherine Gund,-0.498178
+2668,28-Jun-13,Detention of the Dead,0.5,0.001778,0.001778,5.0,50,2012,"Action,Adventure,Comedy",Alex Craig Mann,-0.498222
+2669,11-May-18,Higher Power,0.5,0.000528,0.000528,4.9,43,2018,"Action,Sci-Fi,Thriller",Matthew Charles Santoro,-0.499472
+2670,11-Jul-14,As It Is in Heaven,0.45,0.013486,0.013486,8.0,1,2014,Drama,Joshua Overbay,-0.436514
+2671,25-Apr-14,Blue Ruin,0.42,0.258384,0.437002,6.9,736,2013,"Crime,Drama,Thriller",Jeremy Saulnier,0.017002000000000017
+2672,15-Oct-10,I Want Your Money,0.4,0.433588,0.433588,4.2,5,2010,Documentary,Ray Griggs,0.03358799999999995
+2673,16-May-80,Home Movies,0.4,0.089134,0.089134,5.8,6,2011,"Documentary,Family",Dean Duncan,-0.31086600000000003
+2675,27-Jul-01,Jackpot,0.4,0.044452,0.044452,6.0,1,2011,"Action,Comedy,Crime",Magnus Martens,-0.35554800000000003
+2685,1-Jan-80,Maniac,0.35,10.0,10.0,6.1,9,2011,"Action,Horror,Thriller",Albin Joseph,9.65
+2689,11-Mar-11,3 Backyards,0.3,0.039475,0.039475,4.3,6,2010,Drama,Eric Mendelsohn,-0.260525
+2690,23-Oct-15,The Looking Glass,0.3,0.001711,0.001711,5.0,1,2011,Fantasy,Colin Downey,-0.29828899999999997
+2694,17-Aug-12,Compliance,0.27,0.319285,0.8307,6.4,340,2012,"Biography,Crime,Drama",Craig Zobel,0.5607
+2695,1-May-81,Graduation Day,0.25,23.894,23.894,5.0,1,2015,Thriller,Chris Stokes,23.644
+2696,28-Apr-17,Sleight,0.25,3.93099,3.93445,5.3,367,2016,"Action,Drama,Sci-Fi",J.D. Dillard,3.68445
+2697,28-Oct-11,Like Crazy,0.25,3.395391,3.7284,6.5,638,2011,"Drama,Romance",Drake Doremus,3.4784
+2700,11-Sep-98,Cube,0.25,0.48922,8.969065,2.0,1,2013,"Biography,Documentary",Chris Kaye,8.719065
+2701,22-Jul-05,November,0.25,0.191862,0.191862,7.6,38,2014,"Documentary,History",Luciangela Gatto,-0.058137999999999995
+2703,28-Mar-08,Happy Valley,0.25,0.067665,0.067665,6.7,25,2014,"Documentary,Drama,Sport",Amir Bar-Lev,-0.182335
+2704,2-Aug-13,The Canyons,0.25,0.059671,0.062375,4.3,134,2013,"Drama,Thriller",Paul Schrader,-0.187625
+2705,6-Jun-14,Test,0.25,0.018823,0.018823,7.2,37,2013,Drama,Chris Mason Johnson,-0.231177
+2714,20-Jul-12,Burn,0.225,1.109276,1.109276,9.0,1,2015,Thriller,Giorgio Serafino,0.884276
+2716,25-Feb-11,The Grace Card,0.2,2.430735,2.430735,6.5,18,2010,Drama,David G. Evans,2.2307349999999997
+2717,19-Jun-15,The Overnight,0.2,1.109808,1.165996,6.0,200,2015,"Comedy,Mystery",Patrick Brice,0.9659960000000001
+2718,12-Oct-12,Middle of Nowhere,0.2,0.236806,0.236806,5.9,35,2012,Drama,Ava DuVernay,0.03680599999999998
+2720,14-Mar-14,The Word,0.2,0.003648,0.003648,4.8,15,2013,Drama,Gregory W. Friedle,-0.196352
+2722,23-Sep-11,Weekend,0.19,0.484592,1.577585,7.5,287,2011,"Drama,Romance",Andrew Haigh,1.387585
+2724,27-Feb-15,Butterfly Girl,0.18,0.017503,0.017503,5.0,1,2014,Documentary,Cary Bell,-0.162497
+2725,22-Jul-11,Another Earth,0.175,1.321194,2.102779,6.7,853,2011,"Drama,Romance,Sci-Fi",Mike Cahill,1.927779
+2726,23-Aug-13,Sparrows Dance,0.175,0.002602,0.002602,7.4,6,2012,"Comedy,Drama,Romance",Noah Buschel,-0.172398
+2727,3-Jun-16,The Fits,0.17,0.166425,0.169242,6.6,66,2015,"Drama,Music",Anna Rose Holmer,-0.0007580000000000087
+2728,1-Mar-02,The Calling,0.16,0.032092,0.032092,5.7,110,2014,"Drama,Thriller",Jason Stone,-0.127908
+2731,31-Dec-13,Speak No Evil,0.15,0.0,0.032927,3.6,19,2013,Horror,Roze,-0.117073
+2732,27-Apr-12,Sound of My Voice,0.135,0.408015,0.429448,6.4,169,2011,"Drama,Mystery,Sci-Fi",Zal Batmanglij,0.294448
+2733,15-Jun-12,Your Sister's Sister,0.12,1.597486,3.090593,6.6,192,2011,"Comedy,Drama",Lynn Shelton,2.970593
+2734,7-Jul-17,A Ghost Story,0.1,1.594798,2.769782,7.0,906,2017,"Drama,Fantasy,Romance",David Lowery,2.669782
+2735,21-Mar-14,Cheap Thrills,0.1,0.059424,0.059424,6.4,216,2013,"Comedy,Crime,Drama",E.L. Katz,-0.04057600000000001
+2736,17-Jul-15,Dawn of the Crescent Moon,0.075,0.008799,0.008799,2.0,1,2014,"Drama,Sci-Fi,Thriller",Kirk Loudon,-0.066201
+2737,25-Jul-14,Happy Christmas,0.07,0.030312,0.030312,5.1,95,2014,"Comedy,Drama",Joe Swanberg,-0.03968800000000001
+2738,31-Dec-11,Absentia,0.07,0.0,0.008555,5.9,175,2011,"Drama,Horror,Mystery",Mike Flanagan,-0.06144500000000001
+2739,25-Jan-13,Supporting Characters,0.06,0.004917,0.004917,6.7,13,2012,Comedy,Daniel Schechter,-0.055083
+2740,12-Nov-10,Tiny Furniture,0.05,0.391674,0.424149,5.9,82,2010,"Comedy,Drama,Romance",Lena Dunham,0.374149
+2741,31-Jul-15,Counting,0.05,0.008374,0.008374,8.3,3,2015,Documentary,Jem Cohen,-0.041626
+2742,11-Feb-11,Raymond Did It,0.04,0.003632,0.003632,3.7,8,2011,Horror,Travis Legge,-0.036368
+2743,18-Mar-16,Krisha,0.03,0.144822,0.144822,9.0,1,2015,Drama,Trey Edward Shults,0.11482200000000001
+2745,27-Jan-17,Emily,0.027,0.003547,0.003547,7.0,1,2011,Drama,Timothy McNeil,-0.023453
+2748,1-Sep-15,Exeter,0.025,0.0,0.489792,4.7,121,2015,"Horror,Mystery,Thriller",Marcus Nispel,0.464792
+2750,13-Jan-12,Newlyweds,0.009,0.004584,0.004584,5.4,7,2011,"Comedy,Drama",Edward Burns,-0.004415999999999999
